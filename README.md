@@ -21,6 +21,8 @@ I'm a **Quantitative Fisheries Scientist** with a focus on _Pacific salmon asses
 
 <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> Denotes article is behind a paywall
 
+### 2020
+
 ### 2019
 
 <details>
@@ -46,6 +48,7 @@ I'm a **Quantitative Fisheries Scientist** with a focus on _Pacific salmon asses
     </p>
 </details>
 
+
 <details>
     <summary><img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> <b>Migratory patterns of Chinook salmon bound for the Kwethluk and Kisaralik Rivers using radio telemetry, 2015-2016</b></summary>
     <br>
@@ -68,3 +71,29 @@ I'm a **Quantitative Fisheries Scientist** with a focus on _Pacific salmon asses
         Data archived in the supplement <a href="https://doi.org/10.3996/082018-JFWM-074.S1"><img src="https://zenodo.org/badge/DOI/10.3996/082018-JFWM-074.S1.svg" alt="DOI"></a>
     </p>
 </details>
+
+### 2017
+
+<details>
+    <summary><img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>Development and evaluation of a migration timing forecast model for Kuskokwim River Chinook salmon</b></summary>
+    <br>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
+    <p>
+        Fisheries Research, 194:9-21
+        <br>
+        <a href="https://doi.org/10.1016/j.fishres.2017.05.003"><img src="https://zenodo.org/badge/DOI/10.1016/j.fishres.2017.05.003.svg" alt="DOI"></a>
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
+    <p>
+        <b>B.A. Staton</b>, M.J. Catalano, T.M. Farmer, A. Abebe, and F.S. Dobson
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
+    <p>
+        Annual variation in adult salmon migration timing makes the interpretation of in-season assessment data difficult, leading to much in-season uncertainty in run size. We developed and evaluated a run timing forecast model for the Kuskokwim River Chinook salmon stock, located in western Alaska, intended to aid in reducing this source of uncertainty. An objective and adaptive approach (using model-averaging and a sliding window algorithm to select predictive time periods, both calibrated annually) was adopted to deal with multidimensional selection of four climatic variables and was based entirely on predictive performance. Forecast cross-validation was used to evaluate the performance of three forecasting approaches: the null (i.e., intercept only) model, the single model with the lowest mean absolute error, and a model-averaged forecast across 16 nested linear models. As of 2016, the null model had the lowest mean absolute error (2.64 days), although the model-averaged forecast performed as well or better than the null model in the majority of retrospective years. The model-averaged forecast had a consistent mean absolute error regardless of the type of year (i.e., average or extreme early/late) the forecast was made for, which was not true of the null model. The availability of the run timing forecast was not found to increase overall accuracy of in-season run assessments in relation to the null model, but was found to substantially increase the precision of these assessments, particularly early in the season.
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
+    <p>
+        This was my second paper, and was before I learned about reproducible research and making code citable with <a href=zenodo.org>Zenodo</a>. Limited code is available in the Supplement.
+    </p>
+</details>
+
