@@ -97,3 +97,25 @@ I'm a **Quantitative Fisheries Scientist** with a focus on _Pacific salmon asses
     </p>
 </details>
 
+<details>
+    <summary><img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>Maximize your meeting: A student's guide to AFS meetings</b></summary>
+    <br>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
+    <p>
+        Fisheries, 42(4):187-189
+        <br>
+        <a href="https://doi.org/10.1080/03632415.2017.1288472"><img src="https://zenodo.org/badge/DOI/10.1080/03632415.2017.1288472.svg" alt="DOI"></a>
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
+    <p>
+        D.A. Dippold, G.D. Adams, T.M. Farmer, and <b>B.A. Staton</b>
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
+    <p>
+        Not applicable
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
+    <p>
+        Not applicable
+    </p>
+</details>
