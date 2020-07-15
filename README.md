@@ -142,4 +142,24 @@ I'm a **Quantitative Fisheries Scientist** with a focus on _Pacific salmon asses
         This was my first paper, and was before I learned about reproducible research and making code citable with <a href=zenodo.org>Zenodo</a>. JAGS model code for the integrated model is in the supplement.
     </p>
 </details>
+<details>
+    <summary><img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> <b>Physiological ecology of four endemic Alabama species and the exotic Asiatic weather fish <em>Misgurnus anguillicaudatus</em> (Cantor, 1842)</b></summary>
+    <br>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
+    <p>
+        <a href=https://trace.tennessee.edu/sfcproceedings/vol1/iss57/3/>Southeastern Fishes Council Proceedings, 1(57)</a>
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
+    <p>
+        L.M. White, M.E. Meade, and <b>B.A. Staton</b>
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
+    <p>
+        The occurrence of Asiatic Weatherfish, <em>Misgurnus anguillicaudatus</em>, in Alabama, a state known for its rich biodiversity, has generated concern among conservation managers. The current study used respirometry techniques to investigate the effects of increasing temperature on four native southeastern fishes (one cyprinid, two percids, and one elassomid) and the non-native <em>M. anguillicaudatus</em>. A minimum of five individuals of each species were used, and three experimental temperatures were chosen to represent spring and summer averages of northeast Alabama streams (15, 20, and 25°C). Overall, mean standard metabolic rates (SMRs) for <em>M. anguillicaudatus</em> were low (97.01, 127.75, and 158.50 mg O<sub>2</sub> kg<sup>-1</sup>h<sup>-1</sup> at 15, 20, and 25°C, respectively); <em>M. anguillicaudatus</em> was the only species for which SMR did not significantly increase with temperature (p = 0.467). In contrast, mean SMRs for all native species examined were higher than <em>M. anguillicaudatus</em> rates at a given temperature, and mean SMRs for <em>Cyprinella caerulea</em>, <em>Etheostoma brevirostrum</em>, and <em>Etheostoma ditrema</em> exhibited significant increases in SMR when temperatures were increased (e.g. 403.46, 704.42, and 1150.03 mg O<sub>2</sub> kg<sup>-1</sup>h<sup>-1</sup> at 25°C, respectively) (p &lt; 0.01). <em>Elassoma zonatum</em> displayed highly significant increases in SMR when temperature increased from 15-20°C (p &lt; 0.001). Overall, the abiotic tolerances of <em>M. anguillicaudatus</em> may facilitate further establishment that could lead to negative impacts on native species.
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
+    <p>
+        This paper happened before I learned about reproducible research and making code citable with <a href=zenodo.org>Zenodo</a>.
+    </p>
+</details>
 
