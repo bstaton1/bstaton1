@@ -119,3 +119,27 @@ I'm a **Quantitative Fisheries Scientist** with a focus on _Pacific salmon asses
         Not applicable
     </p>
 </details>
+
+<details>
+    <summary><img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>From sequential to integrated Bayesian analyses: Exploring the continuum with a Pacific salmon spawner-recruit model</b></summary>
+    <br>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
+    <p>
+       Fisheries Research, 186:237-247
+        <br>
+        <a href="https://doi.org/10.1016/j.fishres.2016.09.001"><img src="https://zenodo.org/badge/DOI/10.1016/j.fishres.2016.09.001.svg" alt="DOI"></a>
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
+    <p>
+        <b>B.A. Staton</b>, M.J. Catalano, and S.J. Fleischman
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
+    <p>
+        Stock assessment scientists are faced with decisions regarding how to incorporate fishery information into models. One primary decision revolves around how estimates that are summaries of raw data should be treated (e.g., abundance estimates derived from relative indices). The choice in this case is to either use estimates from a sequence of models as data in a final model (i.e., the model used for setting management goals) or to integrate the raw data into a more complex final model. Each approach has advantages and disadvantages that constitute a suite of trade-offs. These trade-offs are investigated here by comparing two sequential analyses (one that ignores measurement error and one that incorporates it) to an integrated analysis for a stock assessment of Pacific salmon using simulation-estimation, and the Kuskokwim River Chinook salmon stock of western Alaska as a case study. The major difference between approaches was that an abundance reconstruction was estimated separately from the spawner-recruit analysis in the sequential approaches, whereas the integrated approach did so in a single model. Primary findings showed that approaches that addressed the measurement error in the raw data returned very similar estimates of abundance, population dynamics parameters, and management reference points, both in terms of point estimates and uncertainty. When measurement error was ignored, similar point estimates were returned. However, this approach underestimated uncertainty in the spawner-recruit analysis but resulted in more uncertainty in the abundance reconstruction. These findings were consistent for both the Kuskokwim River case study and simulation-estimation analyses. The primary advantage of the integrated analysis was the added realism of sharing calendar year abundance data among brood years, but came at the cost of slow model run times. This exercise showed that while there is a trade-off between sequential and integrated analyses in terms of model complexity and realism, the benefits may not be large enough to warrant an integrated analysis in all cases, given that the terminal model carries forward uncertainty in the input estimates.
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
+    <p>
+        This was my first paper, and was before I learned about reproducible research and making code citable with <a href=zenodo.org>Zenodo</a>. JAGS model code for the integrated model is in the supplement.
+    </p>
+</details>
+
