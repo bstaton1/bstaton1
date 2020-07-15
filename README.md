@@ -43,4 +43,23 @@ I'm a **Quantitative Fisheries Scientist** with a focus on _Pacific salmon asses
         Found in <a href=https://github.com/bstaton1/inseason-update-ms-analysis> bstaton1/inseason-update-ms-analysis</a>, which is archived under <a href="https://doi.org/10.5281/zenodo.1467683"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1467683.svg" alt="DOI"></a> 
     </p>
 </details>
-
+<details>
+    <summary><img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> <b>Migratory patterns of Chinook salmon bound for the Kwethluk and Kisaralik Rivers using radio telemetry, 2015-2016</b></summary>
+    <br>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
+    <p>
+        <a href=https://doi.org/10.3996/082018-JFWM-074>Journal of Fish and Wildlife Management, 10(2):419-431</a>
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
+    <p>
+        A.P. Moses, <b>B.A. Staton</b>, and N.J. Smith
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
+    <p>
+        Detailed information regarding migratory behavior (i.e., phenology and rate of travel) of specific Pacific salmon <em>Oncorhynchus</em> spp. substocks can be used to design management strategies focused on protecting substocks from harvest when desired; however, this information is often lacking. The Kwethluk and Kisaralik rivers are two tributaries of the lower Kuskokwim River that originate and flow through the Yukon Delta National Wildlife Refuge in western Alaska. Although these two systems are the primary Chinook Salmon–producing tributaries within the Yukon Delta National Wildlife Refuge, little is known about migratory behavior of Chinook Salmon destined for these rivers. In 2015 and 2016, 119 Chinook Salmon tagged with radio telemetry transmitters entered either the Kwethluk or Kisaralik Rivers and were tracked throughout their migration to their assumed final spawning location using both ground- and aerial-based tracking methods. We compared migration timing and swim speeds between fish bound for these two rivers and between fish of different sizes and compared the consistency among the 2 y. In general, we found that fish bound for the Kwethluk and Kisaralik rivers exhibited similar migration behaviors in 2015 and 2016, including entry timing into the Kuskokwim River and migration rates once in the tributaries. A key finding was that Chinook Salmon swam fastest (range of means between years: 20–45 km/d) in the main-stem Kuskokwim River and slowed significantly (4–15 km/d) upon entry into lower portions of the tributaries. Our findings have relevance for harvest management strategies; for example, temporal fishery closures will impact Chinook Salmon bound for both the Kwethluk and Kisaralik rivers equally given their broad overlap in entry timing, and individuals will remain vulnerable to harvest for longer periods when located in tributaries rather than the portion of the main-stem directly below the tributary confluences.
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
+    <p>
+        Data found in the supplement at DOI <a href=https://doi.org/10.3996/082018-JFWM-074.S1> 10.3996/082018-JFWM-074.S1</a>
+    </p>
+</details>
