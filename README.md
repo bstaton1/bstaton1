@@ -17,30 +17,30 @@ I'm a **Quantitative Fisheries Scientist** with a focus on _Pacific salmon asses
 
 ## Journal Articles
 
-<img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> Denotes article is open access
+<img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> Denotes article is open access
 
-<img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> Denotes article is behind a paywall
+<img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> Denotes article is behind a paywall
 
 ### 2020
 
 <details>
-    <summary><img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>Evaluation of methods for spawner-recruit analysis in mixed-stock Pacific salmon fisheries</b></summary>
+    <summary><img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>Evaluation of methods for spawner-recruit analysis in mixed-stock Pacific salmon fisheries</b></summary>
     <br>
-    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
     <p>
         Canadian Journal of Fisheries and Aquatic Sciences, 77(7):1149-1162
         <br>
         <a href="https://doi.org/10.1139/cjfas-2019-0281"><img src="https://zenodo.org/badge/DOI/10.1139/cjfas-2019-0281.svg" alt="DOI"></a>
     </p>
-    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
     <p>
         <b>B.A. Staton</b>, M.J. Catalano, B.M. Connors, L.G. Coggins Jr., M.L. Jones, C.J. Walters, S.J. Fleischman, and D.C. Gwinn
     </p>
-    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
     <p>
         Salmon populations harvested in mixed-stock fisheries can exhibit genotypic, behavioral, and life history diversity that can lead to heterogeneity in population productivity and size. Methods to quantify this heterogeneity among populations in mixed-stock fisheries are not well-established but are critical to assessing harvest–biodiversity trade-offs when setting harvest policies. We developed an integrated, age-structured, state-space model that allows for more complete use of available data and sharing of information than simpler methods. We compared a suite of state-space models of varying structural complexity to simpler regression-based approaches and, as an example case, fitted them to data from 13 Chinook salmon (Oncorhynchus tshawytscha) populations in the Kuskokwim drainage in western Alaska. We found biological and policy conclusions were largely consistent among state-space models but differed strongly from regression-based approaches. Simulation trials illustrated our state-space models were largely unbiased with respect to spawner–recruit parameters, abundance states, and derived biological reference points, whereas the regression-based approaches showed substantial bias. These findings suggest our state-space model shows promise for informing harvest policy evaluations of harvest–biodiversity trade-offs in mixed-stock salmon fisheries.
     </p>
-    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
     <p>
         Found in <a href=https://github.com/bstaton1/mixed-stockSRA> bstaton1/mixed-stockSRA</a>, which is archived under <a href="https://doi.org/10.5281/zenodo.3375006"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3375006.svg" alt="DOI"></a>
     </p>
