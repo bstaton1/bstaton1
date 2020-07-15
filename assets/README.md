@@ -1,0 +1,1 @@
+All `.svg` icons in this directory are from [Font Awesome](https://fontawesome.com/) free edition.
