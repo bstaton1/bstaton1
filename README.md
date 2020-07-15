@@ -46,6 +46,29 @@ I'm a **Quantitative Fisheries Scientist** with a focus on _Pacific salmon asses
     </p>
 </details>
 
+<details>
+    <summary><img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>Incorporating harvest-population diversity trade-offs into harvest policy analyses of salmon management in large river basins</b></summary>
+    <br>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
+    <p>
+        Canadian Journal of Fisheries and Aquatic Sciences, 77(6):1076-1089
+        <br>
+        <a href="https://doi.org/10.1139/cjfas-2019-0282"><img src="https://zenodo.org/badge/DOI/10.1139/cjfas-2019-0282.svg" alt="DOI"></a>
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
+    <p>
+        B.M. Connors, <b>B.A. Staton</b>, L.G. Coggins Jr., C.J. Walters, M.L. Jones, D.C. Gwinn, M.J. Catalano, and S.J. Fleischman
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
+    <p>
+        Accounting for population diversity can be critical to the sustainable management of mixed-stock fisheries because harvest rates that can be sustained by productive populations may come at the cost of overfishing less productive ones. While these harvest–diversity trade-offs are well-recognized, their consequences for harvest policy performance are not often explicitly evaluated in contemporary fisheries management. We use closed-loop simulations to evaluate the ability of alternative harvest policies to meet population diversity and fishery objectives for one of the largest subsistence Chinook salmon (Oncorhynchus tshawytscha) fisheries in the world (Kuskokwim River Basin in western Alaska). We found clear evidence of population diversity that resulted in asymmetric trade-offs among fishery and conservation objectives whereby policies that forgo relatively small amounts of harvest result in relatively large increases in equitable access to Chinook and elimination of risk of weak stock extirpation. The performance of alternative harvest policies, and the magnitude of trade-offs, were sensitive to regime shifts and uncertainty in the drivers of recruitment variation. However, we found that harvest policies that prioritized meeting minimum subsistence needs were unlikely to jeopardize long-term sustainability.
+    </p>
+    <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
+    <p>
+        Found in <a href=https://github.com/brendanmichaelconnors/Kusko-harvest-diversity-tradeoffs> brendanmichaelconnors/Kusko-harvest-diversity-tradeoffs</a>, which is archived under <a href="https://doi.org/10.5281/zenodo.3375124"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3375124.svg" alt="DOI"></a>
+    </p>
+</details>
+
 ### 2019
 
 <details>
@@ -70,8 +93,6 @@ I'm a **Quantitative Fisheries Scientist** with a focus on _Pacific salmon asses
         Found in <a href=https://github.com/bstaton1/inseason-update-ms-analysis> bstaton1/inseason-update-ms-analysis</a>, which is archived under <a href="https://doi.org/10.5281/zenodo.1467683"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1467683.svg" alt="DOI"></a> 
     </p>
 </details>
-
-
 <details>
     <summary><img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> <b>Migratory patterns of Chinook salmon bound for the Kwethluk and Kisaralik Rivers using radio telemetry, 2015-2016</b></summary>
     <br>
