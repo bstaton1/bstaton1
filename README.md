@@ -28,7 +28,9 @@ I'm a **Quantitative Fisheries Scientist** with a focus on _Pacific salmon asses
     <br>
     <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
     <p>
-        <a href=https://doi.org/10.1139/cjfas-2018-0176>Canadian Journal of Fisheries and Aquatic Sciences, 76(10):1719-1727</a>
+        Canadian Journal of Fisheries and Aquatic Sciences, 76(10):1719-1727
+        <br>
+        <a href="https://doi.org/10.1139/cjfas-2018-0176"><img src="https://zenodo.org/badge/DOI/10.1139/cjfas-2018-0176.svg" alt="DOI"></a>
     </p>
     <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
     <p>
@@ -43,12 +45,15 @@ I'm a **Quantitative Fisheries Scientist** with a focus on _Pacific salmon asses
         Found in <a href=https://github.com/bstaton1/inseason-update-ms-analysis> bstaton1/inseason-update-ms-analysis</a>, which is archived under <a href="https://doi.org/10.5281/zenodo.1467683"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1467683.svg" alt="DOI"></a> 
     </p>
 </details>
+
 <details>
     <summary><img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> <b>Migratory patterns of Chinook salmon bound for the Kwethluk and Kisaralik Rivers using radio telemetry, 2015-2016</b></summary>
     <br>
     <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
     <p>
-        <a href=https://doi.org/10.3996/082018-JFWM-074>Journal of Fish and Wildlife Management, 10(2):419-431</a>
+        Journal of Fish and Wildlife Management, 10(2):419-431
+        <br>
+        <a href="https://doi.org/10.3996/082018-JFWM-074"><img src="https://zenodo.org/badge/DOI/10.3996/082018-JFWM-074.svg" alt="DOI"></a>
     </p>
     <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
     <p>
@@ -60,6 +65,6 @@ I'm a **Quantitative Fisheries Scientist** with a focus on _Pacific salmon asses
     </p>
     <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
     <p>
-        Data found in the supplement at DOI <a href=https://doi.org/10.3996/082018-JFWM-074.S1> 10.3996/082018-JFWM-074.S1</a>
+        Data archived in the supplement <a href="https://doi.org/10.3996/082018-JFWM-074.S1"><img src="https://zenodo.org/badge/DOI/10.3996/082018-JFWM-074.S1.svg" alt="DOI"></a>
     </p>
 </details>
