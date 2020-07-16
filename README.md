@@ -1,11 +1,13 @@
-# Welcome!
+<h1 align='center'> Welcome to My GitHub Profile! </h1>
 
-I'm a **Quantitative Fisheries Scientist** with a focus on _Pacific salmon assessment, management, and conservation_. 
+<h3 align='center'> I'm a Quantitative Fisheries Scientist </h3>
+
+<p align='center'> <em>with a focus on Pacific salmon assessment, management, and conservation</em> </p> 
 
 ## My Interests
 
 * **Population dynamics** and models that describe them
-* **Methods for counting animals** and the models we use to make sense of the data
+* **Methods for counting animals** (generally :fish:) and the models we use to make sense of the data
 * **Bayesian analysis** as a means to quantify knowledge and uncertainty
 * **State-space models** as a means to disentangle biological and observational processes
 * **Transparent and data-driven decision processes** because regardless of the outcome, it should always be clear why a choice was made
