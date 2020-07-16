@@ -5,7 +5,7 @@
 <p align='center'> <em>with a focus on Pacific salmon assessment, management, and conservation</em> </p> 
 
 <p align='center'>
-    <a href="https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en"><img height="33" src="C:/Users/bstaton/Desktop/Staton/3_general/bstaton1/assets/google-scholar.svg" alt="Google Scholar">
+    <a href="https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en"><img height="33" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/google-scholar.svg" alt="Google Scholar">
     </a>
     <a href="https://orcid.org/0000-0002-2342-3482"><img height="30" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/orcid.svg" alt="ORCID">
     </a>
