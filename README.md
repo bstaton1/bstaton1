@@ -20,9 +20,13 @@
 * **Transparent and data-driven decision processes** because regardless of the outcome, it should always be clear why a choice was made
 * **Reproducible workflows** because analyses are rarely ever "finished"
 
-## Commonly Used Tools
+## Commonly Used Tools/Languages
 
-![RStudio](http://img.shields.io/badge/-RStudio-2088FF?style=flat&logo=RStudio&logoColor=ffffff) ![R](http://img.shields.io/badge/-R-2088FF?style=flat&logo=R&logoColor=ffffff) ![Bash](http://img.shields.io/badge/-Bash-2088FF?style=flat&logo=gnu-bash&logoColor=ffffff) ![JAGS](http://img.shields.io/badge/-JAGS-2088FF?style=flat) ![LaTeX](http://img.shields.io/badge/-LaTeX-2088FF?style=flat&logo=latex&logoColor=ffffff) ![markdown](http://img.shields.io/badge/-markdown-2088FF?style=flat&logo=markdown&logoColor=ffffff) ![github](http://img.shields.io/badge/-GitHub-2088FF?style=flat&logo=github&logoColor=ffffff)
+> _In decreasing order of how awful it would be if they were to disappear_
+
+![Google](http://img.shields.io/badge/-Google-2088FF?style=flat&logo=Google&logoColor=ffffff) ![R](http://img.shields.io/badge/-R-2088FF?style=flat&logo=R&logoColor=ffffff) ![RStudio](http://img.shields.io/badge/-RStudio-2088FF?style=flat&logo=RStudio&logoColor=ffffff) ![JAGS](http://img.shields.io/badge/-JAGS-2088FF?style=flat) ![github](http://img.shields.io/badge/-GitHub-2088FF?style=flat&logo=github&logoColor=ffffff) ![markdown](http://img.shields.io/badge/-markdown-2088FF?style=flat&logo=markdown&logoColor=ffffff) ![LaTeX](http://img.shields.io/badge/-LaTeX-2088FF?style=flat&logo=latex&logoColor=ffffff) ![Bash](http://img.shields.io/badge/-Bash-2088FF?style=flat&logo=gnu-bash&logoColor=ffffff) 
+
+
 
 ## Journal Articles
 
