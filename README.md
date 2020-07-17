@@ -30,6 +30,23 @@
 
 [![Stan](http://img.shields.io/badge/-Stan-2088FF?style=flat)](https://mc-stan.org/) [![TMB](http://img.shields.io/badge/-TMB-2088FF?style=flat)](https://github.com/kaskr/adcomp/wiki)
 
+## Current Projects
+
+#### Research
+
+> Private repos will be made public once corresponding manuscripts are submitted for review.
+
+* [snk-eff-ms-analysis](<https://github.com/bstaton1/snk-eff-ms-analysis>) [PUBLIC REPO]: Analysis for a manuscript that documents the development and statistical performance of a method for quantifying covariate effects on detection probability by pairing uncertain abundance information from mark-recapture and binomial count data. Illustrated using an example case of snorkel counts for Grande Ronde River (northeastern Oregon) salmonids. _Manuscript in review_.
+* [GR-sslcm](<https://github.com/bstaton1/GR-sslcm>) [PRIVATE REPO]: Development of a state-space life cycle model for spring Chinook salmon in the Grande Ronde River basin of northeastern Oregon. _Under active development_.
+* [esc-qual-ms-analysis](https://github.com/bstaton1/esc-qual-ms-analysis) [PRIVATE REPO]: Analysis for a manuscript that investigates the influences of declining trends in age-at-return, sex-of-return, and length-at-age on management reference points by incorporating them within state-space spawner-recruit analyses. Illustrated using Kuskokwim River (western Alaska) Chinook salmon. _Manuscript in prep_.
+* [inseason-voi-ms-analysis](<https://github.com/bstaton1/inseason-voi-ms-analysis>) [PRIVATE REPO]: Analysis for a manuscript that investigates the Value of Information of different data sources used during in-season decision-making regarding total allowable harvest for large in-river subsistence salmon fisheries. _Under active development_.
+
+#### R Packages
+
+> Private repos will be made public when I'm ready.
+
+* [postpack](<https://github.com/bstaton1/postpack>) [PUBLIC REPO]: Assortment of tools for working with R objects of class `mcmc.list`. _Under active development; CRAN submission planned for 2020_.
+* [msdown](<https://github.com/bstaton1/msdown>) [PRIVATE REPO]: Template and utilities for writing clean, reproducible, and version controllable manuscripts using the `bookdown` package. _Under active development_.
 
 ## Journal Articles
 
