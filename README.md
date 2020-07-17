@@ -24,11 +24,11 @@
 
 > _In decreasing order of how awful it would be if they were to disappear_
 
-![Google](http://img.shields.io/badge/-Google-2088FF?style=flat&logo=Google&logoColor=ffffff) ![R](http://img.shields.io/badge/-R-2088FF?style=flat&logo=R&logoColor=ffffff) ![RStudio](http://img.shields.io/badge/-RStudio-2088FF?style=flat&logo=RStudio&logoColor=ffffff) ![JAGS](http://img.shields.io/badge/-JAGS-2088FF?style=flat) ![github](http://img.shields.io/badge/-GitHub-2088FF?style=flat&logo=github&logoColor=ffffff) ![markdown](http://img.shields.io/badge/-markdown-2088FF?style=flat&logo=markdown&logoColor=ffffff) ![LaTeX](http://img.shields.io/badge/-LaTeX-2088FF?style=flat&logo=latex&logoColor=ffffff) ![Bash](http://img.shields.io/badge/-Bash-2088FF?style=flat&logo=gnu-bash&logoColor=ffffff) 
+[![Google](http://img.shields.io/badge/-Google-2088FF?style=flat&logo=Google&logoColor=ffffff)](https://www.google.com) [![R](http://img.shields.io/badge/-R-2088FF?style=flat&logo=R&logoColor=ffffff)](https://www.r-project.org/) [![RStudio](http://img.shields.io/badge/-RStudio-2088FF?style=flat&logo=RStudio&logoColor=ffffff)](https://rstudio.com/) [![JAGS](http://img.shields.io/badge/-JAGS-2088FF?style=flat)](http://mcmc-jags.sourceforge.net/) [![github](http://img.shields.io/badge/-GitHub-2088FF?style=flat&logo=github&logoColor=ffffff)](https://github.com/bstaton1) [![markdown](http://img.shields.io/badge/-markdown-2088FF?style=flat&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/) [![LaTeX](http://img.shields.io/badge/-LaTeX-2088FF?style=flat&logo=latex&logoColor=ffffff)](https://www.latex-project.org/) [![Bash](http://img.shields.io/badge/-Bash-2088FF?style=flat&logo=gnu-bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
 
 ## Things I'd Like to Learn
 
-![Stan](http://img.shields.io/badge/-Stan-2088FF?style=flat) ![TMB](http://img.shields.io/badge/-TMB-2088FF?style=flat)
+[![Stan](http://img.shields.io/badge/-Stan-2088FF?style=flat)](https://mc-stan.org/) [![TMB](http://img.shields.io/badge/-TMB-2088FF?style=flat)](https://github.com/kaskr/adcomp/wiki)
 
 
 ## Journal Articles
