@@ -47,7 +47,7 @@ For more information about me and the things I work on, you can view my [curricu
 
 > Private repos will be made public when I'm ready.
 
-* [postpack](<https://github.com/bstaton1/postpack>) [PUBLIC REPO]: Assortment of tools for working with R objects of class `mcmc.list`. _Under active development; CRAN submission planned for 2020_.
+* [postpack](<https://github.com/bstaton1/postpack>) ([website](https://bstaton1.github.io/postpack/)) [PUBLIC REPO]: Assortment of tools for working with R objects of class `mcmc.list`. _Under active development_.
 * [msdown](<https://github.com/bstaton1/msdown>) [PRIVATE REPO]: Template and utilities for writing clean, reproducible, and version controllable manuscripts using the `bookdown` package. _Under active development_.
 
 ## Journal Articles
