@@ -5,9 +5,13 @@
 <p align='center'> <em>with a focus on Pacific salmon assessment, management, and conservation</em> </p> 
 
 <p align='center'>
-    <a href="https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en"><img height="33" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/google-scholar.svg" alt="Google Scholar">
+    <a href="https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en"><img src="http://img.shields.io/badge/-Google Scholar-2088FF?style=flat&logo=google-scholar&logoColor=ffffff" alt="GoogleScholar">
     </a>
-    <a href="https://orcid.org/0000-0002-2342-3482"><img height="30" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/orcid.svg" alt="ORCID">
+    <a href="https://orcid.org/0000-0002-2342-3482"><img src="http://img.shields.io/badge/-ORCID-2088FF?style=flat&logo=ORCID&logoColor=ffffff" alt="ORCID">
+    </a>
+    <a href="https://publons.com/researcher/3415841/benjamin-staton/"><img src="http://img.shields.io/badge/-Publons-2088FF?style=flat&logo=Publons&logoColor=ffffff" alt="Publons">
+    </a>
+    <a href="https://twitter.com/bstat0n"><img src="http://img.shields.io/badge/-Twitter-2088FF?style=flat&logo=Twitter&logoColor=ffffff" alt="Twitter">
     </a>
 </p>
 
