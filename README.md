@@ -24,7 +24,7 @@
 * **Transparent and data-driven decision processes** because regardless of the outcome, it should always be clear why a choice was made
 * **Reproducible workflows** because analyses are rarely ever "finished"
 
-For more information about me and the things I work on, you can view my [curriculum vitae](<https://github.com/bstaton1/bstaton1/blob/master/assets/CV.pdf>) (built with <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/LaTeX-logo.svg" alt="LaTeX">).
+For more information about me and the things I work on, you can view my [curriculum vitae](<https://github.com/bstaton1/bstaton1/blob/master/assets/CV.pdf>).
 
 ## Commonly Used Tools/Languages
 
