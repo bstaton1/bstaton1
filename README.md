@@ -44,7 +44,6 @@ For more information about me and the things I work on, you can view my [curricu
 
 * [snk-eff-ms-analysis](<https://github.com/bstaton1/snk-eff-ms-analysis>) [PUBLIC REPO]: Analysis for a manuscript that documents the development and statistical performance of a method for quantifying covariate effects on detection probability by pairing uncertain abundance information from mark-recapture and binomial count data. Illustrated using an example case of snorkel counts for Grande Ronde River (northeastern Oregon) salmonids. _Manuscript in review_.
 * [GR-sslcm](<https://github.com/bstaton1/GR-sslcm>) [PRIVATE REPO]: Development of a state-space life cycle model for spring Chinook salmon in the Grande Ronde River basin of northeastern Oregon. _Under active development_.
-* [esc-qual-ms-analysis](https://github.com/bstaton1/esc-qual-ms-analysis) [PUBLIC REPO]: Analysis for a manuscript that investigates the influences of declining trends in age-at-return, sex-of-return, and length-at-age on management reference points by incorporating them within state-space spawner-recruit analyses. Illustrated using Kuskokwim River (western Alaska) Chinook salmon. _Manuscript in review_.
 * [inseason-voi-ms-analysis](<https://github.com/bstaton1/inseason-voi-ms-analysis>) [PRIVATE REPO]: Analysis for a manuscript that investigates the Value of Information of different data sources used during in-season decision-making regarding total allowable harvest for large in-river subsistence salmon fisheries. _Under active development_.
 
 #### R Packages
