@@ -85,6 +85,34 @@ For more information about me and the things I work on, you can view my [curricu
         Found in <a href=https://github.com/bstaton1/esc-qual-ms-analysis> bstaton1/esc-qual-ms-analysis</a>, which is archived under <a href="https://doi.org/10.5281/zenodo.4382757"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4382757.svg" alt="DOI"></a>
     </p>
 </details>
+
+<details>
+    <summary><img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>Temperature, emergence phenology and consumption drive seasonal shifts in fish growth and production across riverscapes</b></summary>
+    <br>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
+    <p>
+        Journal of Animal Ecology, In Press
+        <br>
+        <a href="https://doi.org/10.1111/1365-2656.13491"><img src="https://zenodo.org/badge/DOI/10.1111/1365-2656.13491.svg" alt="DOI"></a>
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
+    <p>
+        M.J. Kaylor, C. Justice, J.B. Armstrong, <b>B.A. Staton</b>, L.A. Burns, E. Sedell, and S.M. White
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
+    <ol>
+        <li>Changes in biophysical conditions through time generate spatial and temporal variability in habitat quality across landscapes. For river ecosystems, researchers are increasingly able to characterize spatial and temporal patterns in habitat conditions, referred to as shifting habitat mosaics, yet rarely demonstrate how this translates into corresponding biological processes such as organism growth and production.</li>
+        <li>We assessed spatial patterns and processes determining seasonal changes in juvenile Chinook Salmon <i>Oncorhynchus tshawytscha</i> size, growth and production over 30–40 km in two NE Oregon subbasins.</li>
+        <li>We quantified seasonal patterns of growth by combining estimated emergence dates and body size distributions in July and September. We then used analysis of bioenergetics, empirical fish diets and spatial models incorporating temperature, habitat and population density to evaluate mechanisms driving spatiotemporal patterns of growth. Lastly, we quantified seasonal contributions to individual fish growth and to total production as a function of position within the stream network.</li>
+        <li>Spatial heterogeneity in incubation temperatures corresponded to later estimated emergence timing with distance upstream in both subbasins. During spring, estimated growth rates decreased with distance upstream, and coupled with emergence patterns, resulted in pronounced longitudinal gradients in body size by July. During summer, spatial patterns of growth reversed, with greater diet ration sizes and growth efficiencies upstream than downstream. These opposing spatiotemporal patterns of emergence timing and seasonal growth rates produced longitudinal gradients in the proportion of fish growth achieved in spring versus summer, with up to 80% of an individual's growth occurring in spring at downstream sites but as low as 10% at upstream sites. Coupling longitudinal patterns of fish density and growth revealed that in one subbasin the majority (65%) of total production occurred in spring, while in the other, in which fish were concentrated in headwaters, the majority (60%) of production occurred in summer.</li>
+        <li>While recent work has emphasized inter-annual shifts in fish production across large spatial scales, this study demonstrates that longitudinal gradients of fish growth and production can reverse across seasons, and reveals important contributions of warmer, downstream habitats to overall production that occurred during cooler times of the year.</li>
+    </ol>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
+    <p>
+        Data found in <a href=https://github.com/mjkaylor/JoAE_data_archive> mjkaylor/JoAE_data_archive</a>, which is archived under <a href="https://doi.org/10.5281/zenodo.4627774"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4627774.svg" alt="DOI"></a>
+    </p>
+</details>
+
 ### 2020
 
 <details>
