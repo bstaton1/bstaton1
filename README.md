@@ -7,6 +7,8 @@
 <p align='center'>
     <a href="https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en"><img src="http://img.shields.io/badge/-Google Scholar-2088FF?style=flat&logo=google-scholar&logoColor=ffffff" alt="GoogleScholar">
     </a>
+    <a href="https://www.researchgate.net/profile/Benjamin-Staton"><img src="http://img.shields.io/badge/-ResearchGate-2088FF?style=flat&logo=researchgate&logoColor=ffffff" alt="ResearchGate">
+    </a>
     <a href="https://orcid.org/0000-0002-2342-3482"><img src="http://img.shields.io/badge/-ORCID-2088FF?style=flat&logo=ORCID&logoColor=ffffff" alt="ORCID">
     </a>
     <a href="https://publons.com/researcher/3415841/benjamin-staton/"><img src="http://img.shields.io/badge/-Publons-2088FF?style=flat&logo=Publons&logoColor=ffffff" alt="Publons">
@@ -14,6 +16,7 @@
     <a href="https://twitter.com/bstat0n"><img src="http://img.shields.io/badge/-Twitter-2088FF?style=flat&logo=Twitter&logoColor=ffffff" alt="Twitter">
     </a>
 </p>
+
 
 ## My Interests
 
@@ -54,7 +57,7 @@ For more information about me and the things I work on, you can view my [curricu
 * [msdown](<https://github.com/bstaton1/msdown>) [PRIVATE REPO]: Template and utilities for writing clean, reproducible, and version controllable manuscripts using the `bookdown` package. _Under active development_.
 * [KuskoHarvEst](<https://github.com/bstaton1/KuskoHarvEst>) [PUBLIC REPO]: Improved workflow for producing in-season harvest and effort estimates, and associated in-season reports, for the Lower Kuskokwim River subsistence salmon fisheries. _Under active development_.
 
-## Journal Articles
+## Peer-Reviewed Journal Articles
 
 <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> Denotes article is open access
 
