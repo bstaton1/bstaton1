@@ -7,6 +7,8 @@
 <p align='center'>
     <a href="https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en"><img src="http://img.shields.io/badge/-Google Scholar-2088FF?style=flat&logo=google-scholar&logoColor=ffffff" alt="GoogleScholar">
     </a>
+    <a href="https://www.researchgate.net/profile/Benjamin-Staton"><img src="http://img.shields.io/badge/-ResearchGate-2088FF?style=flat&logo=researchgate&logoColor=ffffff" alt="ResearchGate">
+    </a>
     <a href="https://orcid.org/0000-0002-2342-3482"><img src="http://img.shields.io/badge/-ORCID-2088FF?style=flat&logo=ORCID&logoColor=ffffff" alt="ORCID">
     </a>
     <a href="https://publons.com/researcher/3415841/benjamin-staton/"><img src="http://img.shields.io/badge/-Publons-2088FF?style=flat&logo=Publons&logoColor=ffffff" alt="Publons">
@@ -14,6 +16,7 @@
     <a href="https://twitter.com/bstat0n"><img src="http://img.shields.io/badge/-Twitter-2088FF?style=flat&logo=Twitter&logoColor=ffffff" alt="Twitter">
     </a>
 </p>
+
 
 ## My Interests
 
@@ -24,7 +27,7 @@
 * **Transparent and data-driven decision processes** because regardless of the outcome, it should always be clear why a choice was made
 * **Reproducible workflows** because analyses are rarely ever "finished"
 
-For more information about me and the things I work on, you can view my [curriculum vitae](<https://github.com/bstaton1/bstaton1/blob/master/assets/CV.pdf>) (built with <img height="20" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/LaTeX-logo.svg" alt="LaTeX">).
+For more information about me and the things I work on, you can view my [curriculum vitae](<https://github.com/bstaton1/bstaton1/blob/master/assets/CV.pdf>).
 
 ## Commonly Used Tools/Languages
 
@@ -44,7 +47,7 @@ For more information about me and the things I work on, you can view my [curricu
 
 * [snk-eff-ms-analysis](<https://github.com/bstaton1/snk-eff-ms-analysis>) [PUBLIC REPO]: Analysis for a manuscript that documents the development and statistical performance of a method for quantifying covariate effects on detection probability by pairing uncertain abundance information from mark-recapture and binomial count data. Illustrated using an example case of snorkel counts for Grande Ronde River (northeastern Oregon) salmonids. _Manuscript in review_.
 * [GR-sslcm](<https://github.com/bstaton1/GR-sslcm>) [PRIVATE REPO]: Development of a state-space life cycle model for spring Chinook salmon in the Grande Ronde River basin of northeastern Oregon. _Under active development_.
-* [esc-qual-ms-analysis](https://github.com/bstaton1/esc-qual-ms-analysis) [PUBLIC REPO]: Analysis for a manuscript that investigates the influences of declining trends in age-at-return, sex-of-return, and length-at-age on management reference points by incorporating them within state-space spawner-recruit analyses. Illustrated using Kuskokwim River (western Alaska) Chinook salmon. _Manuscript in review_.
+* [cesrf-minijack-rates](https://github.com/bstaton1/cesrf-minijack-rates) [PUBLIC REPO]: Analysis for a manuscript that documents a controlled experiment targeted at quantifying whether the age of male parents in hatchery crosses of Chinook salmon have an effect on the probability that their progeny will mature precociously as age-2 minijacks (and thus never migrate to sea or have a chance to be harvested). The analysis involves a set of mixed-effect logistic regression models to control for replicated use of the same parents in multiple crosses. _Manuscript in prep_.
 * [inseason-voi-ms-analysis](<https://github.com/bstaton1/inseason-voi-ms-analysis>) [PRIVATE REPO]: Analysis for a manuscript that investigates the Value of Information of different data sources used during in-season decision-making regarding total allowable harvest for large in-river subsistence salmon fisheries. _Under active development_.
 
 #### R Packages
@@ -53,13 +56,65 @@ For more information about me and the things I work on, you can view my [curricu
 
 * [postpack](<https://github.com/bstaton1/postpack>) ([website](https://bstaton1.github.io/postpack/)) [PUBLIC REPO]: Assortment of tools for working with R objects of class `mcmc.list`. _Under active development_.
 * [msdown](<https://github.com/bstaton1/msdown>) [PRIVATE REPO]: Template and utilities for writing clean, reproducible, and version controllable manuscripts using the `bookdown` package. _Under active development_.
-* [KuskoHarvEst](<https://github.com/bstaton1/KuskoHarvEst>) [PRIVATE REPO]: Improved workflow for producing in-season harvest and effort estimates, and associated in-season reports, for the Lower Kuskokwim River subsistence salmon fisheries. _Under active development_.
+* [KuskoHarvEst](<https://github.com/bstaton1/KuskoHarvEst>) [PUBLIC REPO]: Improved workflow for producing in-season harvest and effort estimates, and associated in-season reports, for the Lower Kuskokwim River subsistence salmon fisheries. _Under active development_.
 
-## Journal Articles
+## Peer-Reviewed Journal Articles
 
 <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> Denotes article is open access
 
 <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> Denotes article is behind a paywall
+
+### 2021
+
+<details>
+    <summary><img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>Incorporating demographic information into spawner-recruit analyses alters biological reference point estimates for a western Alaska salmon population</b></summary>
+    <br>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
+    <p>
+        Canadian Journal of Fisheries and Aquatic Sciences, In Press
+        <br>
+        <a href="https://doi.org/10.1139/cjfas-2020-0478"><img src="https://zenodo.org/badge/DOI/10.1139/cjfas-2020-0478.svg" alt="DOI"></a>
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
+    <p>
+        <b>B.A. Staton</b>, M.J. Catalano, S.J. Fleischman, and J. Ohlberger
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
+    <p>
+        Changes over time in age, sex, and length-at-age of returning Pacific salmon have been widely observed, suggesting concurrent declines in per capita reproductive output. Thus, assessment models assuming stationary reproductive output may inaccurately estimate biological reference points that inform harvest policies. We extended age-structured state-space spawner-recruit models to accommodate demographic time trends and fishery selectivity to investigate temporal changes in reference points using Kuskokwim River Chinook salmon (<i>Oncorhynchus tshawytscha</i>). We illustrate that observed demographic changes have likely reduced per capita reproductive output in an additive manner, for example, models including changes in both length-at-age or age composition showed larger declines than models incorporating only one time trend. Translated into biological reference points using a yield-per-recruit algorithm, we found escapement needed for maximum sustained catch has likely increased over time, but the magnitude further depended on size-selective harvest (i.e., larger changes for reference points based on larger mesh gillnets). Compared to traditional salmon assessments, our approach that acknowledges demographic time trends allows more complete use of available data and facilitates evaluating trade-offs among gear-specific harvest policies.
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
+    <p>
+        Found in <a href=https://github.com/bstaton1/esc-qual-ms-analysis> bstaton1/esc-qual-ms-analysis</a>, which is archived under <a href="https://doi.org/10.5281/zenodo.4382757"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4382757.svg" alt="DOI"></a>
+    </p>
+</details>
+
+<details>
+    <summary><img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>Temperature, emergence phenology and consumption drive seasonal shifts in fish growth and production across riverscapes</b></summary>
+    <br>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
+    <p>
+        Journal of Animal Ecology, In Press
+        <br>
+        <a href="https://doi.org/10.1111/1365-2656.13491"><img src="https://zenodo.org/badge/DOI/10.1111/1365-2656.13491.svg" alt="DOI"></a>
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
+    <p>
+        M.J. Kaylor, C. Justice, J.B. Armstrong, <b>B.A. Staton</b>, L.A. Burns, E. Sedell, and S.M. White
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
+    <ol>
+        <li>Changes in biophysical conditions through time generate spatial and temporal variability in habitat quality across landscapes. For river ecosystems, researchers are increasingly able to characterize spatial and temporal patterns in habitat conditions, referred to as shifting habitat mosaics, yet rarely demonstrate how this translates into corresponding biological processes such as organism growth and production.</li>
+        <li>We assessed spatial patterns and processes determining seasonal changes in juvenile Chinook Salmon <i>Oncorhynchus tshawytscha</i> size, growth and production over 30–40 km in two NE Oregon subbasins.</li>
+        <li>We quantified seasonal patterns of growth by combining estimated emergence dates and body size distributions in July and September. We then used analysis of bioenergetics, empirical fish diets and spatial models incorporating temperature, habitat and population density to evaluate mechanisms driving spatiotemporal patterns of growth. Lastly, we quantified seasonal contributions to individual fish growth and to total production as a function of position within the stream network.</li>
+        <li>Spatial heterogeneity in incubation temperatures corresponded to later estimated emergence timing with distance upstream in both subbasins. During spring, estimated growth rates decreased with distance upstream, and coupled with emergence patterns, resulted in pronounced longitudinal gradients in body size by July. During summer, spatial patterns of growth reversed, with greater diet ration sizes and growth efficiencies upstream than downstream. These opposing spatiotemporal patterns of emergence timing and seasonal growth rates produced longitudinal gradients in the proportion of fish growth achieved in spring versus summer, with up to 80% of an individual's growth occurring in spring at downstream sites but as low as 10% at upstream sites. Coupling longitudinal patterns of fish density and growth revealed that in one subbasin the majority (65%) of total production occurred in spring, while in the other, in which fish were concentrated in headwaters, the majority (60%) of production occurred in summer.</li>
+        <li>While recent work has emphasized inter-annual shifts in fish production across large spatial scales, this study demonstrates that longitudinal gradients of fish growth and production can reverse across seasons, and reveals important contributions of warmer, downstream habitats to overall production that occurred during cooler times of the year.</li>
+    </ol>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
+    <p>
+        Data found in <a href=https://github.com/mjkaylor/JoAE_data_archive> mjkaylor/JoAE_data_archive</a>, which is archived under <a href="https://doi.org/10.5281/zenodo.4627774"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4627774.svg" alt="DOI"></a>
+    </p>
+</details>
 
 ### 2020
 
@@ -78,13 +133,14 @@ For more information about me and the things I work on, you can view my [curricu
     </p>
     <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
     <p>
-        Salmon populations harvested in mixed-stock fisheries can exhibit genotypic, behavioral, and life history diversity that can lead to heterogeneity in population productivity and size. Methods to quantify this heterogeneity among populations in mixed-stock fisheries are not well-established but are critical to assessing harvest–biodiversity trade-offs when setting harvest policies. We developed an integrated, age-structured, state-space model that allows for more complete use of available data and sharing of information than simpler methods. We compared a suite of state-space models of varying structural complexity to simpler regression-based approaches and, as an example case, fitted them to data from 13 Chinook salmon (Oncorhynchus tshawytscha) populations in the Kuskokwim drainage in western Alaska. We found biological and policy conclusions were largely consistent among state-space models but differed strongly from regression-based approaches. Simulation trials illustrated our state-space models were largely unbiased with respect to spawner–recruit parameters, abundance states, and derived biological reference points, whereas the regression-based approaches showed substantial bias. These findings suggest our state-space model shows promise for informing harvest policy evaluations of harvest–biodiversity trade-offs in mixed-stock salmon fisheries.
+        Salmon populations harvested in mixed-stock fisheries can exhibit genotypic, behavioral, and life history diversity that can lead to heterogeneity in population productivity and size. Methods to quantify this heterogeneity among populations in mixed-stock fisheries are not well-established but are critical to assessing harvest–biodiversity trade-offs when setting harvest policies. We developed an integrated, age-structured, state-space model that allows for more complete use of available data and sharing of information than simpler methods. We compared a suite of state-space models of varying structural complexity to simpler regression-based approaches and, as an example case, fitted them to data from 13 Chinook salmon (<i>Oncorhynchus tshawytscha</i>) populations in the Kuskokwim drainage in western Alaska. We found biological and policy conclusions were largely consistent among state-space models but differed strongly from regression-based approaches. Simulation trials illustrated our state-space models were largely unbiased with respect to spawner–recruit parameters, abundance states, and derived biological reference points, whereas the regression-based approaches showed substantial bias. These findings suggest our state-space model shows promise for informing harvest policy evaluations of harvest–biodiversity trade-offs in mixed-stock salmon fisheries.
     </p>
     <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
     <p>
         Found in <a href=https://github.com/bstaton1/mixed-stockSRA> bstaton1/mixed-stockSRA</a>, which is archived under <a href="https://doi.org/10.5281/zenodo.3375006"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3375006.svg" alt="DOI"></a>
     </p>
 </details>
+
 
 <details>
     <summary><img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>Incorporating harvest-population diversity trade-offs into harvest policy analyses of salmon management in large river basins</b></summary>
@@ -133,6 +189,7 @@ For more information about me and the things I work on, you can view my [curricu
         Found in <a href=https://github.com/bstaton1/inseason-update-ms-analysis> bstaton1/inseason-update-ms-analysis</a>, which is archived under <a href="https://doi.org/10.5281/zenodo.1467683"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1467683.svg" alt="DOI"></a> 
     </p>
 </details>
+
 <details>
     <summary><img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> <b>Migratory patterns of Chinook salmon bound for the Kwethluk and Kisaralik Rivers using radio telemetry, 2015-2016</b></summary>
     <br>
@@ -155,6 +212,7 @@ For more information about me and the things I work on, you can view my [curricu
         Data archived in the supplement <a href="https://doi.org/10.3996/082018-JFWM-074.S1"><img src="https://zenodo.org/badge/DOI/10.3996/082018-JFWM-074.S1.svg" alt="DOI"></a>
     </p>
 </details>
+
 
 ### 2017
 
@@ -203,7 +261,6 @@ For more information about me and the things I work on, you can view my [curricu
         Not applicable
     </p>
 </details>
-
 <details>
     <summary><img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>From sequential to integrated Bayesian analyses: Exploring the continuum with a Pacific salmon spawner-recruit model</b></summary>
     <br>
@@ -226,6 +283,7 @@ For more information about me and the things I work on, you can view my [curricu
         This was my first paper, and was before I learned about reproducible research and making code citable with <a href=zenodo.org>Zenodo</a>. JAGS model code for the integrated model is in the supplement.
     </p>
 </details>
+
 <details>
     <summary><img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> <b>Physiological ecology of four endemic Alabama species and the exotic Asiatic weather fish <em>Misgurnus anguillicaudatus</em> (Cantor, 1842)</b></summary>
     <br>
@@ -246,4 +304,5 @@ For more information about me and the things I work on, you can view my [curricu
         This paper happened before I learned about reproducible research and making code citable with <a href=zenodo.org>Zenodo</a>.
     </p>
 </details>
+
 
