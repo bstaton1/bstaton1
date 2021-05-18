@@ -61,6 +61,30 @@ For more information about me and the things I work on, you can view my [curricu
 
 <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> Denotes article is behind a paywall
 
+### 2021
+
+<details>
+    <summary><img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>Incorporating demographic information into spawner-recruit analyses alters biological reference point estimates for a western Alaska salmon population</b></summary>
+    <br>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
+    <p>
+        Canadian Journal of Fisheries and Aquatic Sciences, In Press
+        <br>
+        <a href="https://doi.org/10.1139/cjfas-2020-0478"><img src="https://zenodo.org/badge/DOI/10.1139/cjfas-2020-0478.svg" alt="DOI"></a>
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
+    <p>
+        <b>B.A. Staton</b>, M.J. Catalano, S.J. Fleischman, and J. Ohlberger
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
+    <p>
+        Changes over time in age, sex, and length-at-age of returning Pacific salmon have been widely observed, suggesting concurrent declines in per capita reproductive output. Thus, assessment models assuming stationary reproductive output may inaccurately estimate biological reference points that inform harvest policies. We extended age-structured state-space spawner-recruit models to accommodate demographic time trends and fishery selectivity to investigate temporal changes in reference points using Kuskokwim River Chinook salmon (<i>Oncorhynchus tshawytscha</i>). We illustrate that observed demographic changes have likely reduced per capita reproductive output in an additive manner, for example, models including changes in both length-at-age or age composition showed larger declines than models incorporating only one time trend. Translated into biological reference points using a yield-per-recruit algorithm, we found escapement needed for maximum sustained catch has likely increased over time, but the magnitude further depended on size-selective harvest (i.e., larger changes for reference points based on larger mesh gillnets). Compared to traditional salmon assessments, our approach that acknowledges demographic time trends allows more complete use of available data and facilitates evaluating trade-offs among gear-specific harvest policies.
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
+    <p>
+        Found in <a href=https://github.com/bstaton1/esc-qual-ms-analysis> bstaton1/esc-qual-ms-analysis</a>, which is archived under <a href="https://doi.org/10.5281/zenodo.4382757"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4382757.svg" alt="DOI"></a>
+    </p>
+</details>
 ### 2020
 
 <details>
