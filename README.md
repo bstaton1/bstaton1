@@ -94,7 +94,7 @@ For more information about me and the things I work on, you can view my [curricu
     <br>
     <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
     <p>
-        Journal of Animal Ecology, In Press
+        Journal of Animal Ecology, 90(7): 1727-1741
         <br>
         <a href="https://doi.org/10.1111/1365-2656.13491"><img src="https://zenodo.org/badge/DOI/10.1111/1365-2656.13491.svg" alt="DOI"></a>
     </p>
