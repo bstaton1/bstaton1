@@ -47,7 +47,6 @@ For more information about me and the things I work on, you can view my [curricu
 
 * [snk-eff-ms-analysis](<https://github.com/bstaton1/snk-eff-ms-analysis>) [PUBLIC REPO]: Analysis for a manuscript that documents the development and statistical performance of a method for quantifying covariate effects on detection probability by pairing uncertain abundance information from mark-recapture and binomial count data. Illustrated using an example case of snorkel counts for Grande Ronde River (northeastern Oregon) salmonids. _Manuscript in review_.
 * [GR-sslcm](<https://github.com/bstaton1/GR-sslcm>) [PRIVATE REPO]: Development of a state-space life cycle model for spring Chinook salmon in the Grande Ronde River basin of northeastern Oregon. _Under active development_.
-* [cesrf-minijack-rates](https://github.com/bstaton1/cesrf-minijack-rates) [PUBLIC REPO]: Analysis for a manuscript that documents a controlled experiment targeted at quantifying whether the age of male parents in hatchery crosses of Chinook salmon have an effect on the probability that their progeny will mature precociously as age-2 minijacks (and thus never migrate to sea or have a chance to be harvested). The analysis involves a set of mixed-effect logistic regression models to control for replicated use of the same parents in multiple crosses. _Manuscript in prep_.
 * [inseason-voi-ms-analysis](<https://github.com/bstaton1/inseason-voi-ms-analysis>) [PRIVATE REPO]: Analysis for a manuscript that investigates the Value of Information of different data sources used during in-season decision-making regarding total allowable harvest for large in-river subsistence salmon fisheries. _Under active development_.
 
 #### R Packages
@@ -65,6 +64,29 @@ For more information about me and the things I work on, you can view my [curricu
 <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> Denotes article is behind a paywall
 
 ### 2021
+
+<details>
+    <summary><img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>Precocious maturation of hatchery-raised spring Chinook Salmon as age-2 minijacks is not detectably affected by sire age</b></summary>
+    <br>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
+    <p>
+        Transactions of the American Fisheries Society, In Press
+        <br>
+        <a href="https://doi.org/10.1002/tafs.10343"><img src="https://zenodo.org/badge/DOI/10.1002/tafs.10343.svg" alt="DOI"></a>
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
+    <p>
+        P.F. Galbreath, H.M. Nuetzel, <b>B.A. Staton</b>, C.A. Stockton, C.M. Knudsen, L.R. Medeiros, I.J. Koch, W.J. Bosch, and A.L. Pierce
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
+    <p>
+        Juvenile males produced in spring Chinook Salmon <i>Oncorhynchus tshawytscha</i> hatchery programs can exhibit high rates of maturation in freshwater as two-year old “minijacks”. This phenomenon is associated with high feeding rates and increased size and/or growth that juveniles experience in the hatchery environment, though studies also support a genetic component affecting age of maturation among salmonids, including precocious maturation in freshwater. This prompted a study to test whether the age of natural-origin spring Chinook Salmon broodstock affects the rate at which their hatchery-raised male progeny mature as age-2 minijacks. In three consecutive brood years, we factorially mated age-4 adult females with age-3 (jacks), age-4 and age-5 adult male broodstock. In the latter two brood years we also incorporated age-1 precocious parr (microjacks) as sires. After communal rearing to the smolt stage (age-1+), male juveniles were characterized as immature or as maturing minijacks based on plasma 11-ketotestosterone concentration, and each was identified to its respective full-sib progeny group via genetic parentage analysis. A generalized linear mixed model, performed for each brood year separately, was used to characterize expected precocious maturation rates by sire age, while controlling for potential effects of smolt body weight and individual parent identities. Multiple comparisons across sire ages within brood years were used to evaluate relative rates of precocious maturation. Estimates of the probability of minijack maturation among families within sire ages and brood years varied from as much as 0 to 100%, and no consistent effect of sire age on precocious maturation rate was observed. Exploratory analyses investigating additional effects of egg size, dam length, and spawn date also failed to identify consistent predictors of precocious maturation. Instead, variability was largely attributed to both dam- and sire-specific effects, indicating a heritable component to precocious maturation, though not detectably associated with other measured attributes.
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
+    <p>
+        Found in <a href=https://github.com/bstaton1/cesrf-minijack-rates> bstaton1/cesrf-minijack-rates</a>, which is archived under <a href="https://doi.org/10.5281/zenodo.4730682"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4730682.svg" alt="DOI"></a>
+    </p>
+</details>
 
 <details>
     <summary><img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>Incorporating demographic information into spawner-recruit analyses alters biological reference point estimates for a western Alaska salmon population</b></summary>
@@ -141,7 +163,6 @@ For more information about me and the things I work on, you can view my [curricu
     </p>
 </details>
 
-
 <details>
     <summary><img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>Incorporating harvest-population diversity trade-offs into harvest policy analyses of salmon management in large river basins</b></summary>
     <br>
@@ -213,7 +234,6 @@ For more information about me and the things I work on, you can view my [curricu
     </p>
 </details>
 
-
 ### 2017
 
 <details>
@@ -261,6 +281,7 @@ For more information about me and the things I work on, you can view my [curricu
         Not applicable
     </p>
 </details>
+
 <details>
     <summary><img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>From sequential to integrated Bayesian analyses: Exploring the continuum with a Pacific salmon spawner-recruit model</b></summary>
     <br>
