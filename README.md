@@ -2,7 +2,7 @@
 
 <h3 align='center'> I'm a Quantitative Fisheries Scientist </h3>
 
-<p align='center'> <em>with a focus on Pacific salmon assessment, management, and conservation</em> </p> 
+<p align='center'> <em>with a focus on assessment, fishery management, and conservation of Pacific salmon</em></p> 
 
 <p align='center'>
     <a href="https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en"><img src="http://img.shields.io/badge/-Google Scholar-2088FF?style=flat&logo=google-scholar&logoColor=ffffff" alt="GoogleScholar">
@@ -41,27 +41,27 @@ For more information about me and the things I work on, you can view my [curricu
 
 ## Current Projects
 
+>  <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> and <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> denote public and private repositories, respectively
+
 #### Research
 
-> Private repos will be made public once corresponding manuscripts are submitted for review.
+* [GR-sslcm](<https://github.com/bstaton1/GR-sslcm>) <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg">: Development of a state-space life cycle model for spring Chinook salmon in the Grande Ronde River basin of northeastern Oregon. _Under active development_.
+* [LKG-RRS-ms-analysis]() <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg">: Analysis for a manuscript that compares the reproductive success (i.e., number of progeny that survive to various stages) of wild-spawning spring Chinook salmon that differ in a range of characterstics including origin, sex, arrival timing, and size. _Under active development_.
+* [inseason-voi-ms-analysis](<https://github.com/bstaton1/inseason-voi-ms-analysis>) <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg">: Analysis for a manuscript that investigates the Value of Information of different data sources used during in-season decision-making regarding total allowable harvest for large in-river subsistence salmon fisheries. _Under active development_.
+* In-season estimation and prediction of effort and harvest for lower Kuskokwim River subsistence salmon fisheries
+  * [KuskoHarvEst](<https://github.com/bstaton1/KuskoHarvEst>) <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg">: R package containing tools and an associated workflow for estimating effort and harvest given monitoring data as inputs. Tools can be executed via code-only or interactive (point-and-click) workflows; the interactive workflow automates summary report generation using [Rmarkdown](https://rmarkdown.rstudio.com/) and built-in templates. _Development considered complete at present_.
+  * [KuskoHarvData](<https://github.com/bstaton1/KuskoHarvData>)<img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg">: R package containing historical data and estimates derived using 'KuskoHarvEst'. _Under active development_.
+  * [KuskoHarvPred](<https://github.com/bstaton1/KuskoHarvPred>) <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg">: R package containing tools for reproducibly conducting regression analyses that seek to predict critical fishery outcomes arising from proposed fishing opportunties. _Under active development_.
 
-* [snk-eff-ms-analysis](<https://github.com/bstaton1/snk-eff-ms-analysis>) [PUBLIC REPO]: Analysis for a manuscript that documents the development and statistical performance of a method for quantifying covariate effects on detection probability by pairing uncertain abundance information from mark-recapture and binomial count data. Illustrated using an example case of snorkel counts for Grande Ronde River (northeastern Oregon) salmonids. _Manuscript in review_.
-* [GR-sslcm](<https://github.com/bstaton1/GR-sslcm>) [PRIVATE REPO]: Development of a state-space life cycle model for spring Chinook salmon in the Grande Ronde River basin of northeastern Oregon. _Under active development_.
-* [inseason-voi-ms-analysis](<https://github.com/bstaton1/inseason-voi-ms-analysis>) [PRIVATE REPO]: Analysis for a manuscript that investigates the Value of Information of different data sources used during in-season decision-making regarding total allowable harvest for large in-river subsistence salmon fisheries. _Under active development_.
-
-#### R Packages
-
-> Private repos will be made public when I'm ready.
+#### General Purpose R Packages
 
 * [postpack](<https://github.com/bstaton1/postpack>) ([website](https://bstaton1.github.io/postpack/)) [PUBLIC REPO]: Assortment of tools for working with R objects of class `mcmc.list`. _Under active development_.
 * [msdown](<https://github.com/bstaton1/msdown>) [PRIVATE REPO]: Template and utilities for writing clean, reproducible, and version controllable manuscripts using the `bookdown` package. _Under active development_.
-* [KuskoHarvEst](<https://github.com/bstaton1/KuskoHarvEst>) [PUBLIC REPO]: Improved workflow for producing in-season harvest and effort estimates, and associated in-season reports, for the Lower Kuskokwim River subsistence salmon fisheries. _Under active development_.
 
 ## Peer-Reviewed Journal Articles
 
-<img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> Denotes article is open access
+>  <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> and <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> denote open-access and paywall articles, respectively
 
-<img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> Denotes article is behind a paywall
 ### 2022
 
 <details>
