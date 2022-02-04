@@ -62,6 +62,30 @@ For more information about me and the things I work on, you can view my [curricu
 <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"> Denotes article is open access
 
 <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> Denotes article is behind a paywall
+### 2022
+
+<details>
+    <summary><img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"> <b>Accounting for uncertainty when estimating drivers of imperfect detection: An integrated approach illustrated with snorkel surveys for riverine fishes</b></summary>
+    <br>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"> <b><em>JOURNAL</em></b>
+    <p>
+        Fisheries Research, 249
+        <br>
+        <a href="https://doi.org/10.1016/j.fishres.2021.106209"><img src="https://zenodo.org/badge/DOI/10.1016/j.fishres.2021.106209.svg" alt="DOI"></a>
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"> <b><em>AUTHORS</em></b>
+    <p>
+        <b>B.A. Staton</b>, C. Justice, S. White, E. Sedell, L.A. Burns, and M.J. Kaylor
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"> <b><em>ABSTRACT</em></b>
+    <p>
+        Imperfect detection is a common issue affecting the accuracy of surveys that quantify animal abundance and distribution. To quantify detectability, counts are often calibrated to independent measures of abundance (e.g., via mark-recapture) but stochastic sampling variability in both data types is not typically accounted for. This practice may cause detectability to be quantified inaccurately and lead to overly confident predictions for out-of-sample applications. Our objective was to develop, apply, and simulation-test an integrated approach for quantifying detectability that better-accommodates uncertainty in the data. The method assumes mark-recapture and count surveys sample the same local abundance with error, allowing the construction of a joint likelihood function for both data sets. The model estimates coefficients that link detection probability to local covariates through a logit-linear model, which enables correcting counts for imperfect detection in locations where mark-recapture data are unavailable. We illustrate the application of the model with an empirical data set of over 100 paired snorkel count and mark-recapture electrofishing surveys for riverine salmonids in northeastern Oregon. Covariates that best explained heterogeneity in detectability included species, visibility, and channel unit type and depth, though substantial variability was attributed to site-level random effects. Estimated detection probability ranged from 0.02 to 0.92 among surveys and was higher for Chinook Salmon (<i>Oncorhynchus tshawytscha</i>) juveniles (mean: 0.38) than for steelhead/Rainbow Trout (<i>O. mykiss</i>; mean: 0.24). Simulation analyses revealed that our integrated model performed better (relative to a method that treated mark-recapture abundance estimates as known without error) with respect to (<i>i</i>) selection of covariates, (<i>ii</i>) credible interval coverage, (<i>iii</i>) accuracy of estimated random variability terms, and (<i>iv</i>) reduced sensitivity to violated mark-recapture assumptions surrounding behavioral effects. This model represents an improvement over simpler calibration methods, particularly for snorkel surveys, by applying more a rigorous statistical treatment of sources of variability while explicitly describing the mechanistic link between local conditions and detectability. The analytical methods we illustrate are general and could be broadly applied to quantify detectability in other biological surveys with paired abundance and count data.
+    </p>
+    <img height="15" src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"> <b><em>CODE/DATA</em></b>
+    <p>
+        Found in <a href=https://github.com/bstaton1/snk-eff-ms-analysis> bstaton1/snk-eff-ms-analysis</a>, which is archived under <a href="https://doi.org/10.5281/zenodo.3928691"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3928691.svg" alt="DOI"></a>
+    </p>
+</details>
 
 ### 2021
 
