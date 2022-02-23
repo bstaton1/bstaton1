@@ -1,0 +1,241 @@
+---
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(htmltools)
+library(magrittr)
+```
+
+<!-- This document was created by knitting the Rmarkdown file README.rmd -->  
+
+```{r define-img-objects}
+lock_img = tagList(
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/lock.svg#gh-light-mode-only", height = "15"),
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/lock-dark.svg#gh-dark-mode-only", height = "15")
+)
+  
+open_lock_img = img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg", height = "15")
+```
+
+```{r greeting}
+tagList(
+  h1("Welcome to My GitHub Profile", align = 'center'),
+  h3("I'm a Quantitative Fisheries Scientist", align = 'center'),
+  p(em("with a focus on assessment, fishery management, and conservation of Pacific salmon"), align = 'center')
+)
+```
+
+```{r about-me-links}
+# my google scholar info
+google_scholar = a(
+  href = "https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en",
+  img(src = "http://img.shields.io/badge/-Google Scholar-2088FF?style=flat&logo=google-scholar&logoColor=ffffff",
+      alt = "GoogleScholar"
+  )
+)
+
+# my research gate info
+research_gate = a(
+  href = "https://www.researchgate.net/profile/Benjamin-Staton",
+  img(src = "http://img.shields.io/badge/-ResearchGate-2088FF?style=flat&logo=researchgate&logoColor=ffffff",
+      alt = "ResearchGate"
+  )
+)
+
+# my orcid info
+orcid = a(
+  href = "https://orcid.org/0000-0002-2342-3482",
+  img(src = "http://img.shields.io/badge/-ORCID-2088FF?style=flat&logo=ORCID&logoColor=ffffff",
+      alt = "ORCID"
+  )
+)
+
+# my publons info
+publons = a(
+  href = "https://publons.com/researcher/3415841/benjamin-staton",
+  img(src = "http://img.shields.io/badge/-Publons-2088FF?style=flat&logo=Publons&logoColor=ffffff",
+      alt = "Publons"
+  )
+)
+
+# my twitter info
+twitter = a(
+  href = "https://twitter.com/bstat0n",
+  img(src = "http://img.shields.io/badge/-Twitter-2088FF?style=flat&logo=Twitter&logoColor=ffffff",
+      alt = "Twitter"
+  )
+)
+
+tagList(
+  p(google_scholar, research_gate, orcid, publons, twitter, align = "center")
+)
+```
+
+## My Interests
+
+* **Population dynamics** and models that describe them
+* **Methods for counting animals** (generally :fish:) and the models we use to make sense of the data
+* **Bayesian analysis** as a means to quantify knowledge and uncertainty
+* **State-space models** as a means to disentangle biological and observational processes
+* **Transparent and data-driven decision processes** because regardless of the outcome, it should always be clear why a choice was made
+* **Reproducible workflows** because analyses are rarely ever "finished"
+
+## Commonly Used Tools/Languages
+
+> _In decreasing order of how awful it would be if they were to disappear_
+
+[![Google](http://img.shields.io/badge/-Google-2088FF?style=flat&logo=Google&logoColor=ffffff)](https://www.google.com) [![R](http://img.shields.io/badge/-R-2088FF?style=flat&logo=R&logoColor=ffffff)](https://www.r-project.org/) [![RStudio](http://img.shields.io/badge/-RStudio-2088FF?style=flat&logo=RStudio&logoColor=ffffff)](https://rstudio.com/) [![JAGS](http://img.shields.io/badge/-JAGS-2088FF?style=flat)](http://mcmc-jags.sourceforge.net/) [![github](http://img.shields.io/badge/-GitHub-2088FF?style=flat&logo=github&logoColor=ffffff)](https://github.com/bstaton1) [![markdown](http://img.shields.io/badge/-markdown-2088FF?style=flat&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/) [![LaTeX](http://img.shields.io/badge/-LaTeX-2088FF?style=flat&logo=latex&logoColor=ffffff)](https://www.latex-project.org/) [![Bash](http://img.shields.io/badge/-Bash-2088FF?style=flat&logo=gnu-bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
+
+## Things I'd Like to Learn
+
+[![Stan](http://img.shields.io/badge/-Stan-2088FF?style=flat)](https://mc-stan.org/) [![TMB](http://img.shields.io/badge/-TMB-2088FF?style=flat)](https://github.com/kaskr/adcomp/wiki)
+
+## Peer-Reviewed Journal Articles
+
+_Click the title of each article to see more information._
+
+```{r, eval = TRUE, message = FALSE}
+# bib = RefManageR::ReadBib("C:/Users/bstaton/Desktop/My Library.bib")
+bib = RefManageR::ReadBib("assets/Articles.bib")
+
+key = "staton-etal-2022"
+
+prep_bibentry = function(key) {
+  this_bib = bib[key]
+  
+  # create a "pretty citation" from the bibentry
+  old_opts = RefManageR::BibOptions()
+  on.exit(RefManageR::BibOptions(old_opts))
+  RefManageR::BibOptions(max.names = 20, style = "text", bib.style = "authoryear", dashed = FALSE)
+  str_bib = format(this_bib)
+  
+  # remove any line breaks portion
+  str_bib = stringr::str_replace_all(str_bib, "\\n",  " ")
+  str_bib = stringr::str_replace_all(str_bib, "\\\\textendash",  "-")
+  str_bib = stringr::str_remove_all(str_bib, "_")
+  
+  # extract author list: do it this way so first and middle names are abbreviated
+  authors = stringr::str_extract(str_bib, "^.+\\(") %>%
+    stringr::str_remove(" \\(")
+  
+  # extract the title: do it this way so capitalization and {} are handled properly
+  # title = stringr::str_extract(str_bib, "“.+”") %>%
+  #   substr(2, nchar(.)-1)
+  title = stringr::str_extract(str_bib, "\\). .+In") %>%
+    stringr::str_remove("\\). ") %>%
+    stringr::str_remove(" In$") %>%
+    substr(2,nchar(.)-2)
+  
+  # extract the abstract from online
+  abstract = tryCatch(rcrossref::cr_abstract(this_bib$doi), error = function(e) "Abstract Not Found")
+  abstract = stringr::str_replace_all(abstract, "\\\\textendash ",  "-")
+  
+  list(
+    authors = authors,
+    title = title,
+    year = this_bib$year,
+    journal = this_bib$journal,
+    volume = this_bib$volume,
+    number = this_bib$number,
+    pages = this_bib$pages,
+    doi = this_bib$doi,
+    abstract = abstract
+  )
+}
+
+build_journal_info = function(bib_data) {
+  volume_use = ifelse(!is.null(bib_data$volume), bib_data$volume, "")
+  number_use = ifelse(!is.null(bib_data$number), paste0(" (", bib_data$number, ")"), "")
+  pages_use = ifelse(!is.null(bib_data$pages), bib_data$pages, "")
+  pages_use = stringr::str_replace(pages_use, "--", "-")
+  journal_volume_sep = ifelse(volume_use == "", "", ", ")
+  number_pages_sep = ifelse(pages_use == "", "", ": ")
+  paste0(journal_volume_sep, volume_use, number_use, number_pages_sep, pages_use)
+}
+
+build_doi_badge = function(doi) {
+  url = paste0("https://doi.org/", doi)
+  badge = paste0("https://zenodo.org/badge/DOI/", doi, ".svg")
+  a(href = url, img(src = badge, alt = "DOI"))
+}
+
+article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi = NULL) {
+  
+  # prepare the bibliographic data
+  bib_data = prep_bibentry(key)
+  
+  # set the lock image to use
+  if (open_access) {
+    lock_use = open_lock_img
+  } else {
+    lock_use = lock_img
+  }
+  
+  journal_header = p(img(src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg", height = "15", strong(em("JOURNAL"))))
+  
+  author_header = p(img(src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg", height = "15", strong(em("AUTHORS"))))
+  abstract_header = p(img(src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg", height = "15", strong(em("ABSTRACT"))))
+  code_header = p(img(src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg", height = "15", strong(em("CODE/DATA"))))
+  
+  tags$details(
+    tags$summary(lock_use, strong(bib_data$title)),
+    br(),
+    journal_header,
+    p(em(bib_data$journal), build_journal_info(bib_data)),
+    build_doi_badge(bib_data$doi),
+    br(),
+    author_header,
+    p(bib_data$authors),
+    br(),
+    abstract_header,
+    p(bib_data$abstract),
+    br(),
+    code_header
+  )
+}
+
+```
+
+### 2022
+
+```{r}
+article_details("staton-etal-2022", FALSE)
+```
+
+### 2021
+
+```{r}
+article_details("galbreath-etal-2021", TRUE)
+article_details("staton-etal-2021", FALSE)
+article_details("kaylor-etal-2021", FALSE)
+```
+
+### 2020
+
+```{r}
+article_details("staton-etal-2020", FALSE)
+article_details("connors-etal-2020", FALSE)
+```
+
+### 2019
+
+```{r}
+article_details("staton-catalano-2019", FALSE)
+article_details("moses-etal-2019", TRUE)
+```
+
+### 2017
+
+```{r}
+article_details("staton-etal-2017", FALSE)
+article_details("dippold-etal-2017", FALSE)
+article_details("staton-etal-2017a", FALSE)
+article_details("white-etal-2017", TRUE)
+```
+
+```{r}
+
+```
+
