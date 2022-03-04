@@ -39,42 +39,42 @@ em_words = c(
 
 # a closed lock: used for denoting paywall articles/private repos
 lock_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/lock.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/lock-dark.svg#gh-dark-mode-only", height = "15")
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only", height = "15"),
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only", height = "15")
 )
 
 # an open lock: used for denoting open-access articles/public repos
 open_lock_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/lock-open.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/lock-open-dark.svg#gh-dark-mode-only", height = "15")
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only", height = "15"),
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only", height = "15")
 )
 
 # inline versions of these lock icons
-lock_img_inline = HTML("<img src=https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/lock.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/lock-dark.svg#gh-dark-mode-only height=15/>")
-open_lock_img_inline = HTML("<img src=https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/lock-open.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/lock-open-dark.svg#gh-dark-mode-only height=15/>")
+lock_img_inline = HTML("<img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only height=15/>")
+open_lock_img_inline = HTML("<img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only height=15/>")
 
 # a closed book: used to represent a journal
 book_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/book.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/book-dark.svg#gh-dark-mode-only", height = "15")
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg#gh-light-mode-only", height = "15"),
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg#gh-dark-mode-only", height = "15")
 )
 
 # an open book: used to represent an abstract
 book_reader_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/book-reader.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/book-reader-dark.svg#gh-dark-mode-only", height = "15")
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only", height = "15"),
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only", height = "15")
 )
 
 # code icon: used to represent locations of archived/open source code/data
 code_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/code.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/code-dark.svg#gh-dark-mode-only", height = "15")
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg#gh-light-mode-only", height = "15"),
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg#gh-dark-mode-only", height = "15")
 )
 
 # users icon: used to represent author list
 users_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/users.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/add-grey-icons/assets/users-dark.svg#gh-dark-mode-only", height = "15")
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg#gh-light-mode-only", height = "15"),
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg#gh-dark-mode-only", height = "15")
 )
   
 ```
