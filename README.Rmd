@@ -413,6 +413,14 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
 ### 2022
 
 ```{r 2022-articles}
+# infectious agents in BC Chinook/Coho
+article_details(
+  key = "bass-etal-2022",
+  open_access = TRUE, 
+  code_repo = NULL,
+  code_doi = NULL
+)
+
 # snorkel detection probability
 article_details(
   key = "staton-etal-2022",
