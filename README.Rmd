@@ -150,6 +150,8 @@ tagList(
 
 For more information about me and the things I work on, you can view my [curriculum vitae](<https://github.com/bstaton1/bstaton1/blob/master/assets/CV.pdf>).
 
+I also operate a small consulting company (Quantitative Ecological Services, LLC) -- please email me at <bstaton.qes@gmail.com> for more details.
+
 ## Commonly Used Tools/Languages
 
 > _In decreasing order of how awful it would be if they were to disappear_
