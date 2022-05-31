@@ -267,8 +267,8 @@ p(open_lock_img, em("and"), lock_img, em("denote public and private repositories
 * [inseason-voi-ms-analysis](<https://github.com/bstaton1/inseason-voi-ms-analysis>) `r lock_img_inline`: Analysis for a manuscript that investigates the Value of Information of different data sources used during in-season decision-making regarding total allowable harvest for large in-river subsistence salmon fisheries. _Under active development_.
 * In-season estimation and prediction of effort and harvest for lower Kuskokwim River subsistence salmon fisheries
   * [KuskoHarvEst](<https://github.com/bstaton1/KuskoHarvEst>) `r open_lock_img_inline`: R package containing tools and an associated workflow for estimating effort and harvest given monitoring data as inputs. Tools can be executed via code-only or interactive (point-and-click) workflows; the interactive workflow automates summary report generation using [Rmarkdown](https://rmarkdown.rstudio.com/) and built-in templates. _Development considered complete at present_.
-  * [KuskoHarvData](<https://github.com/bstaton1/KuskoHarvData>) `r lock_img_inline`: R package containing historical data and estimates derived using \'KuskoHarvEst\'. _Under active development_.
-  * [KuskoHarvPred](<https://github.com/bstaton1/KuskoHarvPred>) `r lock_img_inline`: R package containing tools for reproducibly conducting regression analyses that seek to predict critical fishery outcomes arising from proposed fishing opportunities. _Under active development_.
+  * [KuskoHarvData](<https://github.com/bstaton1/KuskoHarvData>) `r open_lock_img_inline`: R package containing historical data and estimates derived using \'KuskoHarvEst\'. _Under active development_.
+  * [KuskoHarvPred](<https://github.com/bstaton1/KuskoHarvPred>) `r open_lock_img_inline`: R package containing tools for reproducibly conducting regression analyses that seek to predict critical fishery outcomes arising from proposed fishing opportunities. _Under active development_.
 
 #### General Purpose R Packages
 
