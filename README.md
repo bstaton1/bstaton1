@@ -42,6 +42,10 @@ For more information about me and the things I work on, you can view my
 [curriculum
 vitae](https://github.com/bstaton1/bstaton1/blob/master/assets/CV.pdf).
 
+I also operate a small consulting company (Quantitative Ecological
+Services, LLC) – please email me at <bstaton.qes@gmail.com> for more
+details.
+
 ## Commonly Used Tools/Languages
 
 > *In decreasing order of how awful it would be if they were to
@@ -128,11 +132,11 @@ vitae](https://github.com/bstaton1/bstaton1/blob/master/assets/CV.pdf).
         [Rmarkdown](https://rmarkdown.rstudio.com/) and built-in
         templates. *Development considered complete at present*.
     -   [KuskoHarvData](https://github.com/bstaton1/KuskoHarvData)
-        <img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only height=15/>:
+        <img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only height=15/>:
         R package containing historical data and estimates derived using
         'KuskoHarvEst'. *Under active development*.
     -   [KuskoHarvPred](https://github.com/bstaton1/KuskoHarvPred)
-        <img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only height=15/>:
+        <img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only height=15/>:
         R package containing tools for reproducibly conducting
         regression analyses that seek to predict critical fishery
         outcomes arising from proposed fishing opportunities. *Under
@@ -166,6 +170,52 @@ vitae](https://github.com/bstaton1/bstaton1/blob/master/assets/CV.pdf).
 
 ### 2022
 
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>Identification of Infectious Agents in Early Marine Chinok and Coho Salmon Associated with Cohort Survival</strong>
+</summary>
+<p></p>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>
+<em>JOURNAL</em>
+</strong>
+<p>
+<em>FACETS,</em>
+7: 742-773
+<br/>
+<a href="https://doi.org/10.1139/facets-2021-0102">
+<img src="https://zenodo.org/badge/DOI/10.1139/facets-2021-0102.svg" alt="DOI"/>
+</a>
+<br/>
+</p>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>
+<em>AUTHORS</em>
+</strong>
+<p>Bass, A. L, A. W. Bateman, B. M. Connors, <strong>B. A. Staton</strong>, E. B. Rondeau, G. J. Mordecai, A. K. Teffer, K. H. Kaukinen, S. Li, A. M. Tabata, D. A. Patterson, S. G. Hinch, and K. M. Miller</p>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>
+<em>ABSTRACT</em>
+</strong>
+<p align="justify">Recent decades have seen an increased appreciation for the role infectious diseases can play in mass mortality events across a diversity of marine taxa. At the same time many Pacific salmon populations have declined in abundance as a result of reduced marine survival. However, few studies have explicitly considered the potential role pathogens could play in these declines. Using a multi-year dataset spanning 59 pathogen taxa in Chinook and Coho salmon sampled along the British Columbia coast, we carried out an exploratory analysis to quantify evidence for associations between pathogen prevalence and cohort survival and between pathogen load and body condition. While a variety of pathogens had moderate to strong negative correlations with body condition or survival for one host species in one season, we found that <em>Tenacibaculum maritimum</em> and <em>Piscine orthoreovirus</em> had consistently negative associations with body condition in both host species and seasons and were negatively associated with survival for Chinook salmon collected in the fall and winter. Our analyses, which offer the most comprehensive examination of associations between pathogen prevalence and Pacific salmon survival to date, suggest that pathogens in Pacific salmon warrant further attention, especially those whose distribution and abundance may be influenced by anthropogenic stressors.</p>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>
+<em>CODE/DATA</em>
+</strong>
+<br/>
+<strong>Repository:</strong>
+Not Available
+<br/>
+<strong>Archive:</strong>
+Not Available
+<p></p>
+</details>
 <details>
 <summary>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
@@ -231,7 +281,7 @@ vitae](https://github.com/bstaton1/bstaton1/blob/master/assets/CV.pdf).
 </strong>
 <p>
 <em>Transactions of the American Fisheries Society,</em>
-In Press
+151(3): 333-346
 <br/>
 <a href="https://doi.org/10.1002/tafs.10343">
 <img src="https://zenodo.org/badge/DOI/10.1002/tafs.10343.svg" alt="DOI"/>
@@ -249,7 +299,7 @@ In Press
 <strong>
 <em>ABSTRACT</em>
 </strong>
-<p align="justify">Juvenile males produced in spring Chinook Salmon <em>Oncorhynchus tshawytscha</em> hatchery programs can exhibit high rates of maturation in freshwater as 2-year-old "minijacks." This phenomenon is associated with high feeding rates and increased size and/or growth that juveniles experience in the hatchery environment, though studies also support a genetic component affecting age of maturation among salmonids, including precocious maturation in freshwater. This prompted a study to test whether the age of natural-origin spring Chinook Salmon broodstock affects the rate at which their hatchery-raised male progeny mature as age-2 minijacks. In three consecutive brood years, we factorially mated age-4 adult females with age-3, age-4, and age-5 adult (jacks) male broodstock. In the latter two brood years, we also incorporated age-1 precocious parr (microjacks) as sires. After communal rearing to the smolt stage (age 1), male juveniles were characterized as immature or as maturing minijacks based on plasma 11-ketotestosterone concentration, and each was identified to its respective full-sib progeny group via genetic parentage analysis. A generalized linear mixed model, performed for each brood year separately, was used to characterize expected precocious maturation rates by sire age, while controlling for potential effects of smolt body weight and individual parent identities. Multiple comparisons across sire ages within brood years were used to evaluate relative rates of precocious maturation. Estimates of the probability of minijack maturation among families within sire ages and brood years varied from as much as 0% to 100%, and no consistent effect of sire age on precocious maturation rate was observed. Exploratory analyses investigating additional effects of egg size, dam length, and spawn date also failed to identify consistent predictors of precocious maturation. Instead, variability was largely attributed to both dam- and sire-specific effects, indicating a heritable component to precocious maturation, though not detectably associated with other measured attributes.</p>
+<p align="justify">Juvenile males produced in spring Chinook Salmon <em>Oncorhynchus tshawytscha</em> hatchery programs can exhibit high rates of maturation in freshwater as 2-year-old "minijacks." This phenomenon is associated with high feeding rates and increased size and/or growth that juveniles experience in the hatchery environment, though studies also support a genetic component affecting age of maturation among salmonids, including precocious maturation in freshwater. This prompted a study to test whether the age of natural-origin spring Chinook Salmon broodstock affects the rate at which their hatchery-raised male progeny mature as age-2 minijacks. In three consecutive brood years, we factorially mated age-4 adult females with age-3, age-4, and age-5 adult (jacks) male broodstock. In the latter two brood years, we also incorporated age-1 precocious parr (microjacks) as sires. After communal rearing to the smolt stage (age-1), male juveniles were characterized as immature or as maturing minijacks based on plasma 11-ketotestosterone concentration, and each was identified to its respective full-sib progeny group via genetic parentage analysis. A generalized linear mixed model, performed for each brood year separately, was used to characterize expected precocious maturation rates by sire age, while controlling for potential effects of smolt body weight and individual parent identities. Multiple comparisons across sire ages within brood years were used to evaluate relative rates of precocious maturation. Estimates of the probability of minijack maturation among families within sire ages and brood years varied from as much as 0% to 100%, and no consistent effect of sire age on precocious maturation rate was observed. Exploratory analyses investigating additional effects of egg size, dam length, and spawn date also failed to identify consistent predictors of precocious maturation. Instead, variability was largely attributed to both dam- and sire-specific effects, indicating a heritable component to precocious maturation, though not detectably associated with other measured attributes.</p>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg#gh-dark-mode-only" height="15"/>
 <strong>
