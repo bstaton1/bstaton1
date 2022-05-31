@@ -27,7 +27,9 @@ em_words = c(
   "Cyprinella caerulea",
   "Etheostoma brevirostrum",
   "Etheostoma ditrema",
-  "Elassoma zonatum"
+  "Elassoma zonatum",
+  "Tenacibaculum maritimum",
+  "Piscine orthoreovirus"
   )
 ```
 
