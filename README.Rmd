@@ -301,7 +301,48 @@ p(open_lock_img, em("and"), lock_img, em("denote public and private repositories
 
 #### General Purpose R Packages
 
-* [postpack](<https://github.com/bstaton1/postpack>) ([website](https://bstaton1.github.io/postpack/)) `r open_lock_img_inline`: Assortment of tools for working with R objects of class `mcmc.list`. _Under active development_.
+```{r pkg-downloads-fn, eval = FALSE}
+cran_dl_badge = function(pkg, start_date, type = "total") {
+  # query updated data
+  out = cranlogs::cran_downloads(pkg,
+                                 from = start_date,
+                                 to = lubridate::today() - 1)
+  
+  # build the basic URLs with placeholders
+  badge_url = "https://img.shields.io/badge/TYPE%20CRAN%20Downloads-NUMBER-blue"
+  pkg_url = "https://CRAN.R-project.org/package=PKG"
+  
+  # type must be either 'total' or 'monthly'
+  if (!(type %in% c("total", "monthly"))) {
+    stop ("type must be one of 'total' or 'monthly'")
+  }
+  
+  # calculate the download stats based on the interval
+  if (type == "total") {
+    value = paste0(round(sum(out$count)/1000, 1), "k")
+    Type = "Total"
+  } else {
+    out$mon_year = paste0(lubridate::month(out$date), "-", lubridate::year(out$date))
+    value = round(mean(tapply(out$count, out$mon_year, sum)))
+    Type = "Monthly"
+  }
+
+  # replace the placeholders with the calculated values
+  badge_url = gsub("TYPE", Type, badge_url)
+  badge_url = gsub("NUMBER", value, badge_url)
+  
+  # build the package URL
+  pkg_url = gsub("PKG", pkg, pkg_url)
+  
+  # build the HTML code to render
+  htmltools::a(href = pkg_url, img(src = badge_url, alt = "CRAN Downloads"))
+}
+
+cran_dl_badge("postpack", "2020-09-17", "monthly")
+cran_dl_badge("postpack", "2020-09-17", "total")
+```
+
+* [postpack](<https://github.com/bstaton1/postpack>) ([website](https://bstaton1.github.io/postpack/)) `r open_lock_img_inline`: Assortment of tools for working with R objects of class `mcmc.list`. _Under active development_. 
 * [msdown](<https://github.com/bstaton1/msdown>) `r lock_img_inline`: Template and utilities for writing clean, reproducible, and version controllable manuscripts built off [bookdown](<https://pkgs.rstudio.com/bookdown>). _Under active development_.
 
 ## Peer-Reviewed Journal Articles
