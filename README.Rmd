@@ -362,6 +362,16 @@ prep_bibentry = function(key) {
   abstract = stringr::str_replace_all(abstract, "\\{\\$<\\$\\}", "&#60;")
   abstract = stringr::str_replace_all(abstract, "\\\\%", "%")
   
+  # obtain the citation count: cross ref
+  cites_crossref = rcrossref::cr_citation_count(this_bib$doi)$count
+  cites_crossref = ifelse(is.null(cites_crossref), NA, cites_crossref)
+  
+  # obtain the citation count: google scholar
+  title_join = stringr::str_replace_all(title, "&#8211;", "–")
+  title_join = stringr::str_replace_all(title_join, "[:punct:]", " ")
+  cites_gscholar = my_pubs[stringdist::amatch(tolower(title_join), tolower(my_pubs$title)),"cites"]
+  
+  # build the output list
   list(
     authors = authors,
     title = title,
@@ -371,7 +381,9 @@ prep_bibentry = function(key) {
     number = this_bib$number,
     pages = this_bib$pages,
     doi = this_bib$doi,
-    abstract = abstract
+    abstract = abstract,
+    cites_crossref = cites_crossref,
+    cites_gscholar = cites_gscholar,
   )
 }
 
