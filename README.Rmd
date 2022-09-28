@@ -457,9 +457,6 @@ my_br = function(ems = 0) {
   span(style = gsub("VALUE", ems, "display: block; margin-bottom: VALUEem"))
 }
 
-indent_title = "margin-left: 40px;"
-indent_content = "margin-left: 80px;"
-
 article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi = NULL) {
   
   # prepare the bibliographic data
@@ -473,49 +470,60 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
   }
   
   if (!is.null(code_repo)) {
-    repo = p(strong("Repository:"), a(href = paste0("https://github.com/", code_repo), code_repo), style = indent_content)
+    repo = p(strong("Repository:"), a(href = paste0("https://github.com/", code_repo), code_repo))
   } else {
-    repo = p(strong("Repository:"), "Not Available", style = indent_content)
+    repo = p(strong("Repository:"), "Not Available")
   }
   
   if (!is.null(code_doi)) {
-    archive = p(strong("Archive:"), build_doi_badge(code_doi), style = indent_content)
+    archive = p(strong("Archive:"), build_doi_badge(code_doi))
   } else {
-    archive = p(strong("Archive:"), "Not Available", style = indent_content)
+    archive = p(strong("Archive:"), "Not Available")
   }
   
   tags$details(
     tags$summary(lock_use, strong(HTML(my_em(bib_data$title)))),
     my_br(0.5),
     
-    p(book_img, strong(em("JOURNAL")), style = indent_title),
-    my_br(-0.9),
-    p(build_journal_name(bib_data), build_journal_info(bib_data), br(), build_doi_badge(bib_data$doi), style = indent_content),
-    my_br(-0.5),
+    tags$ul(
+      p(book_img, strong(em("JOURNAL"))),
+      my_br(-0.9),
+      tags$ul(
+        p(build_journal_name(bib_data), build_journal_info(bib_data), br(), build_doi_badge(bib_data$doi))
+      ),
+      my_br(-0.5),
     
-    p(users_img, strong(em("AUTHORS")), style = indent_title),
-    my_br(-0.9),
-    p(HTML(my_name_strong(bib_data$authors)), style = indent_content),
-    my_br(-0.5),
+      p(users_img, strong(em("AUTHORS"))),
+      my_br(-0.9),
+      tags$ul(
+        p(HTML(my_name_strong(bib_data$authors)))
+      ),
+      my_br(-0.5),
     
-    p(book_reader_img, strong(em("ABSTRACT")), style = indent_title),
-    my_br(-0.9),
-    p(HTML(my_em(bib_data$abstract)), align = "justify", style = indent_content),
-    my_br(-0.5),
-    
-    p(code_img, strong(em("CODE/DATA")), style = indent_title),
-    my_br(-0.9),
-    repo,
-    my_br(-1),
-    archive,
-    my_br(-0.9),
-    
-    p(comment_img, strong(em("CITATIONS")), style = indent_title),
-    my_br(-0.9),
-    p(strong("Crossref: "), bib_data$cites_crossref, style = indent_content),
-    my_br(-1),
-    p(strong("Google Scholar: "), bib_data$cites_gscholar, style = indent_content),
-    my_br(-0.5),
+      p(book_reader_img, strong(em("ABSTRACT"))),
+      my_br(-0.9),
+      tags$ul(
+        p(HTML(my_em(bib_data$abstract)), align = "justify")
+      ),
+      my_br(-0.5),
+      
+      p(code_img, strong(em("CODE/DATA"))),
+      my_br(-0.9),
+      tags$ul(
+        repo,
+        my_br(-1),
+        archive
+      ),
+      my_br(-0.9),
+      
+      p(comment_img, strong(em("CITATIONS"))),
+      my_br(-0.9),
+      tags$ul(
+        p(strong("Crossref: "), bib_data$cites_crossref),
+        my_br(-1),
+        p(strong("Google Scholar: "), bib_data$cites_gscholar)
+      )
+    ),
     p()
   )
 }
@@ -675,5 +683,5 @@ tags$footer(
   style = footer_style
 )
 
-tags$footer(em("Updated", Sys.Date()), style = footer_style)
+tags$footer(em("Updated", Sys.Date(), "."), style = footer_style)
 ```
