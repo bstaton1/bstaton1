@@ -405,9 +405,13 @@ build_journal_info = function(bib_data) {
 }
 
 build_doi_badge = function(doi) {
-  url = paste0("https://doi.org/", doi)
-  badge = paste0("https://zenodo.org/badge/DOI/", doi, ".svg")
-  a(href = url, img(src = badge, alt = "DOI"))
+  if (!is.null(doi)) {
+    url = paste0("https://doi.org/", doi)
+    badge = paste0("https://zenodo.org/badge/DOI/", doi, ".svg")
+    a(href = url, img(src = badge, alt = "DOI"))
+  }
+}
+
 }
 
 article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi = NULL) {
