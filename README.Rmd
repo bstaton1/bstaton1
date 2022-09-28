@@ -611,3 +611,28 @@ article_details(
   code_doi = NULL
 )
 ```
+
+```{r footnote}
+footer_style = "text-align: right; font-size: 12px;"
+
+tags$footer(
+  em("This file was created by knitting", a("README.Rmd", href = "https://github.com/bstaton1/bstaton1/blob/master/README.Rmd", ".")),
+  style = footer_style
+)
+
+tags$footer(
+  em(
+    "Data processed using R packages",
+    a("RefManageR", href = "https://docs.ropensci.org/RefManageR/"), "(publication metadata) and",
+    a("rcrossref", href = "https://docs.ropensci.org/rcrossref/"), "and", a("scholar", href = "https://CRAN.R-project.org/package=scholar"), "(citation counts)."),
+  style = footer_style
+)
+
+tags$footer(
+  em(
+    "R packages", a("htmltools", href = "https://rstudio.github.io/htmltools/"), "and", a("stringr", href = ""), "also used heavily."),
+  style = footer_style
+)
+
+tags$footer(em("Updated", Sys.Date()), style = footer_style)
+```
