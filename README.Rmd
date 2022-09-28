@@ -483,6 +483,14 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
 ### 2022
 
 ```{r 2022-articles}
+# Yukon Chinook multi-stock analysis
+article_details(
+  key = "connors-etal-2022",
+  open_access = FALSE, 
+  code_repo = "brendanmichaelconnors/yukon-chinook-diversity",
+  code_doi = "10.5281/zenodo.6625526"
+)
+
 # infectious agents in BC Chinook/Coho
 article_details(
   key = "bass-etal-2022",
