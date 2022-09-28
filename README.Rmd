@@ -94,7 +94,18 @@ users_img = tagList(
   img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg#gh-light-mode-only", height = "15"),
   img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg#gh-dark-mode-only", height = "15")
 )
-  
+
+# quote icon: used to represent how to cite
+quote_img = tagList(
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/quote-left.svg#gh-light-mode-only", height = "15"),
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/quote-left-dark.svg#gh-dark-mode-only", height = "15")
+)
+
+# comment icon: used to represent citations
+comment_img = tagList(
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg#gh-light-mode-only", height = "15"),
+  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg#gh-dark-mode-only", height = "15")
+)
 ```
 
 ```{r greeting}
@@ -241,7 +252,7 @@ Bash = a(
 
 # combine and return them
 tagList(
-  p(Google, R, RStudio, JAGS, GitHub, markdown, LaTeX, Bash)
+  p(Google, R, JAGS, RStudio, GitHub, markdown, LaTeX, Bash)
 )
 ```
 
