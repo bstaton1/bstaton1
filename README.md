@@ -1155,6 +1155,9 @@ which makes heavy usage of R packages:
 </sup>
 </sub>
 </footer>
+
+<br/>
+
 <footer align="center">
 <sub>
 <sup>
@@ -1166,6 +1169,9 @@ Ben Staton under the
 </sup>
 </sub>
 </footer>
+
+<br/>
+
 <footer align="center">
 <sub>
 <sup>

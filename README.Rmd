@@ -677,7 +677,11 @@ tags$footer(
   align = "center"
 )
 
+br()
+
 tags$footer(tags$sub(tags$sup(em(HTML("&#169;"), "Ben Staton under the ", a("MIT license", href = "https://github.com/bstaton1/bstaton1/blob/master/LICENSE")))), align = "center")
+
+br()
 
 tags$footer(tags$sub(tags$sup(em("Updated", Sys.Date()))), align = "center")
 ```
