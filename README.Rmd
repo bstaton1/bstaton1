@@ -521,7 +521,7 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
         tagList(strong("Google Scholar: "), bib_data$cites_gscholar)
       )
     ),
-    p()
+    hr()
   )
 }
 ```

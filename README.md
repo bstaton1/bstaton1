@@ -237,7 +237,7 @@ details.
 NA
 </ul>
 </ul>
-<p></p>
+<hr/>
 </details>
 <details>
 <summary>
@@ -304,7 +304,7 @@ Not Available
 0
 </ul>
 </ul>
-<p></p>
+<hr/>
 </details>
 <details>
 <summary>
@@ -373,7 +373,7 @@ Not Available
 0
 </ul>
 </ul>
-<p></p>
+<hr/>
 </details>
 
 ### 2021
