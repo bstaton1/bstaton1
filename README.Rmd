@@ -4,13 +4,13 @@ editor_options:
   chunk_output_type: console
 params: 
   do_2017_article_details:
-    value: FALSE
+    value: TRUE
   do_2019_article_details:
-    value: FALSE
+    value: TRUE
   do_2020_article_details:
-    value: FALSE
+    value: TRUE
   do_2021_article_details:
-    value: FALSE
+    value: TRUE
   do_2022_article_details:
     value: TRUE
 ---
