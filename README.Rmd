@@ -2,6 +2,17 @@
 output: github_document
 editor_options: 
   chunk_output_type: console
+params: 
+  do_2017_article_details:
+    value: FALSE
+  do_2019_article_details:
+    value: FALSE
+  do_2020_article_details:
+    value: FALSE
+  do_2021_article_details:
+    value: FALSE
+  do_2022_article_details:
+    value: TRUE
 ---
 
 ```{r setup, include=FALSE}
@@ -531,7 +542,7 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
 
 ### 2022
 
-```{r 2022-articles}
+```{r 2022-articles, eval = params$do_2022_article_details}
 # Yukon Chinook multi-stock analysis
 article_details(
   key = "connors-etal-2022",
@@ -559,7 +570,7 @@ article_details(
 
 ### 2021
 
-```{r 2021-articles}
+```{r 2021-articles, eval = params$do_2021_article_details}
 # sire age and minijacks
 article_details(
   key = "galbreath-etal-2021", 
@@ -587,7 +598,7 @@ article_details(
 
 ### 2020
 
-```{r 2020-articles}
+```{r 2020-articles, eval = params$do_2020_article_details}
 # multi-stock SRA models
 article_details(
   key = "staton-etal-2020",
@@ -607,7 +618,7 @@ article_details(
 
 ### 2019
 
-```{r 2019-articles}
+```{r 2019-articles, eval = params$do_2019_article_details}
 # in-season updates
 article_details(
   key = "staton-catalano-2019",
@@ -627,7 +638,7 @@ article_details(
 
 ### 2017
 
-```{r 2017-articles}
+```{r 2017-articles, eval = params$do_2017_article_details}
 # run timing forecast
 article_details(
   key = "staton-etal-2017",
