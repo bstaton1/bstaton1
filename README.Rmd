@@ -659,26 +659,25 @@ article_details(
 ```
 
 ```{r footnote}
-footer_style = "text-align: right; font-size: 12px;"
-
 tags$footer(
-  em("This file was created by knitting", a("README.Rmd", href = "https://github.com/bstaton1/bstaton1/blob/master/README.Rmd", ".")),
-  style = footer_style
+  tags$sub(
+    tags$sup(
+      em(
+        "This file was created by knitting",
+        a("README.Rmd", href = "https://github.com/bstaton1/bstaton1/blob/master/README.Rmd"),
+        "which makes heavy usage of R packages:",
+        a("htmltools", href = "https://rstudio.github.io/htmltools/"), ",",
+        a("stringr", href = "https://stringr.tidyverse.org/"), ",",
+        a("RefManageR", href = "https://docs.ropensci.org/RefManageR/"), ",",
+        a("rcrossref", href = "https://docs.ropensci.org/rcrossref/"), ", and",
+        a("scholar", href = "https://CRAN.R-project.org/package=scholar")
+      )
+    )
+  ),
+  align = "center"
 )
 
-tags$footer(
-  em(
-    "Data processed using R packages",
-    a("RefManageR", href = "https://docs.ropensci.org/RefManageR/"), "(publication metadata) and",
-    a("rcrossref", href = "https://docs.ropensci.org/rcrossref/"), "and", a("scholar", href = "https://CRAN.R-project.org/package=scholar"), "(citation counts)."),
-  style = footer_style
-)
+tags$footer(tags$sub(tags$sup(em(HTML("&#169;"), "Ben Staton under the ", a("MIT license", href = "https://github.com/bstaton1/bstaton1/blob/master/LICENSE")))), align = "center")
 
-tags$footer(
-  em(
-    "R packages", a("htmltools", href = "https://rstudio.github.io/htmltools/"), "and", a("stringr", href = ""), "also used heavily."),
-  style = footer_style
-)
-
-tags$footer(em("Updated", Sys.Date(), "."), style = footer_style)
+tags$footer(tags$sub(tags$sup(em("Updated", Sys.Date()))), align = "center")
 ```
