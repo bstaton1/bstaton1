@@ -464,10 +464,6 @@ build_doi_badge = function(doi) {
   }
 }
 
-my_br = function(ems = 0) {
-  span(style = gsub("VALUE", ems, "display: block; margin-bottom: VALUEem"))
-}
-
 article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi = NULL) {
   
   # prepare the bibliographic data
@@ -481,58 +477,47 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
   }
   
   if (!is.null(code_repo)) {
-    repo = p(strong("Repository:"), a(href = paste0("https://github.com/", code_repo), code_repo))
+    repo = tagList(strong("Repository:"), a(href = paste0("https://github.com/", code_repo), code_repo), br())
   } else {
-    repo = p(strong("Repository:"), "Not Available")
+    repo = tagList(strong("Repository:"), "Not Available", br())
   }
   
   if (!is.null(code_doi)) {
-    archive = p(strong("Archive:"), build_doi_badge(code_doi))
+    archive = tagList(strong("Archive:"), build_doi_badge(code_doi))
   } else {
-    archive = p(strong("Archive:"), "Not Available")
+    archive = tagList(strong("Archive:"), "Not Available")
   }
   
   tags$details(
     tags$summary(lock_use, strong(HTML(my_em(bib_data$title)))),
-    my_br(0.5),
+    p(),
     
     tags$ul(
-      p(book_img, strong(em("JOURNAL"))),
-      my_br(-0.9),
+      tagList(book_img, strong(em("JOURNAL"))),
       tags$ul(
         p(build_journal_name(bib_data), build_journal_info(bib_data), br(), build_doi_badge(bib_data$doi))
       ),
-      my_br(-0.5),
-    
-      p(users_img, strong(em("AUTHORS"))),
-      my_br(-0.9),
+      
+      tagList(users_img, strong(em("AUTHORS"))),
       tags$ul(
         p(HTML(my_name_strong(bib_data$authors)))
       ),
-      my_br(-0.5),
     
-      p(book_reader_img, strong(em("ABSTRACT"))),
-      my_br(-0.9),
+      tagList(book_reader_img, strong(em("ABSTRACT"))),
       tags$ul(
         p(HTML(my_em(bib_data$abstract)), align = "justify")
       ),
-      my_br(-0.5),
-      
-      p(code_img, strong(em("CODE/DATA"))),
-      my_br(-0.9),
+
+      tagList(code_img, strong(em("CODE/DATA"))),
       tags$ul(
         repo,
-        my_br(-1),
         archive
       ),
-      my_br(-0.9),
-      
-      p(comment_img, strong(em("CITATIONS"))),
-      my_br(-0.9),
+
+      tagList(comment_img, strong(em("CITATIONS"))),
       tags$ul(
-        p(strong("Crossref: "), bib_data$cites_crossref),
-        my_br(-1),
-        p(strong("Google Scholar: "), bib_data$cites_gscholar)
+        tagList(strong("Crossref: "), bib_data$cites_crossref),
+        tagList(strong("Google Scholar: "), bib_data$cites_gscholar)
       )
     ),
     p()
