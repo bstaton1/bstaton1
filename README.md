@@ -223,6 +223,7 @@ details.
 <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6625526.svg" alt="DOI"/>
 </a>
 </ul>
+<p></p>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg#gh-dark-mode-only" height="15"/>
 <strong>
@@ -231,6 +232,7 @@ details.
 <ul>
 <strong>Crossref: </strong>
 0
+<br/>
 <strong>Google Scholar: </strong>
 NA
 </ul>
@@ -288,6 +290,7 @@ Not Available
 <strong>Archive:</strong>
 Not Available
 </ul>
+<p></p>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg#gh-dark-mode-only" height="15"/>
 <strong>
@@ -296,6 +299,7 @@ Not Available
 <ul>
 <strong>Crossref: </strong>
 0
+<br/>
 <strong>Google Scholar: </strong>
 0
 </ul>
@@ -355,6 +359,7 @@ Not Available
 <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3928691.svg" alt="DOI"/>
 </a>
 </ul>
+<p></p>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg#gh-dark-mode-only" height="15"/>
 <strong>
@@ -363,6 +368,7 @@ Not Available
 <ul>
 <strong>Crossref: </strong>
 1
+<br/>
 <strong>Google Scholar: </strong>
 0
 </ul>

@@ -513,10 +513,11 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
         repo,
         archive
       ),
+      p(),
 
       tagList(comment_img, strong(em("CITATIONS"))),
       tags$ul(
-        tagList(strong("Crossref: "), bib_data$cites_crossref),
+        tagList(strong("Crossref: "), bib_data$cites_crossref, br()),
         tagList(strong("Google Scholar: "), bib_data$cites_gscholar)
       )
     ),
