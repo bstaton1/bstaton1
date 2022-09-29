@@ -659,29 +659,37 @@ article_details(
 ```
 
 ```{r footnote}
-tags$footer(
-  tags$sub(
-    tags$sup(
-      em(
-        "This file was created by knitting",
-        a("README.Rmd", href = "https://github.com/bstaton1/bstaton1/blob/master/README.Rmd"),
-        "which makes heavy usage of R packages:",
-        a("htmltools", href = "https://rstudio.github.io/htmltools/"), ",",
-        a("stringr", href = "https://stringr.tidyverse.org/"), ",",
-        a("RefManageR", href = "https://docs.ropensci.org/RefManageR/"), ",",
-        a("rcrossref", href = "https://docs.ropensci.org/rcrossref/"), ", and",
-        a("scholar", href = "https://CRAN.R-project.org/package=scholar")
+p(
+  tagList(
+    tags$sub(
+      tags$sup(
+        em(
+          "This file was created by knitting",
+          a("README.Rmd", href = "https://github.com/bstaton1/bstaton1/blob/master/README.Rmd"),
+          "which makes heavy usage of R packages:",
+          a("htmltools", href = "https://rstudio.github.io/htmltools/"), ",",
+          a("stringr", href = "https://stringr.tidyverse.org/"), ",",
+          a("RefManageR", href = "https://docs.ropensci.org/RefManageR/"), ",",
+          a("rcrossref", href = "https://docs.ropensci.org/rcrossref/"), ", and",
+          a("scholar", href = "https://CRAN.R-project.org/package=scholar")
+        )
+      )
+    ),
+    br(),
+    tags$sub(
+      tags$sup(
+        em(
+          HTML("&#169;"), "Ben Staton under the ", a("MIT license", href = "https://github.com/bstaton1/bstaton1/blob/master/LICENSE")
+        )
+      )
+    ),
+    br(),
+    tags$sub(
+      tags$sup(
+        em("Updated", Sys.Date())
       )
     )
   ),
   align = "center"
 )
-
-br()
-
-tags$footer(tags$sub(tags$sup(em(HTML("&#169;"), "Ben Staton under the ", a("MIT license", href = "https://github.com/bstaton1/bstaton1/blob/master/LICENSE")))), align = "center")
-
-br()
-
-tags$footer(tags$sub(tags$sup(em("Updated", Sys.Date()))), align = "center")
 ```

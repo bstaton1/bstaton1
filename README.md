@@ -1135,7 +1135,7 @@ Not Available
 </ul>
 <hr/>
 </details>
-<footer align="center">
+<p align="center">
 <sub>
 <sup>
 <em>
@@ -1154,11 +1154,7 @@ which makes heavy usage of R packages:
 </em>
 </sup>
 </sub>
-</footer>
-
 <br/>
-
-<footer align="center">
 <sub>
 <sup>
 <em>
@@ -1168,11 +1164,7 @@ Ben Staton under the
 </em>
 </sup>
 </sub>
-</footer>
-
 <br/>
-
-<footer align="center">
 <sub>
 <sup>
 <em>
@@ -1181,4 +1173,4 @@ Updated
 </em>
 </sup>
 </sub>
-</footer>
+</p>
