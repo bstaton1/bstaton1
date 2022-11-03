@@ -172,6 +172,144 @@ details.
 
 <details>
 <summary>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>Improved Productivity of Naturalized Spring Chinook Salmon Following Reintroduction From a Hatchery Stock in Lookingglass Creek, Oregon</strong>
+</summary>
+<p></p>
+<ul>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>
+<em>JOURNAL</em>
+</strong>
+<ul>
+<p>
+<em>Canadian Journal of Fisheries and Aquatic Sciences,</em>
+In Press
+<br/>
+<a href="https://doi.org/10.1139/cjfas-2022-0114">
+<img src="https://zenodo.org/badge/DOI/10.1139/cjfas-2022-0114.svg" alt="DOI"/>
+</a>
+</p>
+</ul>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>
+<em>AUTHORS</em>
+</strong>
+<ul>
+<p>Nuetzel, H. M, P. F. Galbreath, <strong>B. A. Staton</strong>, C. A. Crump, L. M. Naylor, and G. E. Shippentower</p>
+</ul>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>
+<em>ABSTRACT</em>
+</strong>
+<ul>
+<p align="justify">Supplementation of depressed salmonid populations with hatchery production has been questioned due to domestication effects, which may reduce reproductive fitness. However, for extirpated populations, reintroduction typically requires use of hatchery stocks. We evaluated this strategy by monitoring the naturalization of spring Chinook salmon reintroduced to Lookingglass Creek, OR (Grande Ronde Basin) from a captive brood, hatchery stock. We compared the reproductive success (RS) of naturally spawning natural-origin (NOR) relative to hatchery-origin (HOR) adults across nine brood years. Individual RS (the number of progeny produced) was estimated by pedigree reconstruction analyses, and then analyzed by generalized linear models to estimate the effect of parental origin, while controlling for potentially confounding covariates. When evaluating RS by juvenile progeny, NOR spawners were more likely to be reproductively successful, and when successful, produced more progeny on average than successful HOR counterparts. We found a similar advantage when evaluating RS by adult progeny, although the origin effect was not as important among successful spawners. Results suggest fish reintroduced from a hatchery stock possess the adaptive capacity to positively contribute to natural productivity and recovery goals.</p>
+</ul>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>
+<em>CODE/DATA</em>
+</strong>
+<ul>
+<strong>Repository:</strong>
+<a href="https://github.com/bstaton1/LKG-RRS">bstaton1/LKG-RRS</a>
+<br/>
+<strong>Archive:</strong>
+<a href="https://doi.org/10.5281/zenodo.6621724">
+<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6621724.svg" alt="DOI"/>
+</a>
+</ul>
+<p></p>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>
+<em>CITATIONS</em>
+</strong>
+<ul>
+<strong>Crossref: </strong>
+0
+<br/>
+<strong>Google Scholar: </strong>
+NA
+</ul>
+</ul>
+<hr/>
+</details>
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>Thermal Performance of the Electron Transport Complex III in Seven Alabama Fishes</strong>
+</summary>
+<p></p>
+<ul>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>
+<em>JOURNAL</em>
+</strong>
+<ul>
+<p>
+<em>Journal of Experimental Zoology Part A: Ecological and Integrative Physiology,</em>
+In Press
+<br/>
+<a href="https://doi.org/10.1002/jez.2667">
+<img src="https://zenodo.org/badge/DOI/10.1002/jez.2667.svg" alt="DOI"/>
+</a>
+</p>
+</ul>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>
+<em>AUTHORS</em>
+</strong>
+<ul>
+<p>Horne, L. M, D. R. DeVries, R. Wright, E. Irwin, <strong>B. A. Staton</strong>, H. A. Abdelrahman, and J. A. Stoeckel</p>
+</ul>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>
+<em>ABSTRACT</em>
+</strong>
+<ul>
+<p align="justify">Management of fish populations for conservation in thermally variable systems requires an understanding of the fish's underlying physiology and responses to thermal stress. Physiological research at the organismal level provides information on the overall effects of stressors such as extreme temperature fluctuations. While experiments with whole organisms provide information as to the overall effects of temperature fluctuations, biochemical assays of thermal stress provide direct results of exposure that are both sensitive and specific. Electron transport system (ETS; Complex III) assays quantify a rate-limiting step of respiratory enzymes. Parameters that can be estimated via this approach include optimal thermal temperature (<em>T</em><sub>opt</sub>) and optimal breadth of thermal performance (<em>T</em><sub>breadth</sub>), which can both be related to organismal-level temperature thresholds. We exposed enzymes of seven fish species (native fish chosen to represent a typical community in Alabama streams) to temperatures in the range of 11-44&#176;C. The resultant enzymatic termal performance curves showed that <em>T</em><sub>opt</sub>, the lower temperature for enyzme optimal thermal performance (<em>T</em><sub>low</sub>), the upper temperature for enzyme optimal thermal performance (<em>T</em><sub>up</sub>), and <em>T</em><sub>breadth</sub> differed among species. Relationships between enzymatic activity and temperature for all fish followed a pattern of steadily increasing enzyme activity to <em>T</em><sub>opt</sub> before gradually decreasing with increasing temperature. A comparison of our enzyme optimum and upper-temperature limit results versus published critical thermal maxima values supports that ETS Complex III assays may be useful for assessing organismal-level thermal tolerance.</p>
+</ul>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>
+<em>CODE/DATA</em>
+</strong>
+<ul>
+<strong>Repository:</strong>
+<a href="https://github.com/bstaton1/ETS-vs-temp-ms-analysis">bstaton1/ETS-vs-temp-ms-analysis</a>
+<br/>
+<strong>Archive:</strong>
+<a href="https://doi.org/10.5281/zenodo.7187078">
+<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7187078.svg" alt="DOI"/>
+</a>
+</ul>
+<p></p>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg#gh-light-mode-only" height="15"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg#gh-dark-mode-only" height="15"/>
+<strong>
+<em>CITATIONS</em>
+</strong>
+<ul>
+<strong>Crossref: </strong>
+0
+<br/>
+<strong>Google Scholar: </strong>
+NA
+</ul>
+</ul>
+<hr/>
+</details>
+<details>
+<summary>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
 <strong>Chinook Salmon Diversity Contributes to Fishery Stability and Trade-Offs with Mixed-Stock Harvest</strong>
@@ -185,8 +323,8 @@ details.
 </strong>
 <ul>
 <p>
-<em>Ecological Applications, e,</em>
-: e2709
+<em>Ecological Applications,</em>
+In Press
 <br/>
 <a href="https://doi.org/10.1002/eap.2709">
 <img src="https://zenodo.org/badge/DOI/10.1002/eap.2709.svg" alt="DOI"/>
@@ -234,7 +372,7 @@ details.
 0
 <br/>
 <strong>Google Scholar: </strong>
-0
+NA
 </ul>
 </ul>
 <hr/>
@@ -508,10 +646,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-2
+3
 <br/>
 <strong>Google Scholar: </strong>
-2
+3
 </ul>
 </ul>
 <hr/>
@@ -932,7 +1070,7 @@ Not Available
 5
 <br/>
 <strong>Google Scholar: </strong>
-8
+7
 </ul>
 </ul>
 <hr/>
@@ -1127,10 +1265,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-9
+10
 <br/>
 <strong>Google Scholar: </strong>
-18
+19
 </ul>
 </ul>
 <hr/>
@@ -1169,7 +1307,7 @@ Ben Staton under the
 <sup>
 <em>
 Updated
-2022-09-29
+2022-11-03
 </em>
 </sup>
 </sub>
