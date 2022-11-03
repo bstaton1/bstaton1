@@ -398,9 +398,9 @@ prep_bibentry = function(key) {
   # extract the title: do it this way so capitalization and {} are handled properly
   # title = stringr::str_extract(str_bib, "“.+”") %>%
   #   substr(2, nchar(.)-1)
-  title = stringr::str_extract(str_bib, "\\). .+In") %>%
+  title = stringr::str_extract(str_bib, "\\). .+In\\:") %>%
     stringr::str_remove("\\). ") %>%
-    stringr::str_remove(" In$") %>%
+    stringr::str_remove(" In\\:$") %>%
     substr(2,nchar(.)-2)
   
   # extract the abstract from online
@@ -411,6 +411,10 @@ prep_bibentry = function(key) {
   abstract = stringr::str_replace_all(abstract, "``",  '"')
   abstract = stringr::str_replace_all(abstract, "''",  '"')
   abstract = stringr::str_replace_all(abstract, "O2 kg-1h-1", "O<sub>2</sub> kg<sup>-1</sup>h<sup>-1</sup>")
+  abstract = stringr::str_replace_all(abstract, "Topt", "<em>T</em><sub>opt</sub>")
+  abstract = stringr::str_replace_all(abstract, "Tlow", "<em>T</em><sub>low</sub>")
+  abstract = stringr::str_replace_all(abstract, "Tup", "<em>T</em><sub>up</sub>")
+  abstract = stringr::str_replace_all(abstract, "Tbreadth", "<em>T</em><sub>breadth</sub>")
   abstract = stringr::str_replace_all(abstract, "\\{\\$<\\$\\}", "&#60;")
   abstract = stringr::str_replace_all(abstract, "\\\\%", "%")
   
@@ -529,6 +533,22 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
 ### 2022
 
 ```{r 2022-articles, eval = params$do_2022_article_details}
+# Lookingglass Creek RRS paper with Hayley
+article_details(
+  key = "nuetzel-etal-2022",
+  open_access = TRUE,
+  code_repo = "bstaton1/LKG-RRS",
+  code_doi = "10.5281/zenodo.6621724"
+)
+
+# ETS-vs-temperature GAM paper with Lindsay
+article_details(
+  key = "horne-etal-2022",
+  open_access = FALSE,
+  code_repo = "bstaton1/ETS-vs-temp-ms-analysis",
+  code_doi = "10.5281/zenodo.7187078"
+)
+
 # Yukon Chinook multi-stock analysis
 article_details(
   key = "connors-etal-2022",
