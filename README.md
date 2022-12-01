@@ -234,7 +234,7 @@ In Press
 0
 <br/>
 <strong>Google Scholar: </strong>
-NA
+0
 </ul>
 </ul>
 <hr/>
@@ -324,7 +324,7 @@ NA
 <ul>
 <p>
 <em>Ecological Applications,</em>
-In Press
+32(8): e2709
 <br/>
 <a href="https://doi.org/10.1002/eap.2709">
 <img src="https://zenodo.org/badge/DOI/10.1002/eap.2709.svg" alt="DOI"/>
@@ -436,10 +436,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-0
+1
 <br/>
 <strong>Google Scholar: </strong>
-0
+1
 </ul>
 </ul>
 <hr/>
@@ -505,10 +505,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-1
+2
 <br/>
 <strong>Google Scholar: </strong>
-0
+1
 </ul>
 </ul>
 <hr/>
@@ -1070,7 +1070,7 @@ Not Available
 5
 <br/>
 <strong>Google Scholar: </strong>
-7
+8
 </ul>
 </ul>
 <hr/>
@@ -1307,7 +1307,7 @@ Ben Staton under the
 <sup>
 <em>
 Updated
-2022-11-03
+2022-12-01
 </em>
 </sup>
 </sub>
