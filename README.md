@@ -25,18 +25,15 @@
 
 ## My Interests
 
--   **Population dynamics** and models that describe them
--   **Methods for counting animals** (generally :fish:) and the models
-    we use to make sense of the data
--   **Bayesian analysis** as a means to quantify knowledge and
-    uncertainty
--   **State-space models** as a means to disentangle biological and
-    observational processes
--   **Transparent and data-driven decision processes** because
-    regardless of the outcome, it should always be clear why a choice
-    was made
--   **Reproducible workflows** because analyses are rarely ever
-    "finished"
+- **Population dynamics** and models that describe them
+- **Methods for counting animals** (generally :fish:) and the models we
+  use to make sense of the data
+- **Bayesian analysis** as a means to quantify knowledge and uncertainty
+- **State-space models** as a means to disentangle biological and
+  observational processes
+- **Transparent and data-driven decision processes** because regardless
+  of the outcome, it should always be clear why a choice was made
+- **Reproducible workflows** because analyses are rarely ever "finished"
 
 For more information about me and the things I work on, you can view my
 [curriculum
@@ -92,79 +89,89 @@ details.
 ## Current Projects
 
 <p>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/>
+</picture>
 <em>and</em>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
 <em>denote public and private repositories, respectively.</em>
 </p>
 
 #### Research
 
--   [GR-sslcm](https://github.com/bstaton1/GR-sslcm)
-    <img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only height=15/>:
-    Development of a state-space life cycle model for spring Chinook
-    salmon in the Grande Ronde River basin of northeastern Oregon.
-    *Under active development*.
--   [LKG-RRS-ms-analysis]()
-    <img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only height=15/>:
-    Analysis for a manuscript that compares the reproductive success
-    (i.e., number of progeny that survive to various stages) of
-    wild-spawning spring Chinook salmon that differ in a range of
-    characteristics including origin, sex, arrival timing, and size.
-    *Under active development*.
--   [inseason-voi-ms-analysis](https://github.com/bstaton1/inseason-voi-ms-analysis)
-    <img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only height=15/>:
-    Analysis for a manuscript that investigates the Value of Information
-    of different data sources used during in-season decision-making
-    regarding total allowable harvest for large in-river subsistence
-    salmon fisheries. *Under active development*.
--   In-season estimation and prediction of effort and harvest for lower
-    Kuskokwim River subsistence salmon fisheries
-    -   [KuskoHarvEst](https://github.com/bstaton1/KuskoHarvEst)
-        <img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only height=15/>:
-        R package containing tools and an associated workflow for
-        estimating effort and harvest given monitoring data as inputs.
-        Tools can be executed via code-only or interactive
-        (point-and-click) workflows; the interactive workflow automates
-        summary report generation using
-        [Rmarkdown](https://rmarkdown.rstudio.com/) and built-in
-        templates. *Development considered complete at present*.
-    -   [KuskoHarvData](https://github.com/bstaton1/KuskoHarvData)
-        <img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only height=15/>:
-        R package containing historical data and estimates derived using
-        'KuskoHarvEst'. *Under active development*.
-    -   [KuskoHarvPred](https://github.com/bstaton1/KuskoHarvPred)
-        <img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only height=15/>:
-        R package containing tools for reproducibly conducting
-        regression analyses that seek to predict critical fishery
-        outcomes arising from proposed fishing opportunities. *Under
-        active development*.
+- [GR-sslcm](https://github.com/bstaton1/GR-sslcm)
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/><img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/></picture>:
+  Development of a state-space life cycle model for spring Chinook
+  salmon in the Grande Ronde River basin of northeastern Oregon. *Under
+  active development*.
+- [LKG-RRS-ms-analysis]()
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/><img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/></picture>:
+  Analysis for a manuscript that compares the reproductive success
+  (i.e., number of progeny that survive to various stages) of
+  wild-spawning spring Chinook salmon that differ in a range of
+  characteristics including origin, sex, arrival timing, and size.
+  *Under active development*.
+- [inseason-voi-ms-analysis](https://github.com/bstaton1/inseason-voi-ms-analysis)
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/><img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/></picture>:
+  Analysis for a manuscript that investigates the Value of Information
+  of different data sources used during in-season decision-making
+  regarding total allowable harvest for large in-river subsistence
+  salmon fisheries. *Under active development*.
+- In-season estimation and prediction of effort and harvest for lower
+  Kuskokwim River subsistence salmon fisheries
+  - [KuskoHarvEst](https://github.com/bstaton1/KuskoHarvEst)
+    <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/><img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/></picture>:
+    R package containing tools and an associated workflow for estimating
+    effort and harvest given monitoring data as inputs. Tools can be
+    executed via code-only or interactive (point-and-click) workflows;
+    the interactive workflow automates summary report generation using
+    [Rmarkdown](https://rmarkdown.rstudio.com/) and built-in templates.
+    *Development considered complete at present*.
+  - [KuskoHarvData](https://github.com/bstaton1/KuskoHarvData)
+    <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/><img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/></picture>:
+    R package containing historical data and estimates derived using
+    'KuskoHarvEst'. *Under active development*.
+  - [KuskoHarvPred](https://github.com/bstaton1/KuskoHarvPred)
+    <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/><img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/></picture>:
+    R package containing tools for reproducibly conducting regression
+    analyses that seek to predict critical fishery outcomes arising from
+    proposed fishing opportunities. *Under active development*.
 
 #### General Purpose R Packages
 
--   [postpack](https://github.com/bstaton1/postpack)
-    ([website](https://bstaton1.github.io/postpack/))
-    <img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only height=15/>:
-    Assortment of tools for working with R objects of class `mcmc.list`.
-    *Under active development*.
--   [msdown](https://github.com/bstaton1/msdown)
-    <img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only height=15/>:
-    Template and utilities for writing clean, reproducible, and version
-    controllable manuscripts built off
-    [bookdown](https://pkgs.rstudio.com/bookdown). *Under active
-    development*.
+- [postpack](https://github.com/bstaton1/postpack)
+  ([website](https://bstaton1.github.io/postpack/))
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/><img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/></picture>:
+  Assortment of tools for working with R objects of class `mcmc.list`.
+  *Under active development*.
+- [msdown](https://github.com/bstaton1/msdown)
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/><img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/></picture>:
+  Template and utilities for writing clean, reproducible, and version
+  controllable manuscripts built off
+  [bookdown](https://pkgs.rstudio.com/bookdown). *Under active
+  development*.
 
 ## Peer-Reviewed Journal Articles
 
 <p>
 <em>Click the title of each article to see more information.</em>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/>
+</picture>
 <em>and</em>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
 <em>denote open-access and paywall articles, respectively.</em>
 </p>
 
@@ -172,8 +179,11 @@ details.
 
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/>
+</picture>
 <strong>Improved Productivity of Naturalized Spring Chinook Salmon Following Reintroduction From a Hatchery Stock in Lookingglass Creek, Oregon</strong>
 </summary>
 <p></p>
@@ -199,7 +209,7 @@ In Press
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Nuetzel, H. M, P. F. Galbreath, <strong>B. A. Staton</strong>, C. A. Crump, L. M. Naylor, and G. E. Shippentower</p>
+<p>Nuetzel, H. M., P. F. Galbreath, <strong>B. A. Staton</strong>, C. A. Crump, L. M. Naylor, and G. E. Shippentower</p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -241,8 +251,11 @@ In Press
 </details>
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
 <strong>Thermal Performance of the Electron Transport Complex III in Seven Alabama Fishes</strong>
 </summary>
 <p></p>
@@ -268,7 +281,7 @@ In Press
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Horne, L. M, D. R. DeVries, R. Wright, E. Irwin, <strong>B. A. Staton</strong>, H. A. Abdelrahman, and J. A. Stoeckel</p>
+<p>Horne, L. M., D. R. DeVries, R. Wright, E. Irwin, <strong>B. A. Staton</strong>, H. A. Abdelrahman, and J. A. Stoeckel</p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -310,8 +323,11 @@ NA
 </details>
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
 <strong>Chinook Salmon Diversity Contributes to Fishery Stability and Trade-Offs with Mixed-Stock Harvest</strong>
 </summary>
 <p></p>
@@ -337,7 +353,7 @@ NA
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Connors, B. M, M. R. Siegle, J. Harding, S. Rossi, <strong>B. A. Staton</strong>, M. L. Jones, M. J. Bradford, R. Brown, B. Bechtol, B. Doherty, S. Cox, and B. J. G. Sutherland</p>
+<p>Connors, B. M., M. R. Siegle, J. Harding, S. Rossi, <strong>B. A. Staton</strong>, M. L. Jones, M. J. Bradford, R. Brown, B. Bechtol, B. Doherty, S. Cox, and B. J. G. Sutherland</p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -369,18 +385,21 @@ NA
 </strong>
 <ul>
 <strong>Crossref: </strong>
-0
+2
 <br/>
 <strong>Google Scholar: </strong>
-NA
+2
 </ul>
 </ul>
 <hr/>
 </details>
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/>
+</picture>
 <strong>Identification of Infectious Agents in Early Marine Chinook and Coho Salmon Associated with Cohort Survival</strong>
 </summary>
 <p></p>
@@ -406,7 +425,7 @@ NA
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Bass, A. L, A. W. Bateman, B. M. Connors, <strong>B. A. Staton</strong>, E. B. Rondeau, G. J. Mordecai, A. K. Teffer, K. H. Kaukinen, S. Li, A. M. Tabata, D. A. Patterson, S. G. Hinch, and K. M. Miller</p>
+<p>Bass, A. L., A. W. Bateman, B. M. Connors, <strong>B. A. Staton</strong>, E. B. Rondeau, G. J. Mordecai, A. K. Teffer, K. H. Kaukinen, S. Li, A. M. Tabata, D. A. Patterson, S. G. Hinch, and K. M. Miller</p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -436,18 +455,21 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-1
+7
 <br/>
 <strong>Google Scholar: </strong>
-1
+7
 </ul>
 </ul>
 <hr/>
 </details>
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
 <strong>Accounting for Uncertainty When Estimating Drivers of Imperfect Detection: An Integrated Approach Illustrated with Snorkel Surveys for Riverine Fishes</strong>
 </summary>
 <p></p>
@@ -473,7 +495,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p><strong>Staton, B. A,</strong> C. Justice, S. White, E. R. Sedell, L. A. Burns, and M. J. Kaylor</p>
+<p>Staton, B. A., C. Justice, S. White, E. R. Sedell, L. A. Burns, and M. J. Kaylor</p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -505,10 +527,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-2
+3
 <br/>
 <strong>Google Scholar: </strong>
-1
+3
 </ul>
 </ul>
 <hr/>
@@ -518,8 +540,11 @@ Not Available
 
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/>
+</picture>
 <strong>Precocious Maturation of Hatchery-Raised Spring Chinook Salmon as Age-2 Minijacks Is Not Detectably Affected by Sire Age</strong>
 </summary>
 <p></p>
@@ -545,7 +570,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Galbreath, P. F, <strong>B. A. Staton</strong>, H. M. Nuetzel, C. A. Stockton, C. M. Knudsen, L. R. Medeiros, I. J. Koch, W. J. Bosch, and A. L. Pierce</p>
+<p>Galbreath, P. F., <strong>B. A. Staton</strong>, H. M. Nuetzel, C. A. Stockton, C. M. Knudsen, L. R. Medeiros, I. J. Koch, W. J. Bosch, and A. L. Pierce</p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -577,18 +602,21 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-0
+2
 <br/>
 <strong>Google Scholar: </strong>
-0
+2
 </ul>
 </ul>
 <hr/>
 </details>
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
 <strong>Incorporating Demographic Information into Spawner&#8211;Recruit Analyses Alters Biological Reference Point Estimates for a Western Alaska Salmon Population</strong>
 </summary>
 <p></p>
@@ -614,7 +642,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p><strong>Staton, B. A,</strong> M. J. Catalano, S. J. Fleischman, and J. Ohlberger</p>
+<p>Staton, B. A., M. J. Catalano, S. J. Fleischman, and J. Ohlberger</p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -646,18 +674,21 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-3
+6
 <br/>
 <strong>Google Scholar: </strong>
-3
+8
 </ul>
 </ul>
 <hr/>
 </details>
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
 <strong>Temperature, Emergence Phenology and Consumption Drive Seasonal Shifts in Fish Growth and Production across Riverscapes</strong>
 </summary>
 <p></p>
@@ -683,7 +714,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Kaylor, M. J, C. Justice, J. B. Armstrong, <strong>B. A. Staton</strong>, L. A. Burns, E. Sedell, and S. M. White</p>
+<p>Kaylor, M. J., C. Justice, J. B. Armstrong, <strong>B. A. Staton</strong>, L. A. Burns, E. Sedell, and S. M. White</p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -728,8 +759,11 @@ Not Available
 
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
 <strong>Evaluation of Methods for Spawner&#8211;Recruit Analysis in Mixed-Stock Pacific Salmon Fisheries</strong>
 </summary>
 <p></p>
@@ -755,7 +789,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p><strong>Staton, B. A,</strong> M. J. Catalano, B. M. Connors, L. G. C. Jr, M. L. Jones, C. J. Walters, S. J. Fleischman, and D. C. Gwinn</p>
+<p>Staton, B. A., M. J. Catalano, B. M. Connors, L. G. C. Jr, M. L. Jones, C. J. Walters, S. J. Fleischman, and D. C. Gwinn</p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -787,18 +821,21 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-7
+8
 <br/>
 <strong>Google Scholar: </strong>
-7
+8
 </ul>
 </ul>
 <hr/>
 </details>
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
 <strong>Incorporating Harvest&#8211;Population Diversity Trade-Offs into Harvest Policy Analyses of Salmon Management in Large River Basins</strong>
 </summary>
 <p></p>
@@ -824,7 +861,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Connors, B. M, <strong>B. Staton</strong>, L. Coggins, C. Walters, M. Jones, D. Gwinn, M. Catalano, and S. Fleischman</p>
+<p>Connors, B. M., <strong>B. Staton</strong>, L. Coggins, C. Walters, M. Jones, D. Gwinn, M. Catalano, and S. Fleischman</p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -856,10 +893,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-10
+11
 <br/>
 <strong>Google Scholar: </strong>
-12
+13
 </ul>
 </ul>
 <hr/>
@@ -869,8 +906,11 @@ Not Available
 
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
 <strong>Bayesian Information Updating Procedures for Pacific Salmon Run Size Indicators: Evaluation in the Presence and Absence of Auxiliary Migration Timing Information</strong>
 </summary>
 <p></p>
@@ -931,15 +971,18 @@ Not Available
 4
 <br/>
 <strong>Google Scholar: </strong>
-6
+9
 </ul>
 </ul>
 <hr/>
 </details>
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/>
+</picture>
 <strong>Migratory Timing and Rates of Chinook Salmon Bound for the Kwethluk and Kisaralik Rivers</strong>
 </summary>
 <p></p>
@@ -965,7 +1008,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Moses, A. P, <strong>B. A. Staton</strong>, and N. J. Smith</p>
+<p>Moses, A. P., <strong>B. A. Staton</strong>, and N. J. Smith</p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -1010,8 +1053,11 @@ Not Available
 
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
 <strong>Development and Evaluation of a Migration Timing Forecast Model for Kuskokwim River Chinook Salmon</strong>
 </summary>
 <p></p>
@@ -1037,7 +1083,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p><strong>Staton, B. A,</strong> M. J. Catalano, T. M. Farmer, A. Abebe, and F. S. Dobson</p>
+<p>Staton, B. A., M. J. Catalano, T. M. Farmer, A. Abebe, and F. S. Dobson</p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -1070,15 +1116,18 @@ Not Available
 5
 <br/>
 <strong>Google Scholar: </strong>
-8
+9
 </ul>
 </ul>
 <hr/>
 </details>
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
 <strong>Maximize Your Meeting: A Student's Guide to AFS Meetings</strong>
 </summary>
 <p></p>
@@ -1104,7 +1153,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Dippold, D. A, G. D. Adams, T. M. Farmer, and <strong>B. A. Staton</strong></p>
+<p>Dippold, D. A., G. D. Adams, T. M. Farmer, and <strong>B. A. Staton</strong></p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -1144,8 +1193,11 @@ Not Available
 </details>
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/>
+</picture>
 <strong>Physiological Ecology of Four Endemic Alabama Species and the Exotic Asiatic Weatherfish, <em>Misgurnus Anguillicaudatus</em> (Cantor, 1842)</strong>
 </summary>
 <p></p>
@@ -1168,7 +1220,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>White, L, M. Meade, and <strong>B. Staton</strong></p>
+<p>White, L., M. Meade, and <strong>B. Staton</strong></p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -1208,8 +1260,11 @@ NA
 </details>
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only" height="15"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only" height="15"/>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
 <strong>From Sequential to Integrated Bayesian Analyses: Exploring the Continuum with a Pacific Salmon Spawner-Recruit Model</strong>
 </summary>
 <p></p>
@@ -1235,7 +1290,7 @@ NA
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p><strong>Staton, B. A,</strong> M. J. Catalano, and S. J. Fleischman</p>
+<p>Staton, B. A., M. J. Catalano, and S. J. Fleischman</p>
 </ul>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only" height="15"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only" height="15"/>
@@ -1268,7 +1323,7 @@ Not Available
 10
 <br/>
 <strong>Google Scholar: </strong>
-19
+20
 </ul>
 </ul>
 <hr/>
@@ -1307,7 +1362,7 @@ Ben Staton under the
 <sup>
 <em>
 Updated
-2022-12-01
+2023-06-28
 </em>
 </sup>
 </sub>

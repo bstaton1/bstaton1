@@ -67,20 +67,45 @@ em_words = c(
 # note how each img has two options: one for each light and dark themes
 
 # a closed lock: used for denoting paywall articles/private repos
-lock_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only", height = "15")
+lock_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg", 
+      height = "15"
+    )
+  )
 )
 
 # an open lock: used for denoting open-access articles/public repos
-open_lock_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only", height = "15")
+open_lock_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg", 
+      height = "15"
+    )
+  )
 )
 
 # inline versions of these lock icons
-lock_img_inline = HTML("<img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only height=15/>")
-open_lock_img_inline = HTML("<img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only height=15/>")
+lock_img_inline = HTML('<picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/><img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/></picture>')
+
+open_lock_img_inline = HTML('<picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/><img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/></picture>')
 
 # a closed book: used to represent a journal
 book_img = tagList(
