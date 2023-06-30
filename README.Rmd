@@ -108,39 +108,111 @@ lock_img_inline = HTML('<picture><source media="(prefers-color-scheme: light)" s
 open_lock_img_inline = HTML('<picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/><img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/></picture>')
 
 # a closed book: used to represent a journal
-book_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg#gh-dark-mode-only", height = "15")
+book_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg", 
+      height = "15"
+    )
+  )
 )
 
 # an open book: used to represent an abstract
-book_reader_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only", height = "15")
+book_reader_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg", 
+      height = "15"
+    )
+  )
 )
 
 # code icon: used to represent locations of archived/open source code/data
-code_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg#gh-dark-mode-only", height = "15")
+code_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg", 
+      height = "15"
+    )
+  )
 )
 
 # users icon: used to represent author list
-users_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg#gh-dark-mode-only", height = "15")
+users_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg", 
+      height = "15"
+    )
+  )
 )
 
 # quote icon: used to represent how to cite
-quote_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/quote-left.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/quote-left-dark.svg#gh-dark-mode-only", height = "15")
+quote_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/quote.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/quote-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/quote.svg", 
+      height = "15"
+    )
+  )
 )
 
 # comment icon: used to represent citations
-comment_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg#gh-dark-mode-only", height = "15")
+comment_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg", 
+      height = "15"
+    )
+  )
 )
 ```
 
