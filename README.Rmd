@@ -13,6 +13,7 @@ params:
     value: TRUE
   do_2022_article_details:
     value: TRUE
+always_allow_html: TRUE
 ---
 
 ```{r setup, include=FALSE}
@@ -773,6 +774,81 @@ article_details(
   code_doi = NULL
 )
 ```
+
+## Citations
+
+```{r}
+bib_df = as.data.frame(bib)
+bib_df = data.frame(year = bib_df[,c("year")], key = rownames(bib_df))
+bib_df = bib_df[order(bib_df$year),]
+cite_counts = t(sapply(bib_df$key, function(key) {out = prep_bibentry(key); c(cross_ref = out$cites_crossref, gscholar = out$cites_gscholar)}))
+bib_df = cbind(bib_df, cite_counts)
+bib_df[is.na(bib_df)] = 0
+bib_df$year = as.numeric(bib_df$year)
+bib_df$year = factor(bib_df$year, levels = min(bib_df$year):max(bib_df$year))
+
+cites_table = function(df) {
+  tab = cbind(
+    Year = levels(df$year), 
+    Articles = tapply(df$year, df$year, length),
+    CrossRef = tapply(df$cross_ref, df$year, sum),
+    "Google Scholar" = tapply(df$gscholar, df$year, sum)
+  ); rownames(tab) = NULL
+  
+  tab[is.na(tab)] = 0
+  
+  tab = rbind(tab, c(Year = "All", 
+                     Articles = sum(as.numeric(tab[,"Articles"])), 
+                     CrossRef = sum(as.numeric(tab[,"CrossRef"])),
+                     "Google Scholar" = sum(as.numeric(tab[,"Google Scholar"]))))
+  
+  kableExtra::kbl(tab, "html", row.names = FALSE, align = "lccc") |>
+    kableExtra::kable_styling(full_width = FALSE) |>
+    kableExtra::add_header_above(c("Published" = 2, "Cumulative Citations" = 2)) |>
+    kableExtra::column_spec(1, bold = TRUE) |> 
+    kableExtra::row_spec(nrow(tab), bold = TRUE)
+}
+
+h_index = function(cite_counts) {
+  possible_h = 1:length(cite_counts)
+  max(possible_h[which(sapply(possible_h, function(h) sum(cite_counts >= h) >= h))])
+}
+
+h_index_table = function(df) {
+  h_cr = h_index(df$cross_ref)
+  h_gs = h_index(df$gscholar)
+  data.frame(type = c("CrossRef", "Google Scholar"), h = c(h_cr, h_gs)) |>
+    kableExtra::kbl("html", col.names = c(" ", "h-index")) |> 
+    kableExtra::column_spec(1, bold = TRUE)
+}
+```
+
+_This section contains summaries of citations made on research articles I've (co)authored; Google Scholar includes citations made in grey literature (e.g., agency reports) as well as from the peer-reviewed literature, whereas CrossRef indexes the latter only. Citation numbers differ here from those presented on [Google Scholar](https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en) because those counts also include citations of grey literature I've (co)authored._
+
+### Lead Author Articles
+
+<details>
+ <summary>Click to View</summary>
+
+```{r}
+my_bib_df = bib_df[stringr::str_detect(bib_df$key, "^staton"),]
+cites_table(my_bib_df)
+h_index_table(my_bib_df)
+```
+
+</details>
+
+### All Articles
+
+<details>
+ <summary>Click to View</summary>
+
+```{r}
+cites_table(bib_df)
+h_index_table(bib_df)
+```
+
+</details>
 
 ```{r footnote}
 p(
