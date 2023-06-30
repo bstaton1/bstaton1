@@ -18,7 +18,6 @@ params:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(htmltools)
-library(magrittr)
 ```
 
 ```{r load-bib}
@@ -468,9 +467,9 @@ my_em = function(x) {
 }
 
 my_name_strong = function(x) {
-  stringr::str_replace(x, "B. A. Staton", "<strong>B. A. Staton</strong>") %>%
-    stringr::str_replace("Staton, B. A,", "<strong>Staton, B. A,</strong>") %>%
-    stringr::str_replace("Staton, B,", "<strong>Staton, B,</strong>") %>%
+  stringr::str_replace(x, "B. A. Staton", "<strong>B. A. Staton</strong>") |>
+    stringr::str_replace("Staton, B. A,", "<strong>Staton, B. A,</strong>") |>
+    stringr::str_replace("Staton, B,", "<strong>Staton, B,</strong>") |>
     stringr::str_replace("B. Staton", "<strong>B. Staton</strong>")
 }
 
@@ -489,17 +488,17 @@ prep_bibentry = function(key) {
   str_bib = stringr::str_remove_all(str_bib, "_")
   
   # extract author list: do it this way so first and middle names are abbreviated
-  authors = stringr::str_extract(str_bib, "^.+\\([:digit:]") %>%
+  authors = stringr::str_extract(str_bib, "^.+\\([:digit:]") |>
     stringr::str_remove(" \\([:digit:]")
   
   # extract the title: do it this way so capitalization and {} are handled properly
-  # title = stringr::str_extract(str_bib, "“.+”") %>%
+  # title = stringr::str_extract(str_bib, "“.+”") |>
   #   substr(2, nchar(.)-1)
-  title = stringr::str_extract(str_bib, "\\). .+In\\:") %>%
-    stringr::str_remove("\\). ") %>%
-    stringr::str_remove(" In\\:$") %>%
-    substr(2,nchar(.)-2)
-  
+  title = stringr::str_extract(str_bib, "\\). .+In\\:") |>
+    stringr::str_remove("\\). ") |>
+    stringr::str_remove(" In\\:$")
+  title = substr(title, 2, nchar(title) - 2)
+
   # extract the abstract from online
   # abstract = tryCatch(rcrossref::cr_abstract(this_bib$doi), error = function(e) "Abstract not found on CrossRef. Consult the DOI link shown above for the abstract.")
   abstract = this_bib$abstract
