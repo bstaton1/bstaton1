@@ -13,12 +13,12 @@ params:
     value: TRUE
   do_2022_article_details:
     value: TRUE
+always_allow_html: TRUE
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(htmltools)
-library(magrittr)
 ```
 
 ```{r load-bib}
@@ -67,55 +67,152 @@ em_words = c(
 # note how each img has two options: one for each light and dark themes
 
 # a closed lock: used for denoting paywall articles/private repos
-lock_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only", height = "15")
+lock_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg", 
+      height = "15"
+    )
+  )
 )
 
 # an open lock: used for denoting open-access articles/public repos
-open_lock_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only", height = "15")
+open_lock_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg", 
+      height = "15"
+    )
+  )
 )
 
 # inline versions of these lock icons
-lock_img_inline = HTML("<img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg#gh-dark-mode-only height=15/>")
-open_lock_img_inline = HTML("<img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg#gh-light-mode-only height=15/><img src=https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg#gh-dark-mode-only height=15/>")
+lock_img_inline = HTML('<picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/><img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/></picture>')
+
+open_lock_img_inline = HTML('<picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/><img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/></picture>')
 
 # a closed book: used to represent a journal
-book_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg#gh-dark-mode-only", height = "15")
+book_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg", 
+      height = "15"
+    )
+  )
 )
 
 # an open book: used to represent an abstract
-book_reader_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg#gh-dark-mode-only", height = "15")
+book_reader_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg", 
+      height = "15"
+    )
+  )
 )
 
 # code icon: used to represent locations of archived/open source code/data
-code_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg#gh-dark-mode-only", height = "15")
+code_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg", 
+      height = "15"
+    )
+  )
 )
 
 # users icon: used to represent author list
-users_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg#gh-dark-mode-only", height = "15")
+users_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg", 
+      height = "15"
+    )
+  )
 )
 
 # quote icon: used to represent how to cite
-quote_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/quote-left.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/quote-left-dark.svg#gh-dark-mode-only", height = "15")
+quote_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/quote.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/quote-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/quote.svg", 
+      height = "15"
+    )
+  )
 )
 
 # comment icon: used to represent citations
-comment_img = tagList(
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg#gh-light-mode-only", height = "15"),
-  img(src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg#gh-dark-mode-only", height = "15")
+comment_img = withTags(
+  picture(
+    source(
+      media = "(prefers-color-scheme: light)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg"
+    ),
+    source(
+      media = "(prefers-color-scheme: dark)",
+      srcset = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg"
+    ),
+    img(
+      src = "https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg", 
+      height = "15"
+    )
+  )
 )
 ```
 
@@ -371,9 +468,9 @@ my_em = function(x) {
 }
 
 my_name_strong = function(x) {
-  stringr::str_replace(x, "B. A. Staton", "<strong>B. A. Staton</strong>") %>%
-    stringr::str_replace("Staton, B. A,", "<strong>Staton, B. A,</strong>") %>%
-    stringr::str_replace("Staton, B,", "<strong>Staton, B,</strong>") %>%
+  stringr::str_replace(x, "B. A. Staton", "<strong>B. A. Staton</strong>") |>
+    stringr::str_replace("Staton, B. A,", "<strong>Staton, B. A,</strong>") |>
+    stringr::str_replace("Staton, B,", "<strong>Staton, B,</strong>") |>
     stringr::str_replace("B. Staton", "<strong>B. Staton</strong>")
 }
 
@@ -392,17 +489,17 @@ prep_bibentry = function(key) {
   str_bib = stringr::str_remove_all(str_bib, "_")
   
   # extract author list: do it this way so first and middle names are abbreviated
-  authors = stringr::str_extract(str_bib, "^.+\\([:digit:]") %>%
+  authors = stringr::str_extract(str_bib, "^.+\\([:digit:]") |>
     stringr::str_remove(" \\([:digit:]")
   
   # extract the title: do it this way so capitalization and {} are handled properly
-  # title = stringr::str_extract(str_bib, "“.+”") %>%
+  # title = stringr::str_extract(str_bib, "“.+”") |>
   #   substr(2, nchar(.)-1)
-  title = stringr::str_extract(str_bib, "\\). .+In\\:") %>%
-    stringr::str_remove("\\). ") %>%
-    stringr::str_remove(" In\\:$") %>%
-    substr(2,nchar(.)-2)
-  
+  title = stringr::str_extract(str_bib, "\\). .+In\\:") |>
+    stringr::str_remove("\\). ") |>
+    stringr::str_remove(" In\\:$")
+  title = substr(title, 2, nchar(title) - 2)
+
   # extract the abstract from online
   # abstract = tryCatch(rcrossref::cr_abstract(this_bib$doi), error = function(e) "Abstract not found on CrossRef. Consult the DOI link shown above for the abstract.")
   abstract = this_bib$abstract
@@ -677,6 +774,81 @@ article_details(
   code_doi = NULL
 )
 ```
+
+## Citations
+
+```{r}
+bib_df = as.data.frame(bib)
+bib_df = data.frame(year = bib_df[,c("year")], key = rownames(bib_df))
+bib_df = bib_df[order(bib_df$year),]
+cite_counts = t(sapply(bib_df$key, function(key) {out = prep_bibentry(key); c(cross_ref = out$cites_crossref, gscholar = out$cites_gscholar)}))
+bib_df = cbind(bib_df, cite_counts)
+bib_df[is.na(bib_df)] = 0
+bib_df$year = as.numeric(bib_df$year)
+bib_df$year = factor(bib_df$year, levels = min(bib_df$year):max(bib_df$year))
+
+cites_table = function(df) {
+  tab = cbind(
+    Year = levels(df$year), 
+    Articles = tapply(df$year, df$year, length),
+    CrossRef = tapply(df$cross_ref, df$year, sum),
+    "Google Scholar" = tapply(df$gscholar, df$year, sum)
+  ); rownames(tab) = NULL
+  
+  tab[is.na(tab)] = 0
+  
+  tab = rbind(tab, c(Year = "All", 
+                     Articles = sum(as.numeric(tab[,"Articles"])), 
+                     CrossRef = sum(as.numeric(tab[,"CrossRef"])),
+                     "Google Scholar" = sum(as.numeric(tab[,"Google Scholar"]))))
+  
+  kableExtra::kbl(tab, "html", row.names = FALSE, align = "lccc") |>
+    kableExtra::kable_styling(full_width = FALSE) |>
+    kableExtra::add_header_above(c("Published" = 2, "Cumulative Citations" = 2)) |>
+    kableExtra::column_spec(1, bold = TRUE) |> 
+    kableExtra::row_spec(nrow(tab), bold = TRUE)
+}
+
+h_index = function(cite_counts) {
+  possible_h = 1:length(cite_counts)
+  max(possible_h[which(sapply(possible_h, function(h) sum(cite_counts >= h) >= h))])
+}
+
+h_index_table = function(df) {
+  h_cr = h_index(df$cross_ref)
+  h_gs = h_index(df$gscholar)
+  data.frame(type = c("CrossRef", "Google Scholar"), h = c(h_cr, h_gs)) |>
+    kableExtra::kbl("html", col.names = c(" ", "h-index")) |> 
+    kableExtra::column_spec(1, bold = TRUE)
+}
+```
+
+_This section contains summaries of citations made on research articles I've (co)authored; Google Scholar includes citations made in grey literature (e.g., agency reports) as well as from the peer-reviewed literature, whereas CrossRef indexes the latter only. Citation numbers differ here from those presented on [Google Scholar](https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en) because those counts also include citations of grey literature I've (co)authored._
+
+### Lead Author Articles
+
+<details>
+ <summary>Click to View</summary>
+
+```{r}
+my_bib_df = bib_df[stringr::str_detect(bib_df$key, "^staton"),]
+cites_table(my_bib_df)
+h_index_table(my_bib_df)
+```
+
+</details>
+
+### All Articles
+
+<details>
+ <summary>Click to View</summary>
+
+```{r}
+cites_table(bib_df)
+h_index_table(bib_df)
+```
+
+</details>
 
 ```{r footnote}
 p(
