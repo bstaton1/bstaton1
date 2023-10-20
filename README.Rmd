@@ -13,6 +13,8 @@ params:
     value: TRUE
   do_2022_article_details:
     value: TRUE
+  do_2023_article_details:
+    value: TRUE
 always_allow_html: TRUE
 ---
 
@@ -627,12 +629,12 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
 }
 ```
 
-### 2022
+### 2023
 
-```{r 2022-articles, eval = params$do_2022_article_details}
+```{r 2023-articles, eval = params$do_2023_article_details}
 # Lookingglass Creek RRS paper with Hayley
 article_details(
-  key = "nuetzel-etal-2022",
+  key = "nuetzel-etal-2023",
   open_access = TRUE,
   code_repo = "bstaton1/LKG-RRS",
   code_doi = "10.5281/zenodo.6621724"
@@ -640,11 +642,16 @@ article_details(
 
 # ETS-vs-temperature GAM paper with Lindsay
 article_details(
-  key = "horne-etal-2022",
+  key = "horne-etal-2023",
   open_access = FALSE,
   code_repo = "bstaton1/ETS-vs-temp-ms-analysis",
   code_doi = "10.5281/zenodo.7187078"
 )
+```
+
+### 2022
+
+```{r 2022-articles, eval = params$do_2022_article_details}
 
 # Yukon Chinook multi-stock analysis
 article_details(
