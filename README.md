@@ -175,7 +175,95 @@ details.
 <em>denote open-access and paywall articles, respectively.</em>
 </p>
 
-### 2022
+### In Press
+
+<details>
+<summary>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
+<strong>Evaluation of shoreline rotenone application to control Largemouth Bass recruitment in small impoundments</strong>
+</summary>
+<p></p>
+<ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg" height="15"/>
+</picture>
+<strong>
+<em>JOURNAL</em>
+</strong>
+<ul>
+<p>
+<em>North American Journal of Fisheries Management,</em>
+In Press
+<br/>
+<a href="https://doi.org/10.1002/nafm.10953">
+<img src="https://zenodo.org/badge/DOI/10.1002/nafm.10953.svg" alt="DOI"/>
+</a>
+</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg" height="15"/>
+</picture>
+<strong>
+<em>AUTHORS</em>
+</strong>
+<ul>
+<p>Coleman, T. S., R. W. Eckelbecker, A. K. Carlson, D. R. DeVries, R. A. Wright, <strong>B. A. Staton</strong>, S. W. Parker, C. R. Chittam, R. G. Lovell, and M. J. Catalano</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg" height="15"/>
+</picture>
+<strong>
+<em>ABSTRACT</em>
+</strong>
+<ul>
+<p align="justify">Reducing Largemouth Bass <em>Micropterus salmoides</em> recruitment and therefore population density could benefit recreational fisheries in small impoundments by improving individual growth rates and increasing the average size and condition of Largemouth Bass. To achieve these effects, methods of Largemouth Bass recruitment control should avoid reducing the productivity of their primary prey species, Bluegill <em>Lepomis macrochirus</em>. We tested this hypothesis by evaluating the effects of shoreline rotenone application on Bluegill and age-0 and age-1 Largemouth Bass density, growth, and survival in 15 Alabama small impoundments. Following treatment, Largemouth Bass age-0 densities declined and mean age-1 length increased, whereas Bluegill populations were not significantly reduced. Our study indicates that shoreline rotenone application may be a valuable method for reducing Largemouth Bass recruitment and increasing Largemouth Bass age-1 growth in small impoundments. However, further research is needed to understand the effects of treatment on non-target fishes and better assess the effects of factors such as impoundment surface area and treatment frequency and duration on the ultimate utility of the approach.</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg" height="15"/>
+</picture>
+<strong>
+<em>CODE/DATA</em>
+</strong>
+<ul>
+<strong>Repository:</strong>
+Not Available
+<br/>
+<strong>Archive:</strong>
+Not Available
+</ul>
+<p></p>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg" height="15"/>
+</picture>
+<strong>
+<em>CITATIONS</em>
+</strong>
+<ul>
+<strong>Crossref: </strong>
+0
+<br/>
+<strong>Google Scholar: </strong>
+0
+</ul>
+</ul>
+<hr/>
+</details>
+
+### 2023
 
 <details>
 <summary>
@@ -199,7 +287,7 @@ details.
 <ul>
 <p>
 <em>Canadian Journal of Fisheries and Aquatic Sciences,</em>
-In Press
+80(2): 375-392
 <br/>
 <a href="https://doi.org/10.1139/cjfas-2022-0114">
 <img src="https://zenodo.org/badge/DOI/10.1139/cjfas-2022-0114.svg" alt="DOI"/>
@@ -259,7 +347,7 @@ In Press
 0
 <br/>
 <strong>Google Scholar: </strong>
-0
+1
 </ul>
 </ul>
 <hr/>
@@ -286,7 +374,7 @@ In Press
 <ul>
 <p>
 <em>Journal of Experimental Zoology Part A: Ecological and Integrative Physiology,</em>
-In Press
+339: 153-162
 <br/>
 <a href="https://doi.org/10.1002/jez.2667">
 <img src="https://zenodo.org/badge/DOI/10.1002/jez.2667.svg" alt="DOI"/>
@@ -343,7 +431,7 @@ In Press
 </strong>
 <ul>
 <strong>Crossref: </strong>
-0
+1
 <br/>
 <strong>Google Scholar: </strong>
 NA
@@ -351,6 +439,9 @@ NA
 </ul>
 <hr/>
 </details>
+
+### 2022
+
 <details>
 <summary>
 <picture>
@@ -430,10 +521,10 @@ NA
 </strong>
 <ul>
 <strong>Crossref: </strong>
-2
+3
 <br/>
 <strong>Google Scholar: </strong>
-2
+3
 </ul>
 </ul>
 <hr/>
@@ -515,10 +606,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-7
+10
 <br/>
 <strong>Google Scholar: </strong>
-7
+10
 </ul>
 </ul>
 <hr/>
@@ -602,10 +693,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-3
+4
 <br/>
 <strong>Google Scholar: </strong>
-3
+5
 </ul>
 </ul>
 <hr/>
@@ -869,7 +960,7 @@ Not Available
 6
 <br/>
 <strong>Google Scholar: </strong>
-10
+13
 </ul>
 </ul>
 <hr/>
@@ -1046,7 +1137,7 @@ Not Available
 11
 <br/>
 <strong>Google Scholar: </strong>
-13
+15
 </ul>
 </ul>
 <hr/>
@@ -1220,10 +1311,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-0
+1
 <br/>
 <strong>Google Scholar: </strong>
-2
+3
 </ul>
 </ul>
 <hr/>
@@ -1702,10 +1793,24 @@ Google Scholar
 1
 </td>
 <td style="text-align:center;">
-3
+4
 </td>
 <td style="text-align:center;">
-3
+5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+2023
+</td>
+<td style="text-align:center;">
+0
+</td>
+<td style="text-align:center;">
+0
+</td>
+<td style="text-align:center;">
+0
 </td>
 </tr>
 <tr>
@@ -1716,10 +1821,10 @@ All
 6
 </td>
 <td style="text-align:center;font-weight: bold;">
-36
+37
 </td>
 <td style="text-align:center;font-weight: bold;">
-57
+59
 </td>
 </tr>
 </tbody>
@@ -1835,10 +1940,10 @@ Google Scholar
 2
 </td>
 <td style="text-align:center;">
-4
+5
 </td>
 <td style="text-align:center;">
-11
+12
 </td>
 </tr>
 <tr>
@@ -1852,7 +1957,7 @@ Google Scholar
 19
 </td>
 <td style="text-align:center;">
-21
+23
 </td>
 </tr>
 <tr>
@@ -1866,7 +1971,7 @@ Google Scholar
 14
 </td>
 <td style="text-align:center;">
-20
+23
 </td>
 </tr>
 <tr>
@@ -1874,13 +1979,27 @@ Google Scholar
 2022
 </td>
 <td style="text-align:center;">
-5
+3
 </td>
 <td style="text-align:center;">
-12
+17
 </td>
 <td style="text-align:center;">
-12
+18
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+2023
+</td>
+<td style="text-align:center;">
+3
+</td>
+<td style="text-align:center;">
+1
+</td>
+<td style="text-align:center;">
+1
 </td>
 </tr>
 <tr>
@@ -1888,13 +2007,13 @@ Google Scholar
 All
 </td>
 <td style="text-align:center;font-weight: bold;">
-16
+17
 </td>
 <td style="text-align:center;font-weight: bold;">
-64
+71
 </td>
 <td style="text-align:center;font-weight: bold;">
-94
+107
 </td>
 </tr>
 </tbody>
@@ -1923,7 +2042,7 @@ CrossRef
 Google Scholar
 </td>
 <td style="text-align:right;">
-7
+8
 </td>
 </tr>
 </tbody>
@@ -1963,7 +2082,7 @@ Ben Staton under the
 <sup>
 <em>
 Updated
-2023-06-30
+2023-10-20
 </em>
 </sup>
 </sub>
