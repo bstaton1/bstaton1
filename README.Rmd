@@ -58,7 +58,10 @@ em_words = c(
   "Etheostoma ditrema",
   "Elassoma zonatum",
   "Tenacibaculum maritimum",
-  "Piscine orthoreovirus"
+  "Piscine orthoreovirus",
+  "Micropterus salmoides",
+  "Lepomis macrochirus"
+  
   )
 ```
 
@@ -627,6 +630,18 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
     hr()
   )
 }
+```
+
+### In Press
+
+```{r in-press-articles}
+# Shoreline Rotenone Paper with Tyler
+article_details(
+  key = "coleman-etal-2023",
+  open_access = FALSE,
+  code_repo = NULL,
+  code_doi = NULL
+)
 ```
 
 ### 2023
