@@ -226,7 +226,7 @@ In Press
 <em>ABSTRACT</em>
 </strong>
 <ul>
-<p align="justify">Reducing Largemouth Bass <em>Micropterus salmoides</em> recruitment and therefore population density could benefit recreational fisheries in small impoundments by improving individual growth rates and increasing the average size and condition of Largemouth Bass. To achieve these effects, methods of Largemouth Bass recruitment control should avoid reducing the productivity of their primary prey species, Bluegill <em>Lepomis macrochirus</em>. We tested this hypothesis by evaluating the effects of shoreline rotenone application on Bluegill and age-0 and age-1 Largemouth Bass density, growth, and survival in 15 Alabama small impoundments. Following treatment, Largemouth Bass age-0 densities declined and mean age-1 length increased, whereas Bluegill populations were not significantly reduced. Our study indicates that shoreline rotenone application may be a valuable method for reducing Largemouth Bass recruitment and increasing Largemouth Bass age-1 growth in small impoundments. However, further research is needed to understand the effects of treatment on non-target fishes and better assess the effects of factors such as impoundment surface area and treatment frequency and duration on the ultimate utility of the approach.</p>
+<p align="justify"><b>Objective:</b> Reducing Largemouth Bass <em>Micropterus salmoides</em> recruitment and therefore population density could benefit recreational fisheries in small impoundments by improving individual growth rates and increasing the average size and condition of Largemouth Bass. To achieve these effects, methods of controlling Largemouth Bass recruitment should avoid reducing the productivity of their primary prey species, Bluegill <em>Lepomis macrochirus</em>.<br><b>Methods:</b> We tested this hypothesis by evaluating the effects of shoreline rotenone application on the density of Bluegill the density, growth, and survival of age-0 and age-1 Largemouth Bass in 15 Alabama small impoundments.<br><b>Result:</b> After treatment, Largemouth Bass age-0 densities declined and mean age-1 length increased, whereas Bluegill populations were not significantly reduced.<br><b>Conclusion:</b> Our study indicates that shoreline rotenone application may be a valuable method for reducing Largemouth Bass recruitment and increasing Largemouth Bass age-1 growth in small impoundments. However, further research is needed to understand the effects of treatment on nontarget fishes and to better assess the effects of factors such as impoundment surface area and treatment frequency and duration on the ultimate utility of the approach.</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"/>
@@ -344,10 +344,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-0
+1
 <br/>
 <strong>Google Scholar: </strong>
-1
+2
 </ul>
 </ul>
 <hr/>
@@ -521,10 +521,10 @@ NA
 </strong>
 <ul>
 <strong>Crossref: </strong>
-3
+4
 <br/>
 <strong>Google Scholar: </strong>
-3
+4
 </ul>
 </ul>
 <hr/>
@@ -693,10 +693,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-4
+6
 <br/>
 <strong>Google Scholar: </strong>
-5
+7
 </ul>
 </ul>
 <hr/>
@@ -783,10 +783,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-2
+3
 <br/>
 <strong>Google Scholar: </strong>
-2
+3
 </ul>
 </ul>
 <hr/>
@@ -927,7 +927,7 @@ Not Available
 <em>ABSTRACT</em>
 </strong>
 <ul>
-<p align="justify">(1) Changes in biophysical conditions through time generate spatial and temporal variability in habitat quality across landscapes. For river ecosystems, researchers are increasingly able to characterize spatial and temporal patterns in habitat conditions, referred to as shifting habitat mosaics, yet rarely demonstrate how this translates into corresponding biological processes such as organism growth and production. (2) We assessed spatial patterns and processes determining seasonal changes in juvenile Chinook Salmon <em>Oncorhynchus tshawytscha</em> size, growth and production over 30&#8211;40 km in two NE Oregon subbasins. (3) We quantified seasonal patterns of growth by combining estimated emergence dates and body size distributions in July and September. We then used analysis of bioenergetics, empirical fish diets and spatial models incorporating temperature, habitat and population density to evaluate mechanisms driving spatiotemporal patterns of growth. Lastly, we quantified seasonal contributions to individual fish growth and to total production as a function of position within the stream network. (4) Spatial heterogeneity in incubation temperatures corresponded to later estimated emergence timing with distance upstream in both subbasins. During spring, estimated growth rates decreased with distance upstream, and coupled with emergence patterns, resulted in pronounced longitudinal gradients in body size by July. During summer, spatial patterns of growth reversed, with greater diet ration sizes and growth efficiencies upstream than downstream. These opposing spatiotemporal patterns of emergence timing and seasonal growth rates produced longitudinal gradients in the proportion of fish growth achieved in spring versus summer, with up to 80% of an individual's growth occurring in spring at downstream sites but as low as 10% at upstream sites. Coupling longitudinal patterns of fish density and growth revealed that in one subbasin the majority (65%) of total production occurred in spring, while in the other, in which fish were concentrated in headwaters, the majority (60%) of production occurred in summer. (5) While recent work has emphasized inter-annual shifts in fish production across large spatial scales, this study demonstrates that longitudinal gradients of fish growth and production can reverse across seasons, and reveals important contributions of warmer, downstream habitats to overall production that occurred during cooler times of the year.</p>
+<p align="justify"><b>(1)</b> Changes in biophysical conditions through time generate spatial and temporal variability in habitat quality across landscapes. For river ecosystems, researchers are increasingly able to characterize spatial and temporal patterns in habitat conditions, referred to as shifting habitat mosaics, yet rarely demonstrate how this translates into corresponding biological processes such as organism growth and production.<br><b>(2)</b> We assessed spatial patterns and processes determining seasonal changes in juvenile Chinook Salmon <em>Oncorhynchus tshawytscha</em> size, growth and production over 30&#8211;40 km in two NE Oregon subbasins.<br><b>(3)</b> We quantified seasonal patterns of growth by combining estimated emergence dates and body size distributions in July and September. We then used analysis of bioenergetics, empirical fish diets and spatial models incorporating temperature, habitat and population density to evaluate mechanisms driving spatiotemporal patterns of growth. Lastly, we quantified seasonal contributions to individual fish growth and to total production as a function of position within the stream network.<br><b>(4)</b> Spatial heterogeneity in incubation temperatures corresponded to later estimated emergence timing with distance upstream in both subbasins. During spring, estimated growth rates decreased with distance upstream, and coupled with emergence patterns, resulted in pronounced longitudinal gradients in body size by July. During summer, spatial patterns of growth reversed, with greater diet ration sizes and growth efficiencies upstream than downstream. These opposing spatiotemporal patterns of emergence timing and seasonal growth rates produced longitudinal gradients in the proportion of fish growth achieved in spring versus summer, with up to 80% of an individual's growth occurring in spring at downstream sites but as low as 10% at upstream sites. Coupling longitudinal patterns of fish density and growth revealed that in one subbasin the majority (65%) of total production occurred in spring, while in the other, in which fish were concentrated in headwaters, the majority (60%) of production occurred in summer.<br><b>(5)</b> While recent work has emphasized inter-annual shifts in fish production across large spatial scales, this study demonstrates that longitudinal gradients of fish growth and production can reverse across seasons, and reveals important contributions of warmer, downstream habitats to overall production that occurred during cooler times of the year.</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"/>
@@ -957,10 +957,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-6
+9
 <br/>
 <strong>Google Scholar: </strong>
-13
+15
 </ul>
 </ul>
 <hr/>
@@ -1793,10 +1793,10 @@ Google Scholar
 1
 </td>
 <td style="text-align:center;">
-4
+6
 </td>
 <td style="text-align:center;">
-5
+7
 </td>
 </tr>
 <tr>
@@ -1821,10 +1821,10 @@ All
 6
 </td>
 <td style="text-align:center;font-weight: bold;">
-37
+39
 </td>
 <td style="text-align:center;font-weight: bold;">
-59
+61
 </td>
 </tr>
 </tbody>
@@ -1845,7 +1845,7 @@ h-index
 CrossRef
 </td>
 <td style="text-align:right;">
-4
+5
 </td>
 </tr>
 <tr>
@@ -1853,7 +1853,7 @@ CrossRef
 Google Scholar
 </td>
 <td style="text-align:right;">
-5
+6
 </td>
 </tr>
 </tbody>
@@ -1968,10 +1968,10 @@ Google Scholar
 3
 </td>
 <td style="text-align:center;">
-14
+18
 </td>
 <td style="text-align:center;">
-23
+26
 </td>
 </tr>
 <tr>
@@ -1982,10 +1982,10 @@ Google Scholar
 3
 </td>
 <td style="text-align:center;">
-17
+20
 </td>
 <td style="text-align:center;">
-18
+21
 </td>
 </tr>
 <tr>
@@ -1996,10 +1996,10 @@ Google Scholar
 3
 </td>
 <td style="text-align:center;">
-1
+2
 </td>
 <td style="text-align:center;">
-1
+2
 </td>
 </tr>
 <tr>
@@ -2010,10 +2010,10 @@ All
 17
 </td>
 <td style="text-align:center;font-weight: bold;">
-71
+79
 </td>
 <td style="text-align:center;font-weight: bold;">
-107
+114
 </td>
 </tr>
 </tbody>
@@ -2082,7 +2082,7 @@ Ben Staton under the
 <sup>
 <em>
 Updated
-2023-10-20
+2023-12-26
 </em>
 </sup>
 </sub>
