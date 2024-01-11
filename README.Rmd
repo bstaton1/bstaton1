@@ -799,7 +799,8 @@ article_details(
 
 ## Citations
 
-```{r}
+```{r cite-counts}
+# prepare citation counts per article
 bib_df = as.data.frame(bib)
 bib_df = data.frame(year = bib_df[,c("year")], key = rownames(bib_df))
 bib_df = bib_df[order(bib_df$year),]
@@ -809,6 +810,7 @@ bib_df[is.na(bib_df)] = 0
 bib_df$year = as.numeric(bib_df$year)
 bib_df$year = factor(bib_df$year, levels = min(bib_df$year):max(bib_df$year))
 
+# function to build a table reporting cumulative citations on articles published each year
 cites_table = function(df) {
   tab = cbind(
     Year = levels(df$year), 
@@ -831,11 +833,14 @@ cites_table = function(df) {
     kableExtra::row_spec(nrow(tab), bold = TRUE)
 }
 
+# function to calculate h-index
+# cite_counts is the number of times each article has been cited
 h_index = function(cite_counts) {
   possible_h = 1:length(cite_counts)
   max(possible_h[which(sapply(possible_h, function(h) sum(cite_counts >= h) >= h))])
 }
 
+# function to build a table reporting h-index
 h_index_table = function(df) {
   h_cr = h_index(df$cross_ref)
   h_gs = h_index(df$gscholar)
@@ -845,14 +850,14 @@ h_index_table = function(df) {
 }
 ```
 
-_This section contains summaries of citations made on research articles I've (co)authored; Google Scholar includes citations made in grey literature (e.g., agency reports) as well as from the peer-reviewed literature, whereas CrossRef indexes the latter only. Citation numbers differ here from those presented on [Google Scholar](https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en) because those counts also include citations of grey literature I've (co)authored._
+_This section contains summaries of citations made on research articles I've (co)authored; Google Scholar includes citations made in grey literature (e.g., agency reports) as well as from the peer-reviewed literature, whereas CrossRef indexes the latter only. Citation counts are smaller than those presented on [Google Scholar](https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en) because those counts also include citations of grey literature I've (co)authored._
 
 ### Lead Author Articles
 
 <details>
  <summary>Click to View</summary>
 
-```{r}
+```{r cite-tables-lead-articles}
 my_bib_df = bib_df[stringr::str_detect(bib_df$key, "^staton"),]
 cites_table(my_bib_df)
 h_index_table(my_bib_df)
@@ -865,7 +870,7 @@ h_index_table(my_bib_df)
 <details>
  <summary>Click to View</summary>
 
-```{r}
+```{r cite-tables-all-articles}
 cites_table(bib_df)
 h_index_table(bib_df)
 ```
