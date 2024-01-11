@@ -905,7 +905,7 @@ p(
     br(),
     tags$sub(
       tags$sup(
-        em("Updated", Sys.Date())
+        em("Updated", ifelse(Sys.info()["sysname"] == "Windows", "Manually", "Automatically by GitHub Actions"), "on", Sys.Date())
       )
     )
   ),

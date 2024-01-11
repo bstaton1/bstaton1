@@ -1,0 +1,23 @@
+name: Render Profile Repo README
+on:
+  # run at 7:00 UTC every Monday (23:00 Sunday PST)
+  schedule:
+    - cron: "0 7 * * MON"
+
+jobs:
+  render:
+    name: Re-Build README
+    runs-on: macOS-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v2
+      - uses: r-lib/actions/setup-pandoc@v2
+      - name: Install R Packages
+        run: Rscript -e 'install.packages(c("stringr", "rmarkdown", "RefManageR", "scholar", "rcrossref", "stringdist", "kableExtra"))'
+      - name: Render README
+        run: Rscript -e 'rmarkdown::render("README.Rmd")'
+      - name: Commit Output
+        run: |
+          git add README.md
+          git commit -m 'Re-build Profile README' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
