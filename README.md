@@ -521,10 +521,10 @@ NA
 </strong>
 <ul>
 <strong>Crossref: </strong>
-4
+5
 <br/>
 <strong>Google Scholar: </strong>
-4
+5
 </ul>
 </ul>
 <hr/>
@@ -1665,8 +1665,8 @@ Not Available
 *This section contains summaries of citations made on research articles
 I’ve (co)authored; Google Scholar includes citations made in grey
 literature (e.g., agency reports) as well as from the peer-reviewed
-literature, whereas CrossRef indexes the latter only. Citation numbers
-differ here from those presented on [Google
+literature, whereas CrossRef indexes the latter only. Citation counts
+are smaller than those presented on [Google
 Scholar](https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en)
 because those counts also include citations of grey literature I’ve
 (co)authored.*
@@ -1982,10 +1982,10 @@ Google Scholar
 3
 </td>
 <td style="text-align:center;">
-20
+21
 </td>
 <td style="text-align:center;">
-21
+22
 </td>
 </tr>
 <tr>
@@ -2010,10 +2010,10 @@ All
 17
 </td>
 <td style="text-align:center;font-weight: bold;">
-79
+80
 </td>
 <td style="text-align:center;font-weight: bold;">
-114
+115
 </td>
 </tr>
 </tbody>
@@ -2082,7 +2082,9 @@ Ben Staton under the
 <sup>
 <em>
 Updated
-2023-12-26
+Automatically by GitHub Actions
+on
+2024-01-15
 </em>
 </sup>
 </sub>
