@@ -238,7 +238,7 @@ In Press
 </strong>
 <ul>
 <strong>Repository:</strong>
-Not Available
+<a href="https://github.com/tscoleman3/rotenone_small_impoundments_target">tscoleman3/rotenone_small_impoundments_target</a>
 <br/>
 <strong>Archive:</strong>
 Not Available
@@ -2082,9 +2082,9 @@ Ben Staton under the
 <sup>
 <em>
 Updated
-Automatically by GitHub Actions
+Manually
 on
-2024-01-29
+2024-01-30
 </em>
 </sup>
 </sub>

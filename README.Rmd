@@ -639,7 +639,7 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
 article_details(
   key = "coleman-etal-2023",
   open_access = FALSE,
-  code_repo = NULL,
+  code_repo = "tscoleman3/rotenone_small_impoundments_target",
   code_doi = NULL
 )
 ```
