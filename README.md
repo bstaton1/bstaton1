@@ -2082,9 +2082,9 @@ Ben Staton under the
 <sup>
 <em>
 Updated
-Manually
+Automatically by GitHub Actions
 on
-2024-01-30
+2024-02-05
 </em>
 </sup>
 </sub>
