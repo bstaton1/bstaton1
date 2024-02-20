@@ -174,8 +174,9 @@ details.
 </picture>
 <em>denote open-access and paywall articles, respectively.</em>
 </p>
+<!-- ### In Press -->
 
-### In Press
+### 2024
 
 <details>
 <summary>
@@ -199,7 +200,7 @@ details.
 <ul>
 <p>
 <em>North American Journal of Fisheries Management,</em>
-In Press
+44(1): 57-69
 <br/>
 <a href="https://doi.org/10.1002/nafm.10953">
 <img src="https://zenodo.org/badge/DOI/10.1002/nafm.10953.svg" alt="DOI"/>
@@ -1814,6 +1815,20 @@ Google Scholar
 </td>
 </tr>
 <tr>
+<td style="text-align:left;font-weight: bold;">
+2024
+</td>
+<td style="text-align:center;">
+0
+</td>
+<td style="text-align:center;">
+0
+</td>
+<td style="text-align:center;">
+0
+</td>
+</tr>
+<tr>
 <td style="text-align:left;font-weight: bold;font-weight: bold;">
 All
 </td>
@@ -1993,13 +2008,27 @@ Google Scholar
 2023
 </td>
 <td style="text-align:center;">
-3
-</td>
-<td style="text-align:center;">
 2
 </td>
 <td style="text-align:center;">
 2
+</td>
+<td style="text-align:center;">
+2
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+2024
+</td>
+<td style="text-align:center;">
+1
+</td>
+<td style="text-align:center;">
+0
+</td>
+<td style="text-align:center;">
+0
 </td>
 </tr>
 <tr>
@@ -2082,9 +2111,9 @@ Ben Staton under the
 <sup>
 <em>
 Updated
-Automatically by GitHub Actions
+Manually
 on
-2024-02-19
+2024-02-20
 </em>
 </sup>
 </sub>
