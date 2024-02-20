@@ -15,6 +15,8 @@ params:
     value: TRUE
   do_2023_article_details:
     value: TRUE
+  do_2024_article_details:
+    value: TRUE
 always_allow_html: TRUE
 ---
 
@@ -632,12 +634,18 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
 }
 ```
 
-### In Press
+<!-- ### In Press -->
 
 ```{r in-press-articles}
+
+```
+
+### 2024
+
+```{r 2024-articles, eval = params$do_2024_article_details}
 # Shoreline Rotenone Paper with Tyler
 article_details(
-  key = "coleman-etal-2023",
+  key = "coleman-etal-2024",
   open_access = FALSE,
   code_repo = "tscoleman3/rotenone_small_impoundments_target",
   code_doi = NULL
