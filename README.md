@@ -522,10 +522,10 @@ NA
 </strong>
 <ul>
 <strong>Crossref: </strong>
-6
+7
 <br/>
 <strong>Google Scholar: </strong>
-9
+10
 </ul>
 </ul>
 <hr/>
@@ -1997,10 +1997,10 @@ Google Scholar
 3
 </td>
 <td style="text-align:center;">
-27
+28
 </td>
 <td style="text-align:center;">
-36
+37
 </td>
 </tr>
 <tr>
@@ -2039,10 +2039,10 @@ All
 17
 </td>
 <td style="text-align:center;font-weight: bold;">
-90
+91
 </td>
 <td style="text-align:center;font-weight: bold;">
-147
+148
 </td>
 </tr>
 </tbody>
@@ -2113,7 +2113,7 @@ Ben Staton under the
 Updated
 Automatically by GitHub Actions
 on
-2024-07-01
+2024-07-08
 </em>
 </sup>
 </sub>
