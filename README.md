@@ -961,7 +961,7 @@ Not Available
 11
 <br/>
 <strong>Google Scholar: </strong>
-19
+20
 </ul>
 </ul>
 <hr/>
@@ -1986,7 +1986,7 @@ Google Scholar
 21
 </td>
 <td style="text-align:center;">
-32
+33
 </td>
 </tr>
 <tr>
@@ -2042,7 +2042,7 @@ All
 92
 </td>
 <td style="text-align:center;font-weight: bold;">
-153
+154
 </td>
 </tr>
 </tbody>
@@ -2113,7 +2113,7 @@ Ben Staton under the
 Updated
 Automatically by GitHub Actions
 on
-2024-07-15
+2024-07-22
 </em>
 </sup>
 </sub>
