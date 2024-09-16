@@ -258,7 +258,7 @@ Not Available
 0
 <br/>
 <strong>Google Scholar: </strong>
-0
+1
 </ul>
 </ul>
 <hr/>
@@ -958,7 +958,7 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-11
+12
 <br/>
 <strong>Google Scholar: </strong>
 21
@@ -1051,7 +1051,7 @@ Not Available
 8
 <br/>
 <strong>Google Scholar: </strong>
-9
+10
 </ul>
 </ul>
 <hr/>
@@ -1138,7 +1138,7 @@ Not Available
 12
 <br/>
 <strong>Google Scholar: </strong>
-22
+23
 </ul>
 </ul>
 <hr/>
@@ -1769,7 +1769,7 @@ Google Scholar
 8
 </td>
 <td style="text-align:center;">
-9
+10
 </td>
 </tr>
 <tr>
@@ -1839,7 +1839,7 @@ All
 42
 </td>
 <td style="text-align:center;font-weight: bold;">
-78
+79
 </td>
 </tr>
 </tbody>
@@ -1972,7 +1972,7 @@ Google Scholar
 20
 </td>
 <td style="text-align:center;">
-31
+33
 </td>
 </tr>
 <tr>
@@ -1983,7 +1983,7 @@ Google Scholar
 3
 </td>
 <td style="text-align:center;">
-21
+22
 </td>
 <td style="text-align:center;">
 34
@@ -2028,7 +2028,7 @@ Google Scholar
 0
 </td>
 <td style="text-align:center;">
-0
+1
 </td>
 </tr>
 <tr>
@@ -2039,10 +2039,10 @@ All
 17
 </td>
 <td style="text-align:center;font-weight: bold;">
-96
+97
 </td>
 <td style="text-align:center;font-weight: bold;">
-163
+166
 </td>
 </tr>
 </tbody>
@@ -2071,7 +2071,7 @@ CrossRef
 Google Scholar
 </td>
 <td style="text-align:right;">
-9
+10
 </td>
 </tr>
 </tbody>
@@ -2113,7 +2113,7 @@ Ben Staton under the
 Updated
 Automatically by GitHub Actions
 on
-2024-09-09
+2024-09-16
 </em>
 </sup>
 </sub>
