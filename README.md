@@ -174,10 +174,186 @@ details.
 </picture>
 <em>denote open-access and paywall articles, respectively.</em>
 </p>
-<!-- ### In Press -->
+
+### In Press
+
+<details>
+<summary>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/>
+</picture>
+<strong>In-Season Monitoring of Harvest and Effort from a Large-Scale Subsistence Salmon Fishery in Western Alaska</strong>
+</summary>
+<p></p>
+<ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg" height="15"/>
+</picture>
+<strong>
+<em>JOURNAL</em>
+</strong>
+<ul>
+<p>
+<em>Canadian Journal of Fisheries and Aquatic Sciences,</em>
+In Press
+<br/>
+<a href="https://doi.org/10.1139/cjfas-2023-0369">
+<img src="https://img.shields.io/badge/Article-10.1139/cjfas--2023--0369-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
+</a>
+</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg" height="15"/>
+</picture>
+<strong>
+<em>AUTHORS</em>
+</strong>
+<ul>
+<p><strong><ins>Staton, B. A.</ins></strong>, W. R. Bechtol, L. G. J. Coggins, G. Decossas, and J. Esquible</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg" height="15"/>
+</picture>
+<strong>
+<em>ABSTRACT</em>
+</strong>
+<ul>
+<p align="justify">In-season management of salmon harvest requires real-time data. Specifically, following a brief period of open fishing, knowledge of harvest outcomes is useful when deciding the nature of subsequent fishing periods. This in-season management strategy is relatively new to the lower Kuskokwim River of western Alaska, where depressed salmon runs have caused restrictions to the subsistence fishery. We have developed an in-season monitoring program to rapidly inform managers about fishery outcomes from short-duration (6-24 hours) fishery openings. Completed trip information and one or more aerial surveys are combined to estimate daily effort and harvest from drift gillnet fishers spanning 11 communities and ~130 river kilometers. We present a re-analysis of the 40 monitored openers in June-July 2016-2023, and validate harvest estimates of Chinook, chum, and sockeye salmon by comparing them to post-season estimates derived from an independent long-term monitoring program. Our results indicate that the program has produced estimates of sufficient quality to inform in-season managers, although it will likely need alterations to be successful in years with less restricted fishing.</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg" height="15"/>
+</picture>
+<strong>
+<em>CODE/DATA</em>
+</strong>
+<ul>
+<strong>Repository:</strong>
+<a href="https://github.com/bstaton1/KuskoHarvEst-ms-analysis">bstaton1/KuskoHarvEst-ms-analysis</a>
+<br/>
+<strong>Archive:</strong>
+<a href="https://doi.org/10.5281/10369148">
+<img src="https://img.shields.io/badge/Code-10.5281/10369148-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
+</a>
+</ul>
+<p></p>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg" height="15"/>
+</picture>
+<strong>
+<em>CITATIONS</em>
+</strong>
+<ul>
+<strong>Crossref: </strong>
+0
+<br/>
+<strong>Google Scholar: </strong>
+0
+</ul>
+</ul>
+<hr/>
+</details>
 
 ### 2024
 
+<details>
+<summary>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/>
+</picture>
+<strong>Body Size and Early Marine Conditions Drive Changes in Chinook Salmon Productivity across Northern Latitude Ecosystems</strong>
+</summary>
+<p></p>
+<ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg" height="15"/>
+</picture>
+<strong>
+<em>JOURNAL</em>
+</strong>
+<ul>
+<p>
+<em>Global Change Biology,</em>
+30(10): e17508
+<br/>
+<a href="https://doi.org/10.1111/gcb.17508">
+<img src="https://img.shields.io/badge/Article-10.1111/gcb.17508-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
+</a>
+</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg" height="15"/>
+</picture>
+<strong>
+<em>AUTHORS</em>
+</strong>
+<ul>
+<p>Feddern, M. L., R. Shaftel, E. R. Schoen, C. J. Cunningham, B. M. Connors, <strong><ins>B. A. Staton</ins></strong>, A. von Finster, Z. Liller, V. R. von Biela, and K. G. Howard</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg" height="15"/>
+</picture>
+<strong>
+<em>ABSTRACT</em>
+</strong>
+<ul>
+<p align="justify">Disentangling the influences of climate change from other stressors affecting the population dynamics of aquatic species is particularly pressing for northern latitude ecosystems, where climate-driven warming is occurring faster than the global average. Chinook salmon (<em>Oncorhynchus tshawytscha</em>) in the Yukon-Kuskokwim (YK) region occupy the northern extent of their species' range and are experiencing prolonged declines in abundance resulting in fisheries closures and impacts to the well-being of Indigenous people and local communities. These declines have been associated with physical (e.g., temperature, streamflow) and biological (e.g., body size, competition) conditions, but uncertainty remains about the relative influence of these drivers on productivity across populations and how salmon–environment relationships vary across watersheds. To fill these knowledge gaps, we estimated the effects of marine and freshwater environmental indicators, body size, and indices of competition, on the productivity (adult returns-per-spawner) of 26 Chinook salmon populations in the YK region using a Bayesian hierarchical stock-recruitment model. Across most populations, productivity declined with smaller spawner body size and sea surface temperatures that were colder in the winter and warmer in the summer during the first year at sea. Decreased productivity was also associated with above average fall maximum daily streamflow, increased sea ice cover prior to juvenile outmigration, and abundance of marine competitors, but the strength of these effects varied among populations. Maximum daily stream temperature during spawning migration had a nonlinear relationship with productivity, with reduced productivity in years when temperatures exceeded thresholds in main stem rivers. These results demonstrate for the first time that well-documented declines in body size of YK Chinook salmon were associated with declining population productivity, while taking climate into account.</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg" height="15"/>
+</picture>
+<strong>
+<em>CODE/DATA</em>
+</strong>
+<ul>
+<strong>Repository:</strong>
+<a href="https://github.com/mfeddern/Yukon-KuskokwimChinook">mfeddern/Yukon-KuskokwimChinook</a>
+<br/>
+<strong>Archive:</strong>
+<a href="https://doi.org/10.5281/zenodo.1369302">
+<img src="https://img.shields.io/badge/Code-10.5281/zenodo.1369302-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
+</a>
+</ul>
+<p></p>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg" height="15"/>
+</picture>
+<strong>
+<em>CITATIONS</em>
+</strong>
+<ul>
+<strong>Crossref: </strong>
+0
+<br/>
+<strong>Google Scholar: </strong>
+NA
+</ul>
+</ul>
+<hr/>
+</details>
 <details>
 <summary>
 <picture>
@@ -203,7 +379,7 @@ details.
 44(1): 57-69
 <br/>
 <a href="https://doi.org/10.1002/nafm.10953">
-<img src="https://zenodo.org/badge/DOI/10.1002/nafm.10953.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1002/nafm.10953-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -216,7 +392,7 @@ details.
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Coleman, T. S., R. W. Eckelbecker, A. K. Carlson, D. R. DeVries, R. A. Wright, <strong>B. A. Staton</strong>, S. W. Parker, C. R. Chittam, R. G. Lovell, and M. J. Catalano</p>
+<p>Coleman, T. S., R. W. Eckelbecker, A. K. Carlson, D. R. DeVries, R. A. Wright, <strong><ins>B. A. Staton</ins></strong>, S. W. Parker, C. R. Chittam, R. G. Lovell, and M. J. Catalano</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -291,7 +467,7 @@ Not Available
 80(2): 375-392
 <br/>
 <a href="https://doi.org/10.1139/cjfas-2022-0114">
-<img src="https://zenodo.org/badge/DOI/10.1139/cjfas-2022-0114.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1139/cjfas--2022--0114-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -304,7 +480,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Nuetzel, H. M., P. F. Galbreath, <strong>B. A. Staton</strong>, C. A. Crump, L. M. Naylor, and G. E. Shippentower</p>
+<p>Nuetzel, H. M., P. F. Galbreath, <strong><ins>B. A. Staton</ins></strong>, C. A. Crump, L. M. Naylor, and G. E. Shippentower</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -331,7 +507,7 @@ Not Available
 <br/>
 <strong>Archive:</strong>
 <a href="https://doi.org/10.5281/zenodo.6621724">
-<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6621724.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Code-10.5281/zenodo.6621724-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </ul>
 <p></p>
@@ -378,7 +554,7 @@ Not Available
 339: 153-162
 <br/>
 <a href="https://doi.org/10.1002/jez.2667">
-<img src="https://zenodo.org/badge/DOI/10.1002/jez.2667.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1002/jez.2667-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -391,7 +567,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Horne, L. M., D. R. DeVries, R. Wright, E. Irwin, <strong>B. A. Staton</strong>, H. A. Abdelrahman, and J. A. Stoeckel</p>
+<p>Horne, L. M., D. R. DeVries, R. Wright, E. Irwin, <strong><ins>B. A. Staton</ins></strong>, H. A. Abdelrahman, and J. A. Stoeckel</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -418,7 +594,7 @@ Not Available
 <br/>
 <strong>Archive:</strong>
 <a href="https://doi.org/10.5281/zenodo.7187078">
-<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7187078.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Code-10.5281/zenodo.7187078-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </ul>
 <p></p>
@@ -468,7 +644,7 @@ NA
 32(8): e2709
 <br/>
 <a href="https://doi.org/10.1002/eap.2709">
-<img src="https://zenodo.org/badge/DOI/10.1002/eap.2709.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1002/eap.2709-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -481,7 +657,7 @@ NA
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Connors, B. M., M. R. Siegle, J. Harding, S. Rossi, <strong>B. A. Staton</strong>, M. L. Jones, M. J. Bradford, R. Brown, B. Bechtol, B. Doherty, S. Cox, and B. J. G. Sutherland</p>
+<p>Connors, B. M., M. R. Siegle, J. Harding, S. Rossi, <strong><ins>B. A. Staton</ins></strong>, M. L. Jones, M. J. Bradford, R. Brown, B. Bechtol, B. Doherty, S. Cox, and B. J. G. Sutherland</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -508,7 +684,7 @@ NA
 <br/>
 <strong>Archive:</strong>
 <a href="https://doi.org/10.5281/zenodo.6625526">
-<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6625526.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Code-10.5281/zenodo.6625526-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </ul>
 <p></p>
@@ -555,7 +731,7 @@ NA
 7: 742-773
 <br/>
 <a href="https://doi.org/10.1139/facets-2021-0102">
-<img src="https://zenodo.org/badge/DOI/10.1139/facets-2021-0102.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1139/facets--2021--0102-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -568,7 +744,7 @@ NA
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Bass, A. L., A. W. Bateman, B. M. Connors, <strong>B. A. Staton</strong>, E. B. Rondeau, G. J. Mordecai, A. K. Teffer, K. H. Kaukinen, S. Li, A. M. Tabata, D. A. Patterson, S. G. Hinch, and K. M. Miller</p>
+<p>Bass, A. L., A. W. Bateman, B. M. Connors, <strong><ins>B. A. Staton</ins></strong>, E. B. Rondeau, G. J. Mordecai, A. K. Teffer, K. H. Kaukinen, S. Li, A. M. Tabata, D. A. Patterson, S. G. Hinch, and K. M. Miller</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -640,7 +816,7 @@ Not Available
 249: 106209
 <br/>
 <a href="https://doi.org/10.1016/j.fishres.2021.106209">
-<img src="https://zenodo.org/badge/DOI/10.1016/j.fishres.2021.106209.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1016/j.fishres.2021.106209-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -653,7 +829,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Staton, B. A., C. Justice, S. White, E. R. Sedell, L. A. Burns, and M. J. Kaylor</p>
+<p><strong><ins>Staton, B. A.</ins></strong>, C. Justice, S. White, E. R. Sedell, L. A. Burns, and M. J. Kaylor</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -680,7 +856,7 @@ Not Available
 <br/>
 <strong>Archive:</strong>
 <a href="https://doi.org/10.5281/zenodo.3928691">
-<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3928691.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Code-10.5281/zenodo.3928691-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </ul>
 <p></p>
@@ -730,7 +906,7 @@ Not Available
 151(3): 333-346
 <br/>
 <a href="https://doi.org/10.1002/tafs.10343">
-<img src="https://zenodo.org/badge/DOI/10.1002/tafs.10343.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1002/tafs.10343-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -743,7 +919,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Galbreath, P. F., <strong>B. A. Staton</strong>, H. M. Nuetzel, C. A. Stockton, C. M. Knudsen, L. R. Medeiros, I. J. Koch, W. J. Bosch, and A. L. Pierce</p>
+<p>Galbreath, P. F., <strong><ins>B. A. Staton</ins></strong>, H. M. Nuetzel, C. A. Stockton, C. M. Knudsen, L. R. Medeiros, I. J. Koch, W. J. Bosch, and A. L. Pierce</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -770,7 +946,7 @@ Not Available
 <br/>
 <strong>Archive:</strong>
 <a href="https://doi.org/10.5281/zenodo.4730682">
-<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4730682.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Code-10.5281/zenodo.4730682-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </ul>
 <p></p>
@@ -817,7 +993,7 @@ Not Available
 78(12): 1755-1769
 <br/>
 <a href="https://doi.org/10.1139/cjfas-2020-0478">
-<img src="https://zenodo.org/badge/DOI/10.1139/cjfas-2020-0478.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1139/cjfas--2020--0478-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -830,7 +1006,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Staton, B. A., M. J. Catalano, S. J. Fleischman, and J. Ohlberger</p>
+<p><strong><ins>Staton, B. A.</ins></strong>, M. J. Catalano, S. J. Fleischman, and J. Ohlberger</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -857,7 +1033,7 @@ Not Available
 <br/>
 <strong>Archive:</strong>
 <a href="https://doi.org/10.5281/zenodo.4382757">
-<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4382757.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Code-10.5281/zenodo.4382757-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </ul>
 <p></p>
@@ -904,7 +1080,7 @@ Not Available
 90(7): 1727-1741
 <br/>
 <a href="https://doi.org/10.1111/1365-2656.13491">
-<img src="https://zenodo.org/badge/DOI/10.1111/1365-2656.13491.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1111/1365--2656.13491-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -917,7 +1093,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Kaylor, M. J., C. Justice, J. B. Armstrong, <strong>B. A. Staton</strong>, L. A. Burns, E. Sedell, and S. M. White</p>
+<p>Kaylor, M. J., C. Justice, J. B. Armstrong, <strong><ins>B. A. Staton</ins></strong>, L. A. Burns, E. Sedell, and S. M. White</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -944,7 +1120,7 @@ Not Available
 <br/>
 <strong>Archive:</strong>
 <a href="https://doi.org/10.5281/zenodo.4627774">
-<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4627774.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Code-10.5281/zenodo.4627774-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </ul>
 <p></p>
@@ -994,7 +1170,7 @@ Not Available
 77(7): 1149-1162
 <br/>
 <a href="https://doi.org/10.1139/cjfas-2019-0281">
-<img src="https://zenodo.org/badge/DOI/10.1139/cjfas-2019-0281.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1139/cjfas--2019--0281-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -1007,7 +1183,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Staton, B. A., M. J. Catalano, B. M. Connors, L. G. C. Jr, M. L. Jones, C. J. Walters, S. J. Fleischman, and D. C. Gwinn</p>
+<p><strong><ins>Staton, B. A.</ins></strong>, M. J. Catalano, B. M. Connors, L. G. C. Jr, M. L. Jones, C. J. Walters, S. J. Fleischman, and D. C. Gwinn</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -1034,7 +1210,7 @@ Not Available
 <br/>
 <strong>Archive:</strong>
 <a href="https://doi.org/10.5281/zenodo.3375006">
-<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3375006.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Code-10.5281/zenodo.3375006-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </ul>
 <p></p>
@@ -1081,7 +1257,7 @@ Not Available
 77(6): 1076-1089
 <br/>
 <a href="https://doi.org/10.1139/cjfas-2019-0282">
-<img src="https://zenodo.org/badge/DOI/10.1139/cjfas-2019-0282.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1139/cjfas--2019--0282-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -1094,7 +1270,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Connors, B. M., <strong>B. Staton</strong>, L. Coggins, C. Walters, M. Jones, D. Gwinn, M. Catalano, and S. Fleischman</p>
+<p>Connors, B. M., <strong><ins>B. Staton</ins></strong>, L. Coggins, C. Walters, M. Jones, D. Gwinn, M. Catalano, and S. Fleischman</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -1121,7 +1297,7 @@ Not Available
 <br/>
 <strong>Archive:</strong>
 <a href="https://doi.org/10.5281/zenodo.3375124">
-<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3375124.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Code-10.5281/zenodo.3375124-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </ul>
 <p></p>
@@ -1171,7 +1347,7 @@ Not Available
 76(10): 419-431
 <br/>
 <a href="https://doi.org/10.1139/cjfas-2018-0176">
-<img src="https://zenodo.org/badge/DOI/10.1139/cjfas-2018-0176.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1139/cjfas--2018--0176-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -1211,7 +1387,7 @@ Not Available
 <br/>
 <strong>Archive:</strong>
 <a href="https://doi.org/inseason-update-ms-analysis">
-<img src="https://zenodo.org/badge/DOI/inseason-update-ms-analysis.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Code-inseason--update--ms--analysis-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </ul>
 <p></p>
@@ -1258,7 +1434,7 @@ Not Available
 10(2): 419-431
 <br/>
 <a href="https://doi.org/10.3996/082018-JFWM-074">
-<img src="https://zenodo.org/badge/DOI/10.3996/082018-JFWM-074.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.3996/082018--JFWM--074-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -1271,7 +1447,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Moses, A. P., <strong>B. A. Staton</strong>, and N. J. Smith</p>
+<p>Moses, A. P., <strong><ins>B. A. Staton</ins></strong>, and N. J. Smith</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -1298,7 +1474,7 @@ Not Available
 <br/>
 <strong>Archive:</strong>
 <a href="https://doi.org/10.3996/082018-JFWM-074.S1">
-<img src="https://zenodo.org/badge/DOI/10.3996/082018-JFWM-074.S1.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Code-10.3996/082018--JFWM--074.S1-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </ul>
 <p></p>
@@ -1348,7 +1524,7 @@ Not Available
 194: 9-21
 <br/>
 <a href="https://doi.org/10.1016/j.fishres.2017.05.003">
-<img src="https://zenodo.org/badge/DOI/10.1016/j.fishres.2017.05.003.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1016/j.fishres.2017.05.003-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -1361,7 +1537,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Staton, B. A., M. J. Catalano, T. M. Farmer, A. Abebe, and F. S. Dobson</p>
+<p><strong><ins>Staton, B. A.</ins></strong>, M. J. Catalano, T. M. Farmer, A. Abebe, and F. S. Dobson</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -1433,7 +1609,7 @@ Not Available
 42(4): 187-189
 <br/>
 <a href="https://doi.org/10.1080/03632415.2017.1288472">
-<img src="https://zenodo.org/badge/DOI/10.1080/03632415.2017.1288472.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1080/03632415.2017.1288472-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -1446,7 +1622,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Dippold, D. A., G. D. Adams, T. M. Farmer, and <strong>B. A. Staton</strong></p>
+<p>Dippold, D. A., G. D. Adams, T. M. Farmer, and <strong><ins>B. A. Staton</ins></strong></p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -1528,7 +1704,7 @@ Not Available
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>White, L., M. Meade, and <strong>B. Staton</strong></p>
+<p>White, L., M. Meade, and <strong><ins>B. Staton</ins></strong></p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -1600,7 +1776,7 @@ NA
 186: 237-247
 <br/>
 <a href="https://doi.org/10.1016/j.fishres.2016.09.001">
-<img src="https://zenodo.org/badge/DOI/10.1016/j.fishres.2016.09.001.svg" alt="DOI"/>
+<img src="https://img.shields.io/badge/Article-10.1016/j.fishres.2016.09.001-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
 </p>
 </ul>
@@ -1613,7 +1789,7 @@ NA
 <em>AUTHORS</em>
 </strong>
 <ul>
-<p>Staton, B. A., M. J. Catalano, and S. J. Fleischman</p>
+<p><strong><ins>Staton, B. A.</ins></strong>, M. J. Catalano, and S. J. Fleischman</p>
 </ul>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
@@ -1678,7 +1854,7 @@ because those counts also include citations of grey literature I’ve
 <summary>
 Click to View
 </summary>
-<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="table" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2">
@@ -1829,11 +2005,25 @@ Google Scholar
 </td>
 </tr>
 <tr>
+<td style="text-align:left;font-weight: bold;">
+2025
+</td>
+<td style="text-align:center;">
+1
+</td>
+<td style="text-align:center;">
+0
+</td>
+<td style="text-align:center;">
+0
+</td>
+</tr>
+<tr>
 <td style="text-align:left;font-weight: bold;font-weight: bold;">
 All
 </td>
 <td style="text-align:center;font-weight: bold;">
-6
+7
 </td>
 <td style="text-align:center;font-weight: bold;">
 42
@@ -1881,7 +2071,7 @@ Google Scholar
 <summary>
 Click to View
 </summary>
-<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="table" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2">
@@ -2022,7 +2212,7 @@ Google Scholar
 2024
 </td>
 <td style="text-align:center;">
-1
+2
 </td>
 <td style="text-align:center;">
 0
@@ -2032,11 +2222,25 @@ Google Scholar
 </td>
 </tr>
 <tr>
+<td style="text-align:left;font-weight: bold;">
+2025
+</td>
+<td style="text-align:center;">
+1
+</td>
+<td style="text-align:center;">
+0
+</td>
+<td style="text-align:center;">
+0
+</td>
+</tr>
+<tr>
 <td style="text-align:left;font-weight: bold;font-weight: bold;">
 All
 </td>
 <td style="text-align:center;font-weight: bold;">
-17
+19
 </td>
 <td style="text-align:center;font-weight: bold;">
 97
@@ -2111,9 +2315,9 @@ Ben Staton under the
 <sup>
 <em>
 Updated
-Automatically by GitHub Actions
+Manually
 on
-2024-10-07
+2024-10-09
 </em>
 </sup>
 </sub>
