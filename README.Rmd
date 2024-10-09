@@ -572,10 +572,20 @@ build_doi_badge = function(doi) {
   }
 }
 
+# add global container to store citations per article
+cites_df <<- NULL
+
+# function to return HTML code creating a <details> dropdown with all article information
 article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi = NULL) {
   
   # prepare the bibliographic data
   bib_data = prep_bibentry(key)
+  
+  # add citation counts for this article to global object
+  cites_df <<- rbind(
+    cites_df,
+    data.frame(year = bib_data$year, key = key, cross_ref = bib_data$cites_crossref, gscholar = bib_data$cites_gscholar)
+  )
   
   # set the lock image to use
   if (open_access) {
@@ -808,15 +818,11 @@ article_details(
 ## Citations
 
 ```{r cite-counts}
-# prepare citation counts per article
-bib_df = as.data.frame(bib)
-bib_df = data.frame(year = bib_df[,c("year")], key = rownames(bib_df))
-bib_df = bib_df[order(bib_df$year),]
-cite_counts = t(sapply(bib_df$key, function(key) {out = prep_bibentry(key); c(cross_ref = out$cites_crossref, gscholar = out$cites_gscholar)}))
-bib_df = cbind(bib_df, cite_counts)
-bib_df[is.na(bib_df)] = 0
-bib_df$year = as.numeric(bib_df$year)
-bib_df$year = factor(bib_df$year, levels = min(bib_df$year):max(bib_df$year))
+# format citation counts data frame
+cites_df = cites_df[order(cites_df$year),]
+cites_df[is.na(cites_df)] = 0
+cites_df$year = as.numeric(cites_df$year)
+cites_df$year = factor(cites_df$year, levels = min(cites_df$year, na.rm = TRUE):max(cites_df$year, na.rm = TRUE))
 
 # function to build a table reporting cumulative citations on articles published each year
 cites_table = function(df) {
@@ -866,9 +872,9 @@ _This section contains summaries of citations made on research articles I've (co
  <summary>Click to View</summary>
 
 ```{r cite-tables-lead-articles}
-my_bib_df = bib_df[stringr::str_detect(bib_df$key, "^staton"),]
-cites_table(my_bib_df)
-h_index_table(my_bib_df)
+my_cites_df = cites_df[stringr::str_detect(cites_df$key, "^staton"),]
+cites_table(my_cites_df)
+h_index_table(my_cites_df)
 ```
 
 </details>
@@ -879,8 +885,8 @@ h_index_table(my_bib_df)
  <summary>Click to View</summary>
 
 ```{r cite-tables-all-articles}
-cites_table(bib_df)
-h_index_table(bib_df)
+cites_table(cites_df)
+h_index_table(cites_df)
 ```
 
 </details>
