@@ -475,10 +475,10 @@ my_em = function(x) {
 }
 
 my_name_strong = function(x) {
-  stringr::str_replace(x, "B. A. Staton", "<strong>B. A. Staton</strong>") |>
-    stringr::str_replace("Staton, B. A,", "<strong>Staton, B. A,</strong>") |>
-    stringr::str_replace("Staton, B,", "<strong>Staton, B,</strong>") |>
-    stringr::str_replace("B. Staton", "<strong>B. Staton</strong>")
+  stringr::str_replace(x, "B. A. Staton", "<strong><ins>B. A. Staton</ins></strong>") |>
+    stringr::str_replace("Staton, B. A.,", "<strong><ins>Staton, B. A.</ins></strong>,") |>
+    stringr::str_replace("Staton, B.,", "<strong><ins>Staton, B.</ins></strong>,") |>
+    stringr::str_replace("B. Staton", "<strong><ins>B. Staton</ins></strong>")
 }
 
 prep_bibentry = function(key) {
