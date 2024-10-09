@@ -641,15 +641,29 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
 }
 ```
 
-<!-- ### In Press -->
+### In Press
 
 ```{r in-press-articles}
-
+# KuskoHarvEst-ms
+article_details(
+  key = "staton-etal-InPress",
+  open_access = TRUE,
+  code_repo = "bstaton1/KuskoHarvEst-ms-analysis",
+  code_doi = "10.5281/10369148"
+)
 ```
 
 ### 2024
 
 ```{r 2024-articles, eval = params$do_2024_article_details}
+# Drivers of Chinook salmon productivity variability with Megan et al.
+article_details(
+  key = "feddern-etal-2024",
+  open_access = TRUE,
+  code_repo = "mfeddern/Yukon-KuskokwimChinook",
+  code_doi = "10.5281/zenodo.1369302"
+)
+
 # Shoreline Rotenone Paper with Tyler
 article_details(
   key = "coleman-etal-2024",
