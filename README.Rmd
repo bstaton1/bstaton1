@@ -561,10 +561,10 @@ build_journal_info = function(bib_data) {
   return(out)
 }
 
-build_doi_badge = function(doi) {
+build_doi_badge = function(doi, text = NULL) {
   if (!is.null(doi)) {
     url = paste0("https://doi.org/", doi)
-    badge = paste0("https://zenodo.org/badge/DOI/", doi, ".svg")
+    badge = paste0("https://img.shields.io/badge/", ifelse(!is.null(text), paste0(text, "-"), ""), stringr::str_replace_all(doi, "-", "--"), "-blue?logo=doi&logoColor=f5f5f5")
     a(href = url, img(src = badge, alt = "DOI"))
   }
 }
@@ -598,7 +598,7 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
   }
   
   if (!is.null(code_doi)) {
-    archive = tagList(strong("Archive:"), build_doi_badge(code_doi))
+    archive = tagList(strong("Archive:"), build_doi_badge(code_doi, "Code"))
   } else {
     archive = tagList(strong("Archive:"), "Not Available")
   }
@@ -610,7 +610,7 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
     tags$ul(
       tagList(book_img, strong(em("JOURNAL"))),
       tags$ul(
-        p(build_journal_name(bib_data), build_journal_info(bib_data), br(), build_doi_badge(bib_data$doi))
+        p(build_journal_name(bib_data), build_journal_info(bib_data), br(), build_doi_badge(bib_data$doi, "Article"))
       ),
       
       tagList(users_img, strong(em("AUTHORS"))),
