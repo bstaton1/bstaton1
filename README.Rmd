@@ -500,15 +500,12 @@ prep_bibentry = function(key) {
     stringr::str_remove(" \\([:digit:]")
   
   # extract the title: do it this way so capitalization and {} are handled properly
-  # title = stringr::str_extract(str_bib, "“.+”") |>
-  #   substr(2, nchar(.)-1)
   title = stringr::str_extract(str_bib, "\\). .+In\\:") |>
     stringr::str_remove("\\). ") |>
     stringr::str_remove(" In\\:$")
   title = substr(title, 2, nchar(title) - 2)
-
-  # extract the abstract from online
-  # abstract = tryCatch(rcrossref::cr_abstract(this_bib$doi), error = function(e) "Abstract not found on CrossRef. Consult the DOI link shown above for the abstract.")
+  
+  # extract/format the abstract
   abstract = this_bib$abstract
   abstract = stringr::str_replace_all(abstract, "\\\\textendash ",  "&#8211;")
   abstract = stringr::str_replace_all(abstract, "\\\\textdegree ",  "&#176;")
