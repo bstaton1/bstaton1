@@ -701,7 +701,7 @@ NA
 8
 <br/>
 <strong>Google Scholar: </strong>
-11
+12
 </ul>
 </ul>
 <hr/>
@@ -1137,7 +1137,7 @@ Not Available
 12
 <br/>
 <strong>Google Scholar: </strong>
-22
+23
 </ul>
 </ul>
 <hr/>
@@ -1227,7 +1227,7 @@ Not Available
 8
 <br/>
 <strong>Google Scholar: </strong>
-10
+11
 </ul>
 </ul>
 <hr/>
@@ -1854,7 +1854,7 @@ because those counts also include citations of grey literature I’ve
 <summary>
 Click to View
 </summary>
-<table class="table" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2">
@@ -1945,7 +1945,7 @@ Google Scholar
 8
 </td>
 <td style="text-align:center;">
-10
+11
 </td>
 </tr>
 <tr>
@@ -2029,7 +2029,7 @@ All
 42
 </td>
 <td style="text-align:center;font-weight: bold;">
-80
+81
 </td>
 </tr>
 </tbody>
@@ -2071,7 +2071,7 @@ Google Scholar
 <summary>
 Click to View
 </summary>
-<table class="table" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2">
@@ -2162,7 +2162,7 @@ Google Scholar
 20
 </td>
 <td style="text-align:center;">
-33
+34
 </td>
 </tr>
 <tr>
@@ -2176,7 +2176,7 @@ Google Scholar
 22
 </td>
 <td style="text-align:center;">
-35
+36
 </td>
 </tr>
 <tr>
@@ -2190,7 +2190,7 @@ Google Scholar
 32
 </td>
 <td style="text-align:center;">
-42
+43
 </td>
 </tr>
 <tr>
@@ -2246,7 +2246,7 @@ All
 97
 </td>
 <td style="text-align:center;font-weight: bold;">
-170
+173
 </td>
 </tr>
 </tbody>
@@ -2315,9 +2315,9 @@ Ben Staton under the
 <sup>
 <em>
 Updated
-Manually
+Automatically by GitHub Actions
 on
-2024-10-09
+2024-10-14
 </em>
 </sup>
 </sub>
