@@ -518,6 +518,7 @@ prep_bibentry = function(key) {
   abstract = stringr::str_replace_all(abstract, "Tbreadth", "<em>T</em><sub>breadth</sub>")
   abstract = stringr::str_replace_all(abstract, "\\{\\$<\\$\\}", "&#60;")
   abstract = stringr::str_replace_all(abstract, "\\\\%", "%")
+  abstract = stringr::str_replace_all(abstract, "SMSY", "S<sub>MSY</sub>")
   
   # obtain the citation count: cross ref
   cites_crossref = rcrossref::cr_citation_count(this_bib$doi)$count
