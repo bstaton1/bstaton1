@@ -646,6 +646,14 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
 ```{r in-press-articles}
 # KuskoHarvEst-ms
 article_details(
+  key = "ohlberger-etal-InPress",
+  open_access = FALSE,
+  code_repo = "janohlberger/SizeShiftsImplications",
+  code_doi = NULL
+)
+
+# KuskoHarvEst-ms
+article_details(
   key = "staton-etal-InPress",
   open_access = TRUE,
   code_repo = "bstaton1/KuskoHarvEst-ms-analysis",
