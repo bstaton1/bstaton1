@@ -257,7 +257,7 @@ Not Available
 0
 <br/>
 <strong>Google Scholar: </strong>
-NA
+0
 </ul>
 </ul>
 <hr/>
@@ -1219,7 +1219,7 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-13
+12
 <br/>
 <strong>Google Scholar: </strong>
 25
@@ -1939,7 +1939,7 @@ because those counts also include citations of grey literature I’ve
 <summary>
 Click to View
 </summary>
-<table class="table" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2">
@@ -2156,7 +2156,7 @@ Google Scholar
 <summary>
 Click to View
 </summary>
-<table class="table" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2">
@@ -2258,7 +2258,7 @@ Google Scholar
 3
 </td>
 <td style="text-align:center;">
-24
+23
 </td>
 <td style="text-align:center;">
 38
@@ -2328,7 +2328,7 @@ All
 20
 </td>
 <td style="text-align:center;font-weight: bold;">
-103
+102
 </td>
 <td style="text-align:center;font-weight: bold;">
 180
@@ -2400,9 +2400,9 @@ Ben Staton under the
 <sup>
 <em>
 Updated
-Manually
+Automatically by GitHub Actions
 on
-2024-11-25
+2024-12-02
 </em>
 </sup>
 </sub>
