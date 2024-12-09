@@ -1219,7 +1219,7 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-12
+13
 <br/>
 <strong>Google Scholar: </strong>
 25
@@ -2258,7 +2258,7 @@ Google Scholar
 3
 </td>
 <td style="text-align:center;">
-23
+24
 </td>
 <td style="text-align:center;">
 38
@@ -2328,7 +2328,7 @@ All
 20
 </td>
 <td style="text-align:center;font-weight: bold;">
-102
+103
 </td>
 <td style="text-align:center;font-weight: bold;">
 180
@@ -2402,7 +2402,7 @@ Ben Staton under the
 Updated
 Automatically by GitHub Actions
 on
-2024-12-02
+2024-12-09
 </em>
 </sup>
 </sub>
