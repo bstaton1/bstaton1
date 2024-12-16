@@ -17,6 +17,8 @@ params:
     value: TRUE
   do_2024_article_details:
     value: TRUE
+  do_2025_article_details:
+    value: TRUE
 always_allow_html: TRUE
 ---
 
@@ -647,18 +649,22 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
 ```{r in-press-articles}
 # KuskoHarvEst-ms
 article_details(
-  key = "ohlberger-etal-InPress",
-  open_access = FALSE,
-  code_repo = "janohlberger/SizeShiftsImplications",
-  code_doi = NULL
-)
-
-# KuskoHarvEst-ms
-article_details(
   key = "staton-etal-InPress",
   open_access = TRUE,
   code_repo = "bstaton1/KuskoHarvEst-ms-analysis",
   code_doi = "10.5281/10369148"
+)
+```
+
+### 2025
+
+```{r 2025-articles, eval = params$do_2025_article_details}
+# ohlberger escapement quality simulation paper
+article_details(
+  key = "ohlberger-etal-2025",
+  open_access = FALSE,
+  code_repo = "janohlberger/SizeShiftsImplications",
+  code_doi = NULL
 )
 ```
 
