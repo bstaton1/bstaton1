@@ -180,91 +180,6 @@ details.
 <details>
 <summary>
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
-</picture>
-<strong>Accounting for Salmon Body Size Declines in Fishery Management Can Reduce Conservation Risks</strong>
-</summary>
-<p></p>
-<ul>
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"/>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg" height="15"/>
-</picture>
-<strong>
-<em>JOURNAL</em>
-</strong>
-<ul>
-<p>
-<em>Fish and Fisheries,</em>
-In Press
-<br/>
-<a href="https://doi.org/10.1111/faf.12869">
-<img src="https://img.shields.io/badge/Article-10.1111/faf.12869-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
-</a>
-</p>
-</ul>
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"/>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg" height="15"/>
-</picture>
-<strong>
-<em>AUTHORS</em>
-</strong>
-<ul>
-<p>Ohlberger, J., D. E. Schindler, and <strong><ins>B. A. Staton</ins></strong></p>
-</ul>
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg" height="15"/>
-</picture>
-<strong>
-<em>ABSTRACT</em>
-</strong>
-<ul>
-<p align="justify">Changes in population demographic structure can have tangible but unknown effects on management effectiveness. Fishery management of Pacific salmon is often informed by estimates of the number of spawners expected to produce maximum sustainable yield (S<sub>MSY</sub>), implicitly assuming that reproductive output per spawner does not change over time. However, many salmon populations have experienced long-term trends in age, sex and length compositions that have resulted in smaller body sizes of mature fish. We present an empirically based simulation approach for evaluating management implications of declining reproductive output resulting from shifting demographics. We simulated populations with or without demographic trends, selective or unselective harvests, and harvest policies based on assessment methods that did or did not account explicitly for demographic trends when estimating S<sub>MSY</sub>. A management strategy evaluation showed reduced expected harvests and run sizes when populations exhibited negative demographic trends. Reduced abundances and increased conservation risks (higher probability of falling below an abundance threshold) could be partially mitigated by using stock-recruitment analyses based on total egg mass instead of spawner abundance, or via precautionary management where target escapements were higher than S<sub>MSY</sub>, especially in fisheries that selectively removed large fish. Explicit accounting of demographic trends in stock-recruit analyses resulted in up to 25% higher run sizes and up to 20% lower conservation risks compared to traditional methods when trends toward smaller, younger and male-biased runs were present in the population. Conservation of population demographic structure may be critical for sustaining productive fish populations and their benefits to ecosystems and people.</p>
-</ul>
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"/>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg" height="15"/>
-</picture>
-<strong>
-<em>CODE/DATA</em>
-</strong>
-<ul>
-<strong>Repository:</strong>
-<a href="https://github.com/janohlberger/SizeShiftsImplications">janohlberger/SizeShiftsImplications</a>
-<br/>
-<strong>Archive:</strong>
-Not Available
-</ul>
-<p></p>
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg"/>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg"/>
-<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg" height="15"/>
-</picture>
-<strong>
-<em>CITATIONS</em>
-</strong>
-<ul>
-<strong>Crossref: </strong>
-0
-<br/>
-<strong>Google Scholar: </strong>
-0
-</ul>
-</ul>
-<hr/>
-</details>
-<details>
-<summary>
-<picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/>
 <img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/>
@@ -329,6 +244,94 @@ In Press
 <a href="https://doi.org/10.5281/10369148">
 <img src="https://img.shields.io/badge/Code-10.5281/10369148-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
 </a>
+</ul>
+<p></p>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg" height="15"/>
+</picture>
+<strong>
+<em>CITATIONS</em>
+</strong>
+<ul>
+<strong>Crossref: </strong>
+0
+<br/>
+<strong>Google Scholar: </strong>
+0
+</ul>
+</ul>
+<hr/>
+</details>
+
+### 2025
+
+<details>
+<summary>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock.svg" height="15"/>
+</picture>
+<strong>Accounting for Salmon Body Size Declines in Fishery Management Can Reduce Conservation Risks</strong>
+</summary>
+<p></p>
+<ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg" height="15"/>
+</picture>
+<strong>
+<em>JOURNAL</em>
+</strong>
+<ul>
+<p>
+<em>Fish and Fisheries,</em>
+26(1): 113-130
+<br/>
+<a href="https://doi.org/10.1111/faf.12869">
+<img src="https://img.shields.io/badge/Article-10.1111/faf.12869-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
+</a>
+</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg" height="15"/>
+</picture>
+<strong>
+<em>AUTHORS</em>
+</strong>
+<ul>
+<p>Ohlberger, J., D. E. Schindler, and <strong><ins>B. A. Staton</ins></strong></p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg" height="15"/>
+</picture>
+<strong>
+<em>ABSTRACT</em>
+</strong>
+<ul>
+<p align="justify">Changes in population demographic structure can have tangible but unknown effects on management effectiveness. Fishery management of Pacific salmon is often informed by estimates of the number of spawners expected to produce maximum sustainable yield (S<sub>MSY</sub>), implicitly assuming that reproductive output per spawner does not change over time. However, many salmon populations have experienced long-term trends in age, sex and length compositions that have resulted in smaller body sizes of mature fish. We present an empirically based simulation approach for evaluating management implications of declining reproductive output resulting from shifting demographics. We simulated populations with or without demographic trends, selective or unselective harvests, and harvest policies based on assessment methods that did or did not account explicitly for demographic trends when estimating S<sub>MSY</sub>. A management strategy evaluation showed reduced expected harvests and run sizes when populations exhibited negative demographic trends. Reduced abundances and increased conservation risks (higher probability of falling below an abundance threshold) could be partially mitigated by using stock-recruitment analyses based on total egg mass instead of spawner abundance, or via precautionary management where target escapements were higher than S<sub>MSY</sub>, especially in fisheries that selectively removed large fish. Explicit accounting of demographic trends in stock-recruit analyses resulted in up to 25% higher run sizes and up to 20% lower conservation risks compared to traditional methods when trends toward smaller, younger and male-biased runs were present in the population. Conservation of population demographic structure may be critical for sustaining productive fish populations and their benefits to ecosystems and people.</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg" height="15"/>
+</picture>
+<strong>
+<em>CODE/DATA</em>
+</strong>
+<ul>
+<strong>Repository:</strong>
+<a href="https://github.com/janohlberger/SizeShiftsImplications">janohlberger/SizeShiftsImplications</a>
+<br/>
+<strong>Archive:</strong>
+Not Available
 </ul>
 <p></p>
 <picture>
@@ -1939,7 +1942,7 @@ because those counts also include citations of grey literature I’ve
 <summary>
 Click to View
 </summary>
-<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="table" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2">
@@ -2156,7 +2159,7 @@ Google Scholar
 <summary>
 Click to View
 </summary>
-<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="table" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2">
@@ -2400,7 +2403,7 @@ Ben Staton under the
 <sup>
 <em>
 Updated
-Automatically by GitHub Actions
+Manually
 on
 2024-12-16
 </em>
