@@ -522,7 +522,7 @@ Not Available
 0
 <br/>
 <strong>Google Scholar: </strong>
-1
+2
 </ul>
 </ul>
 <hr/>
@@ -789,7 +789,7 @@ NA
 10
 <br/>
 <strong>Google Scholar: </strong>
-15
+16
 </ul>
 </ul>
 <hr/>
@@ -871,7 +871,7 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-17
+18
 <br/>
 <strong>Google Scholar: </strong>
 23
@@ -1222,7 +1222,7 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-14
+15
 <br/>
 <strong>Google Scholar: </strong>
 27
@@ -1312,7 +1312,7 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-8
+9
 <br/>
 <strong>Google Scholar: </strong>
 11
@@ -1399,7 +1399,7 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-13
+14
 <br/>
 <strong>Google Scholar: </strong>
 23
@@ -1489,7 +1489,7 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-3
+5
 <br/>
 <strong>Google Scholar: </strong>
 12
@@ -2016,7 +2016,7 @@ Google Scholar
 1
 </td>
 <td style="text-align:center;">
-3
+5
 </td>
 <td style="text-align:center;">
 12
@@ -2030,7 +2030,7 @@ Google Scholar
 1
 </td>
 <td style="text-align:center;">
-8
+9
 </td>
 <td style="text-align:center;">
 11
@@ -2114,7 +2114,7 @@ All
 7
 </td>
 <td style="text-align:center;font-weight: bold;">
-44
+47
 </td>
 <td style="text-align:center;font-weight: bold;">
 82
@@ -2233,7 +2233,7 @@ Google Scholar
 2
 </td>
 <td style="text-align:center;">
-4
+6
 </td>
 <td style="text-align:center;">
 17
@@ -2247,7 +2247,7 @@ Google Scholar
 2
 </td>
 <td style="text-align:center;">
-21
+23
 </td>
 <td style="text-align:center;">
 34
@@ -2261,7 +2261,7 @@ Google Scholar
 3
 </td>
 <td style="text-align:center;">
-25
+26
 </td>
 <td style="text-align:center;">
 40
@@ -2275,10 +2275,10 @@ Google Scholar
 3
 </td>
 <td style="text-align:center;">
-37
+38
 </td>
 <td style="text-align:center;">
-52
+53
 </td>
 </tr>
 <tr>
@@ -2306,7 +2306,7 @@ Google Scholar
 1
 </td>
 <td style="text-align:center;">
-1
+2
 </td>
 </tr>
 <tr>
@@ -2331,10 +2331,10 @@ All
 20
 </td>
 <td style="text-align:center;font-weight: bold;">
-108
+114
 </td>
 <td style="text-align:center;font-weight: bold;">
-186
+188
 </td>
 </tr>
 </tbody>
@@ -2405,7 +2405,7 @@ Ben Staton under the
 Updated
 Automatically by GitHub Actions
 on
-2025-01-20
+2025-01-27
 </em>
 </sup>
 </sub>
