@@ -789,7 +789,7 @@ NA
 10
 <br/>
 <strong>Google Scholar: </strong>
-16
+17
 </ul>
 </ul>
 <hr/>
@@ -874,7 +874,7 @@ Not Available
 19
 <br/>
 <strong>Google Scholar: </strong>
-27
+28
 </ul>
 </ul>
 <hr/>
@@ -1402,7 +1402,7 @@ Not Available
 15
 <br/>
 <strong>Google Scholar: </strong>
-24
+25
 </ul>
 </ul>
 <hr/>
@@ -2250,7 +2250,7 @@ Google Scholar
 24
 </td>
 <td style="text-align:center;">
-36
+37
 </td>
 </tr>
 <tr>
@@ -2278,7 +2278,7 @@ Google Scholar
 40
 </td>
 <td style="text-align:center;">
-59
+61
 </td>
 </tr>
 <tr>
@@ -2334,7 +2334,7 @@ All
 123
 </td>
 <td style="text-align:center;font-weight: bold;">
-203
+206
 </td>
 </tr>
 </tbody>
@@ -2405,7 +2405,7 @@ Ben Staton under the
 Updated
 Automatically by GitHub Actions
 on
-2025-03-24
+2025-03-31
 </em>
 </sup>
 </sub>
