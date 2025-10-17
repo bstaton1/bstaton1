@@ -1,5 +1,5 @@
 
-<!-- This document was created by knitting the Rmarkdown file README.rmd -->
+<!-- This .md document was created by knitting the Rmarkdown file README.rmd -->
 <h1 align="center">Welcome to My GitHub Profile</h1>
 <h3 align="center">I'm a Quantitative Fisheries Scientist</h3>
 <p align="center">
@@ -175,8 +175,269 @@ details.
 <em>denote open-access and paywall articles, respectively.</em>
 </p>
 
-### In Press
+### 2025
 
+<details>
+<summary>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/>
+</picture>
+<strong>A State-Space Model to Quantify Density Dependence, Demographic Heterogeneity, and Spatial Synchrony in Grande Ronde Basin Chinook Salmon Populations</strong>
+</summary>
+<p></p>
+<ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg" height="15"/>
+</picture>
+<strong>
+<em>JOURNAL</em>
+</strong>
+<ul>
+<p>
+<em>Ecological Modelling,</em>
+510: 111289
+<br/>
+<a href="https://doi.org/10.1016/j.ecolmodel.2025.111289">
+<img src="https://img.shields.io/badge/Article-10.1016/j.ecolmodel.2025.111289-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
+</a>
+</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg" height="15"/>
+</picture>
+<strong>
+<em>AUTHORS</em>
+</strong>
+<ul>
+<p><strong><ins>Staton, B. A.</ins></strong>, P. P. Gibson, M. Liermann, C. Justice, M. J. Kaylor, R. Sharma, and S. M. White</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg" height="15"/>
+</picture>
+<strong>
+<em>ABSTRACT</em>
+</strong>
+<ul>
+<p align="justify">Pacific salmon face different mortality sources throughout life, requiring monitoring and modeling at various life stages to understand the relative influences of regulating processes. For example, density dependence may be important for freshwater juveniles, whereas ocean conditions may drive later-life outcomes; in addition, delayed effects further complicate these phenomena. State-space models offer a flexible and robust approach to analyze these complexities when faced with uncertain data. We constructed a state-space model for Grande Ronde Basin (NE Oregon, USA) spring Chinook salmon (<em>Oncorhynchus tshawytscha</em>) that tracks the abundance of ∼30 cohorts from 4 populations, modeling variability in freshwater juvenile growth and survival using density-dependent relationships and stochastic process noise that acknowledges synchronous dynamics. Model substructures include rearing origin setting (i.e., natural vs. hatchery), juvenile life history type, and adult age-of-return to account for heterogeneity at these scales. The model was fitted to empirical information collected by a variety of monitoring projects and included an index of freshwater habitat capacity to scale density-dependent processes. We found evidence of early-life density-dependent survival and growth, with subsequent over-wintering and out-migration survival mediated by early-life growth rates. Rearing capacity and growth rates showed positive, though uncertain, relationships with the habitat index. Life stage-specific covariances were overwhelmingly positive, indicating among-population synchronous dynamics throughout life. Post-hoc analyses showed juvenile life history diversity is important for increasing productivity and that increasing habitat availability would reduce density dependence. Model posteriors reflect current understanding of life cycle dynamics for these populations which can parameterize simulations of future population status.</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg" height="15"/>
+</picture>
+<strong>
+<em>CODE/DATA</em>
+</strong>
+<ul>
+<strong>Repository:</strong>
+<a href="https://github.com/bstaton1/GR-sslcm">bstaton1/GR-sslcm</a>
+<br/>
+<strong>Archive:</strong>
+<a href="https://doi.org/10.5281/zenodo.16748911">
+<img src="https://img.shields.io/badge/Code-10.5281/zenodo.16748911-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
+</a>
+</ul>
+<p></p>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg" height="15"/>
+</picture>
+<strong>
+<em>CITATIONS</em>
+</strong>
+<ul>
+<strong>Crossref: </strong>
+0
+<br/>
+<strong>Google Scholar: </strong>
+NA
+</ul>
+</ul>
+<hr/>
+</details>
+<details>
+<summary>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/>
+</picture>
+<strong>Evaluating the Long-term Per Capita Productivity Benefits and Associated Costs of Supplementation in Upper Yakima River Chinook Salmon</strong>
+</summary>
+<p></p>
+<ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg" height="15"/>
+</picture>
+<strong>
+<em>JOURNAL</em>
+</strong>
+<ul>
+<p>
+<em>Canadian Journal of Fisheries and Aquatic Sciences,</em>
+82: 1-17
+<br/>
+<a href="https://doi.org/10.1139/cjfas-2024-0289">
+<img src="https://img.shields.io/badge/Article-10.1139/cjfas--2024--0289-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
+</a>
+</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg" height="15"/>
+</picture>
+<strong>
+<em>AUTHORS</em>
+</strong>
+<ul>
+<p>Koch, I. J., <strong><ins>B. A. Staton</ins></strong>, H. M. Nuetzel, T. R. Seamons, A. P. Matala, K. I. Warheit, M. V. Johnston, C. R. Strom, S. R. Narum, and W. J. Bosch</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg" height="15"/>
+</picture>
+<strong>
+<em>ABSTRACT</em>
+</strong>
+<ul>
+<p align="justify">Numerous studies in salmonids have demonstrated a fitness cost of producing and releasing hatchery-origin fish into the natural environment. One approach to reduce these fitness costs is to incorporate natural-origin fish into the hatchery broodstock, but this is not always feasible and may not consistently buffer against domestication. In this study, we used 15 years of spawning and genetic data from the upper Yakima River spring Chinook salmon (<em>Oncorhynchus tshawytscha</em>) population to successfully assign approximately 50 000 returning adult progeny to their parents, allowing us to reconstruct a two-generation pedigree and evaluate reproductive success (RS). We identified consistently lower RS of hatchery-origin compared to natural-origin fish when spawning in nature. However, the hatchery broodstock demonstrated higher per capita productivity than natural spawners into the second generation even after accounting for lower RS by hatchery-origin progeny in the intermediate generation. We also identified fork length and returning timing, in addition to origin, as important components of individual RS in this population. We then discuss the significance of these results in the context of future salmonid supplementation studies.</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg" height="15"/>
+</picture>
+<strong>
+<em>CODE/DATA</em>
+</strong>
+<ul>
+<strong>Repository:</strong>
+<a href="https://github.com/bstaton1/Yakima-RRS">bstaton1/Yakima-RRS</a>
+<br/>
+<strong>Archive:</strong>
+<a href="https://doi.org/10.5281/zenodo.13738201">
+<img src="https://img.shields.io/badge/Code-10.5281/zenodo.13738201-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
+</a>
+</ul>
+<p></p>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg" height="15"/>
+</picture>
+<strong>
+<em>CITATIONS</em>
+</strong>
+<ul>
+<strong>Crossref: </strong>
+0
+<br/>
+<strong>Google Scholar: </strong>
+0
+</ul>
+</ul>
+<hr/>
+</details>
+<details>
+<summary>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/lock-open.svg" height="15"/>
+</picture>
+<strong>In-Season Predictions of Daily Harvest for Lower Kuskokwim River Subsistence Salmon Fisheries</strong>
+</summary>
+<p></p>
+<ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book.svg" height="15"/>
+</picture>
+<strong>
+<em>JOURNAL</em>
+</strong>
+<ul>
+<p>
+<em>North American Journal of Fisheries Management,</em>
+45(5): 779-794
+<br/>
+<a href="https://doi.org/10.1093/najfmt/vqaf055">
+<img src="https://img.shields.io/badge/Article-10.1093/najfmt/vqaf055-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
+</a>
+</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/users.svg" height="15"/>
+</picture>
+<strong>
+<em>AUTHORS</em>
+</strong>
+<ul>
+<p><strong><ins>Staton, B. A.</ins></strong>, W. R. Bechtol, L. G. Coggins Jr., and G. Decossas</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/book-reader.svg" height="15"/>
+</picture>
+<strong>
+<em>ABSTRACT</em>
+</strong>
+<ul>
+<p align="justify"><b>Objective:</b> Reliable expectations of outcomes are critical for successfully selecting among candidate actions. Accordingly, we sought to develop models for predicting fishery outcomes from daily drift gill-net openers in the lower Kuskokwim River subsistence salmon fishery in rural western Alaska.<br><b>Methods:</b> We calculated response variables that summarized fishery outcomes for each of 40 daily openers during 2016–2023, including trips per day, total salmon catch per trip, and species composition. We constructed regression models to predict these variables from attributes of the opener (time of season, time of day, duration), in-river run conditions at the time of the opener (as measured by a CPUE index collected daily independent of the harvest fishery), and local weather and water conditions. We used model averaging based on Akaike’s information criterion corrected for small sample size, and we predicted harvest by multiplying predicted response variables. We assessed the reliability of the approach using leave-one-out cross validation.<br><b>Results:</b> Day of the season was a critical explanatory variable for trips per day, catch per trip, and Chinook Salmon <em>Oncorhynchus tshawytscha</em> percent composition but was less important for predicting composition of Chum Salmon <em>O. keta</em> or Sockeye Salmon <em>O. nerka</em>. Fishery-independent total CPUE was not as useful for predicting fishery catch rates as anticipated, but fishery-independent species composition information from the current year was very important in explaining variability for the fishery. Weather and water condition variables were not retained in the final analysis after we found a lack of any meaningful predictive utility. Reliability of harvest predictions varied by species and period of the season; however, cross validation indicated that predictions were of sufficient quality to be useful in decision making (median absolute percent error ranged from 24% to 30% for Chinook Salmon and showed a general lack of directionality).<br><b>Conclusions:</b> We believe that this model could lead to more informed decision making via explicit predictions grounded in past experience. However, some care should be taken to ensure that the model is not used in cases of excessive extrapolation.Daily outcomes for the lower Kuskokwim River subsistence salmon fishery were reliably predicted based on aspects of the opener (e.g., time of season and duration) and fishery-independent indices of current-year run conditions, potentially reducing uncertainty about future openers.</p>
+</ul>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/code.svg" height="15"/>
+</picture>
+<strong>
+<em>CODE/DATA</em>
+</strong>
+<ul>
+<strong>Repository:</strong>
+<a href="https://github.com/bstaton1/KuskoHarvPred-ms-analysis">bstaton1/KuskoHarvPred-ms-analysis</a>
+<br/>
+<strong>Archive:</strong>
+<a href="https://doi.org/10.5281/zenodo.13293677">
+<img src="https://img.shields.io/badge/Code-10.5281/zenodo.13293677-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
+</a>
+</ul>
+<p></p>
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bstaton1/bstaton1/master/assets/comment.svg" height="15"/>
+</picture>
+<strong>
+<em>CITATIONS</em>
+</strong>
+<ul>
+<strong>Crossref: </strong>
+0
+<br/>
+<strong>Google Scholar: </strong>
+NA
+</ul>
+</ul>
+<hr/>
+</details>
 <details>
 <summary>
 <picture>
@@ -199,7 +460,7 @@ details.
 <ul>
 <p>
 <em>Canadian Journal of Fisheries and Aquatic Sciences,</em>
-In Press
+82: 118
 <br/>
 <a href="https://doi.org/10.1139/cjfas-2023-0369">
 <img src="https://img.shields.io/badge/Article-10.1139/cjfas--2023--0369-blue?logo=doi&amp;logoColor=f5f5f5" alt="DOI"/>
@@ -256,17 +517,14 @@ In Press
 </strong>
 <ul>
 <strong>Crossref: </strong>
-0
+1
 <br/>
 <strong>Google Scholar: </strong>
-0
+2
 </ul>
 </ul>
 <hr/>
 </details>
-
-### 2025
-
 <details>
 <summary>
 <picture>
@@ -344,10 +602,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-0
+2
 <br/>
 <strong>Google Scholar: </strong>
-0
+2
 </ul>
 </ul>
 <hr/>
@@ -434,7 +692,7 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-2
+4
 <br/>
 <strong>Google Scholar: </strong>
 NA
@@ -522,7 +780,7 @@ Not Available
 0
 <br/>
 <strong>Google Scholar: </strong>
-2
+1
 </ul>
 </ul>
 <hr/>
@@ -609,10 +867,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-5
+8
 <br/>
 <strong>Google Scholar: </strong>
-8
+12
 </ul>
 </ul>
 <hr/>
@@ -696,7 +954,7 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-2
+3
 <br/>
 <strong>Google Scholar: </strong>
 NA
@@ -786,10 +1044,10 @@ NA
 </strong>
 <ul>
 <strong>Crossref: </strong>
-10
+12
 <br/>
 <strong>Google Scholar: </strong>
-17
+18
 </ul>
 </ul>
 <hr/>
@@ -871,10 +1129,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-19
+22
 <br/>
 <strong>Google Scholar: </strong>
-28
+31
 </ul>
 </ul>
 <hr/>
@@ -958,10 +1216,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-11
+15
 <br/>
 <strong>Google Scholar: </strong>
-16
+17
 </ul>
 </ul>
 <hr/>
@@ -1135,10 +1393,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-8
+11
 <br/>
 <strong>Google Scholar: </strong>
-12
+15
 </ul>
 </ul>
 <hr/>
@@ -1222,10 +1480,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-18
+20
 <br/>
 <strong>Google Scholar: </strong>
-29
+34
 </ul>
 </ul>
 <hr/>
@@ -1312,10 +1570,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-9
+13
 <br/>
 <strong>Google Scholar: </strong>
-12
+14
 </ul>
 </ul>
 <hr/>
@@ -1402,7 +1660,7 @@ Not Available
 15
 <br/>
 <strong>Google Scholar: </strong>
-25
+27
 </ul>
 </ul>
 <hr/>
@@ -1489,10 +1747,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-5
+7
 <br/>
 <strong>Google Scholar: </strong>
-13
+14
 </ul>
 </ul>
 <hr/>
@@ -1664,10 +1922,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-5
+6
 <br/>
 <strong>Google Scholar: </strong>
-12
+13
 </ul>
 </ul>
 <hr/>
@@ -1834,7 +2092,7 @@ Not Available
 NA
 <br/>
 <strong>Google Scholar: </strong>
-1
+2
 </ul>
 </ul>
 <hr/>
@@ -1916,10 +2174,10 @@ Not Available
 </strong>
 <ul>
 <strong>Crossref: </strong>
-10
+12
 <br/>
 <strong>Google Scholar: </strong>
-24
+26
 </ul>
 </ul>
 <hr/>
@@ -1988,10 +2246,10 @@ Google Scholar
 2
 </td>
 <td style="text-align:center;">
-15
+18
 </td>
 <td style="text-align:center;">
-36
+39
 </td>
 </tr>
 <tr>
@@ -2016,10 +2274,10 @@ Google Scholar
 1
 </td>
 <td style="text-align:center;">
-5
+7
 </td>
 <td style="text-align:center;">
-13
+14
 </td>
 </tr>
 <tr>
@@ -2030,10 +2288,10 @@ Google Scholar
 1
 </td>
 <td style="text-align:center;">
-9
+13
 </td>
 <td style="text-align:center;">
-12
+14
 </td>
 </tr>
 <tr>
@@ -2044,10 +2302,10 @@ Google Scholar
 1
 </td>
 <td style="text-align:center;">
-8
+11
 </td>
 <td style="text-align:center;">
-12
+15
 </td>
 </tr>
 <tr>
@@ -2058,10 +2316,10 @@ Google Scholar
 1
 </td>
 <td style="text-align:center;">
-11
+15
 </td>
 <td style="text-align:center;">
-16
+17
 </td>
 </tr>
 <tr>
@@ -2097,13 +2355,13 @@ Google Scholar
 2025
 </td>
 <td style="text-align:center;">
+3
+</td>
+<td style="text-align:center;">
 1
 </td>
 <td style="text-align:center;">
-0
-</td>
-<td style="text-align:center;">
-0
+2
 </td>
 </tr>
 <tr>
@@ -2111,13 +2369,13 @@ Google Scholar
 All
 </td>
 <td style="text-align:center;font-weight: bold;">
-7
+9
 </td>
 <td style="text-align:center;font-weight: bold;">
-48
+65
 </td>
 <td style="text-align:center;font-weight: bold;">
-89
+101
 </td>
 </tr>
 </tbody>
@@ -2138,7 +2396,7 @@ h-index
 CrossRef
 </td>
 <td style="text-align:right;">
-5
+6
 </td>
 </tr>
 <tr>
@@ -2159,7 +2417,7 @@ Google Scholar
 <summary>
 Click to View
 </summary>
-<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="table" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="border-bottom:hidden;padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; " colspan="2">
@@ -2205,10 +2463,10 @@ Google Scholar
 4
 </td>
 <td style="text-align:center;">
-15
+18
 </td>
 <td style="text-align:center;">
-37
+41
 </td>
 </tr>
 <tr>
@@ -2233,10 +2491,10 @@ Google Scholar
 2
 </td>
 <td style="text-align:center;">
-6
+8
 </td>
 <td style="text-align:center;">
-18
+19
 </td>
 </tr>
 <tr>
@@ -2247,10 +2505,10 @@ Google Scholar
 2
 </td>
 <td style="text-align:center;">
-24
+28
 </td>
 <td style="text-align:center;">
-37
+41
 </td>
 </tr>
 <tr>
@@ -2261,10 +2519,10 @@ Google Scholar
 3
 </td>
 <td style="text-align:center;">
-29
+34
 </td>
 <td style="text-align:center;">
-44
+52
 </td>
 </tr>
 <tr>
@@ -2275,10 +2533,10 @@ Google Scholar
 3
 </td>
 <td style="text-align:center;">
-40
+49
 </td>
 <td style="text-align:center;">
-61
+66
 </td>
 </tr>
 <tr>
@@ -2289,10 +2547,10 @@ Google Scholar
 2
 </td>
 <td style="text-align:center;">
-7
+11
 </td>
 <td style="text-align:center;">
-8
+12
 </td>
 </tr>
 <tr>
@@ -2303,10 +2561,10 @@ Google Scholar
 2
 </td>
 <td style="text-align:center;">
-2
+4
 </td>
 <td style="text-align:center;">
-2
+1
 </td>
 </tr>
 <tr>
@@ -2314,13 +2572,13 @@ Google Scholar
 2025
 </td>
 <td style="text-align:center;">
-2
+5
 </td>
 <td style="text-align:center;">
-0
+3
 </td>
 <td style="text-align:center;">
-0
+4
 </td>
 </tr>
 <tr>
@@ -2328,13 +2586,13 @@ Google Scholar
 All
 </td>
 <td style="text-align:center;font-weight: bold;">
-20
+23
 </td>
 <td style="text-align:center;font-weight: bold;">
-123
+155
 </td>
 <td style="text-align:center;font-weight: bold;">
-207
+236
 </td>
 </tr>
 </tbody>
@@ -2363,7 +2621,7 @@ CrossRef
 Google Scholar
 </td>
 <td style="text-align:right;">
-10
+11
 </td>
 </tr>
 </tbody>
@@ -2403,9 +2661,9 @@ Ben Staton under the
 <sup>
 <em>
 Updated
-Automatically by GitHub Actions
+Manually
 on
-2025-04-07
+2025-10-17
 </em>
 </sup>
 </sub>
