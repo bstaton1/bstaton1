@@ -57,6 +57,8 @@ em_words = c(
   "M. anguillicaudatus",
   "Oncorhynchus tshawytscha",
   "O. mykiss",
+  "O. keta",
+  "O. nerka",
   "Cyprinella caerulea",
   "Etheostoma brevirostrum",
   "Etheostoma ditrema",
@@ -65,11 +67,10 @@ em_words = c(
   "Piscine orthoreovirus",
   "Micropterus salmoides",
   "Lepomis macrochirus"
-  
   )
 ```
 
-<!-- This document was created by knitting the Rmarkdown file README.rmd -->  
+<!-- This .md document was created by knitting the Rmarkdown file README.rmd -->  
 
 ```{r define-img-objects}
 # specify R objects that store the HTML code to insert one of the icons used.
@@ -644,21 +645,42 @@ article_details = function(key, open_access = FALSE, code_repo = NULL, code_doi 
 }
 ```
 
-### In Press
+### 2025
 
-```{r in-press-articles}
+```{r 2025-articles, eval = params$do_2025_article_details}
+
+# GR-sslcm-ms
+article_details(
+  key = "staton-etal-2025-GR-sslcm",
+  open_access = TRUE,
+  code_repo = "bstaton1/GR-sslcm",
+  code_doi = "10.5281/zenodo.16748911"
+)
+
+# Yakima-RRS
+article_details(
+  key = "koch-etal-2025",
+  open_access = TRUE,
+  code_repo = "bstaton1/Yakima-RRS",
+  code_doi = "10.5281/zenodo.13738201"
+)
+
+# KuskoHarvPred-ms
+article_details(
+  key = "staton-etal-2025-KuskoHarvPred",
+  open_access = TRUE,
+  code_repo = "bstaton1/KuskoHarvPred-ms-analysis",
+  code_doi = "10.5281/zenodo.13293677"
+)
+
 # KuskoHarvEst-ms
 article_details(
-  key = "staton-etal-InPress",
+  key = "staton-etal-2025-KuskoHarvEst",
   open_access = TRUE,
   code_repo = "bstaton1/KuskoHarvEst-ms-analysis",
   code_doi = "10.5281/10369148"
 )
-```
 
-### 2025
-
-```{r 2025-articles, eval = params$do_2025_article_details}
 # ohlberger escapement quality simulation paper
 article_details(
   key = "ohlberger-etal-2025",
